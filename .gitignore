@@ -1,0 +1,18 @@
+# Obsidian workspace/cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Secrets
+.env
+*.key
+*.pem
+credentials/
+secrets/
