@@ -1,10 +1,23 @@
 ---
 type: decision
-status: active
+status: superseded
 project: obsidian-sync
+scope: shared
+domain: general
+sensitivity: internal
+subject_user: null
+confidence: high
+evidence_count: 1
+last_confirmed: 2026-05-19
+review_after: 2026-08-19
+retention: durable
+supersedes: []
+superseded_by: ["[[Recommendation]]"]
 date: 2026-05-11
-tags: [obsidian, git, sync, architecture]
+tags: [obsidian, sync, architecture, superseded]
 ---
+
+> Diese Entscheidung wurde abgelöst durch [[Recommendation]].
 
 # Obsidian Sync Architektur
 
@@ -44,3 +57,7 @@ Besser: Git als primär, Google Drive als Backup-Ziel.
    - iOS: Working Copy oder Obsidian Git Plugin, je nach gewünschter Einfachheit.
    - Android: Obsidian Git Plugin ist meist direkter.
 5. Optional: regelmäßiger Server-Backup-Job nach Google Drive.
+
+## Links
+
+- [[Recommendation]]

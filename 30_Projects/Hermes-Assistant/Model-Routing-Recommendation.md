@@ -2,8 +2,19 @@
 type: decision
 status: proposed
 project: hermes-assistant
+scope: domain
+domain: hermes
+sensitivity: internal
+subject_user: null
+confidence: high
+evidence_count: 1
+last_confirmed: 2026-05-19
+review_after: 2026-08-19
+retention: durable
+supersedes: []
+superseded_by: []
 date: 2026-05-11
-tags: [hermes, models, routing, cost-control, openai-codex]
+tags: [hermes, model-routing, decision]
 ---
 
 # Hermes Model-Routing Empfehlung
@@ -232,3 +243,7 @@ Auxiliary Jobs:          gpt-5.4-mini oder noch günstigerer externer Flash-Anbi
 ```
 
 Nächster Schritt: Default + Auxiliary + Delegation konfigurieren, danach ein paar Tage beobachten und bei Qualitätsproblemen gezielt nachjustieren.
+
+## Links
+
+- [[index]]

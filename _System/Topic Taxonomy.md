@@ -1,3 +1,20 @@
+---
+type: policy
+status: superseded
+scope: shared
+domain: general
+sensitivity: internal
+subject_user: null
+confidence: high
+evidence_count: 1
+last_confirmed: 2026-05-19
+review_after: 2026-08-19
+retention: canonical
+supersedes: []
+superseded_by: ["[[../90_System/TAG-TAXONOMY|TAG-TAXONOMY]]"]
+tags: [legacy, taxonomy, obsidian, policy]
+---
+
 # Topic Taxonomy
 
 This vault uses a stable, *flexibly extendable* topic taxonomy for personal chats and knowledge capture.
@@ -86,3 +103,7 @@ Build a personal "Gedankenpalast" that is:
 - stable over time
 - easy to extend
 - consistent across chat and knowledge base
+
+## Links
+
+- [[../90_System/TAG-TAXONOMY|TAG-TAXONOMY]]

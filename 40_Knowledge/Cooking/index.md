@@ -2,7 +2,7 @@
 type: concept
 status: active
 scope: shared
-domain: general
+domain: rezepte
 sensitivity: internal
 subject_user: null
 confidence: medium
@@ -12,11 +12,9 @@ review_after: 2026-08-19
 retention: durable
 supersedes: []
 superseded_by: []
-tags: [readme, obsidian]
+tags: [index, obsidian, cooking]
 ---
 
-# Legacy Knowledge Folder
+# Cooking Knowledge
 
-Aktuelle Einordnung im Wiki-v2-System: [[40_Knowledge]].
-
-Siehe [[90_System/SCHEMA|SCHEMA]] und [[90_System/LIFECYCLE|LIFECYCLE]].
+- [[Kochwissen]] — Techniken, Patterns, freigegebenes Kochwissen.

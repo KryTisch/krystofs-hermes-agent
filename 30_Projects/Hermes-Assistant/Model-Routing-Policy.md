@@ -2,8 +2,19 @@
 type: decision
 status: active
 project: hermes-assistant
+scope: domain
+domain: hermes
+sensitivity: internal
+subject_user: null
+confidence: high
+evidence_count: 1
+last_confirmed: 2026-05-19
+review_after: 2026-08-19
+retention: durable
+supersedes: []
+superseded_by: []
 date: 2026-05-11
-tags: [hermes, models, routing, agent-policy]
+tags: [hermes, model-routing, decision]
 ---
 
 # Model-Routing Policy
@@ -74,3 +85,7 @@ Ein kleiner Hermes-Router:
 - optional berücksichtigt Chat/Platform/Profile, Task-Typ und historische Kosten.
 
 Das wäre echte automatische Pre-Routing-Logik, nicht nur Selbsteskalation nach Eingang beim Mini-Modell.
+
+## Links
+
+- [[index]]

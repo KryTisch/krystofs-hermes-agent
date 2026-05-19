@@ -1,9 +1,21 @@
 ---
 type: decision
-status: proposed
+status: active
+current: true
 project: obsidian-sync
+scope: shared
+domain: general
+sensitivity: internal
+subject_user: null
+confidence: high
+evidence_count: 1
+last_confirmed: 2026-05-19
+review_after: 2026-08-19
+retention: durable
+supersedes: ["[[Architecture]]"]
+superseded_by: []
 date: 2026-05-11
-tags: [obsidian, sync, git, backup]
+tags: [obsidian, sync, decision, current]
 ---
 
 # Empfehlung: Obsidian Sync als Primärsync, Git als Backup/Versionierung
@@ -81,3 +93,7 @@ Hetzner `/root/obsidian-vault`
 
 Keine Tokens, Passwörter oder privaten Credentials in den Vault.
 Kratos-/Gesundheitsdaten und Daten anderer Personen getrennt halten.
+
+## Links
+
+- [[Architecture]]

@@ -1,22 +1,22 @@
 ---
-type: concept
+type: procedure
 status: active
 scope: shared
 domain: general
 sensitivity: internal
 subject_user: null
-confidence: medium
+confidence: high
 evidence_count: 1
 last_confirmed: 2026-05-19
 review_after: 2026-08-19
 retention: durable
 supersedes: []
 superseded_by: []
-tags: [readme, obsidian]
+tags: [index, obsidian, procedure]
 ---
 
-# Legacy Knowledge Folder
+# Recipe Workflows
 
-Aktuelle Einordnung im Wiki-v2-System: [[40_Knowledge]].
+Rezepte-Workflows, Taxonomie und private/shared Grenzen.
 
-Siehe [[90_System/SCHEMA|SCHEMA]] und [[90_System/LIFECYCLE|LIFECYCLE]].
+- [[../../40_Knowledge/Cooking/Kochwissen|Kochwissen]]

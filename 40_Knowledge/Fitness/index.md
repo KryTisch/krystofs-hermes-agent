@@ -2,7 +2,7 @@
 type: concept
 status: active
 scope: shared
-domain: general
+domain: kratos
 sensitivity: internal
 subject_user: null
 confidence: medium
@@ -12,11 +12,9 @@ review_after: 2026-08-19
 retention: durable
 supersedes: []
 superseded_by: []
-tags: [readme, obsidian]
+tags: [index, obsidian, fitness]
 ---
 
-# Legacy Knowledge Folder
+# Fitness Knowledge
 
-Aktuelle Einordnung im Wiki-v2-System: [[40_Knowledge]].
-
-Siehe [[90_System/SCHEMA|SCHEMA]] und [[90_System/LIFECYCLE|LIFECYCLE]].
+- [[Training-Methodik]] — Shared Kratos-Methodik ohne private Athletendaten.

@@ -1,3 +1,20 @@
+---
+type: policy
+status: superseded
+scope: shared
+domain: general
+sensitivity: internal
+subject_user: null
+confidence: high
+evidence_count: 1
+last_confirmed: 2026-05-19
+review_after: 2026-08-19
+retention: canonical
+supersedes: []
+superseded_by: ["[[../90_System/TAG-TAXONOMY|TAG-TAXONOMY]]"]
+tags: [legacy, taxonomy, obsidian, policy]
+---
+
 # Active Topic Buckets
 
 This note captures the current working set of durable topics inferred from recent conversations and historical usage. It is meant to stay small, stable, and easy to extend.
@@ -71,3 +88,7 @@ Use for:
 - One primary bucket per item.
 - Secondary links only when useful.
 - Mirror these names across Telegram and Obsidian when practical.
+
+## Links
+
+- [[../90_System/TAG-TAXONOMY|TAG-TAXONOMY]]
