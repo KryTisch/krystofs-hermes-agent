@@ -46,6 +46,18 @@ Wiki-v2-Migration ist vollständig durchgezogen. Nächste Session soll nicht wie
 3. Optional: alte `02_Projects`, `03_Knowledge`, `04_Sources`, `05_Outputs`, `_System` nach einer stabilen Sync-/Backup-Phase archivieren oder löschen.
 4. Optional: Vector-/Hybrid-Index erst ab ca. 200-500 kuratierten Nicht-Mirror-Notes erneut prüfen.
 
+## Session-Abschluss 2026-05-19
+
+Krystof hat die Session geschlossen. Alles Relevante für morgen ist gesichert:
+
+- Migrationsstand im Plan: [[Wiki-v2-Migration-Plan]] ist `completed`.
+- Lokaler Git-Commit: `5810b17 Complete Wiki v2 migration`.
+- Backup vor Migration: `/root/obsidian-vault-backup-wiki-v2-20260519-204227.tar.gz`.
+- Finaler Health Check: 47/47 Nicht-Rezepte-Notes mit Pflicht-Frontmatter und Wikilinks; 0 Issues; 0 Privacy Alerts; 0 Orphan-Kandidaten.
+- Finaler Report: [[../../80_Outputs/wiki-health-2026-05-19]].
+- Cron Job für regelmäßigen Check: `obsidian-wiki-health-check` (`1d59497bcde9`).
+- Untracked und bewusst nicht Teil der Migration: zwei Rezepte-Mirror-Dateien zu `cottage_cheese_protein_squares_mit_erdnussbutter`.
+
 ## Persistente technische Notiz
 
 Hermes-Patch: `model_switch.py` + `models.py` Patch für lmstudio-Modellliste ist nicht persistent. Bei `hermes update` neu einspielen, solange kein Post-Update-Hook existiert.
