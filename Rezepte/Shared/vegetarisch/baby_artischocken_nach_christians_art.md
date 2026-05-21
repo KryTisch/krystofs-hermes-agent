@@ -78,3 +78,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/baby_artischocken
 ## Meine Notizen
 
 Der Schlüssel ist Frische. Kleine, schmale französische Baby-Artischocken sind ideal. Für die gebratene Variante gilt dieselbe eiserne Küchenregel wie bei Fleisch: nicht drängeln in der Pfanne.
+
+## Verwandte Rezepte
+
+- [[pulposalat]] — Mediterrane Vorspeise, ähnlicher Stil
+- [[roasted_cauliflower_mit_harissa_und_tahini]] — Vegetarisches Gemüsegericht
+- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Vegetarisches Gemüsegericht
+- [[kabeljau_ceviche]] — Elegante Vorspeise als Pendant

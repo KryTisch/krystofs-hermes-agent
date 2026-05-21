@@ -71,3 +71,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/snacks/sesam_wraps_4_zutaten.
 ## Meine Notizen
 
 Psyllium macht die Wraps biegsam und ist gut für die Verdauung. Halten sich mehrere Tage im Kühlschrank. Rezept lässt sich einfach verdoppeln oder verdreifachen.
+
+## Verwandte Rezepte
+
+- [[cottage_cheese_protein_squares_mit_erdnussbutter]] — Protein-Snack-Kategorie
+- [[protein_haferbrei_thermomix]] — Schnelles Essen, protein-reich
+- [[cowboy_butter_mit_cream_cheese]] — Dip als Begleiter
+- [[ezme_tuerkische_paprika_tomaten_paste]] — Dip als Begleiter

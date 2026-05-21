@@ -95,3 +95,10 @@ Den Pulpo unbedingt noch lauwarm in den Salat geben — so nimmt er die Marinade
 - Länderküche: Mediterran
 - Stil: salat, mariniert
 - Aufwand: mittel
+
+## Verwandte Rezepte
+
+- [[kabeljau_ceviche]] — Meeresfrüchte, frisch, mariniert
+- [[baby_artischocken_nach_christians_art]] — Mediterrane Vorspeise
+- [[tuerkischer_gurkensalat]] — Mediterrane Beilage
+- [[ezme_tuerkische_paprika_tomaten_paste]] — Türkisch-mediterrane Paste als Begleiter

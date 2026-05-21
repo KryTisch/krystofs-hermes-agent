@@ -72,3 +72,10 @@ published_at: '2026-05-16T08:12:01+00:00'
 ## Meine Notizen
 
 Mehr Ingwer als im Original — macht es frischer. Glasur erst die letzten 15 min auftragen sonst verbrennt der Honig. Passt gut zu Jasminreis und Pak Choi. Nächstes Mal mit etwas Chili testen.
+
+## Verwandte Rezepte
+
+- [[korean_pork_sticks]] — ebenfalls Schwein mit asiatischer Marinade
+- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Asiatischer Geflügeljus, passt als Saucen-Upgrade
+- [[gurke_wasabi_granit]] — Leichte Beilage dazu
+- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Vegetarische Beilage, Miso-Verbindung

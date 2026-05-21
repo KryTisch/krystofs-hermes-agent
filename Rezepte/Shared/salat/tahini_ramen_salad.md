@@ -77,3 +77,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/salat/tahini_ramen_salad.md
 ## Meine Notizen
 
 Hält sich gut im Kühlschrank — ideal zum Meal Prep. Gemüse je nach Saison variieren. Dressing kann nach Geschmack mit etwas Chiliöl aufgepeppt werden.
+
+## Verwandte Rezepte
+
+- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Tahini-Verbindung, Umami-Gemüse
+- [[roasted_cauliflower_mit_harissa_und_tahini]] — Tahini-Verbindung
+- [[korean_pork_sticks]] — Asiatisches Hauptgericht dazu
+- [[creamy_bucatini_with_roasted_seaweed]] — Noodle-Verbindung

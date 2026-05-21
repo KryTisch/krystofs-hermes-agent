@@ -75,3 +75,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/fermentierte_gurken
 ## Meine Notizen
 
 Der höhere Salzgehalt (3,5% statt 2%) verhindert, dass die Gurken zu matschig werden. Immer prüfen ob Gurken komplett unter Wasser bleiben — ggf. mit einem Gewicht beschweren. Kühl fermentieren für ein festeres Ergebnis.
+
+## Verwandte Rezepte
+
+- [[fermentierter_honig_knoblauch]] — Ebenfalls Fermentation, beide zusammen ansetzen
+- [[cowboy_butter_mit_cream_cheese]] — Als Begleiter/Snack-Board
+- [[vivi_s_kartoffelsalat]] — Gurke als gemeinsame Zutat
+- [[tuerkischer_gurkensalat]] — Gurke als gemeinsame Zutat

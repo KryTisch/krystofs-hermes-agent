@@ -78,3 +78,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/cottage_cheese_protein
 ## Meine Notizen
 
 Saubere Version nach Screenshot-Extraktion eines Social-Media-Posts von ‚Nourish with jasss‘. Die Original-Post-URL war im Screenshot nicht sichtbar; als Quelle ist daher der lokale Screenshot hinterlegt. Ahornsirup kann durch weiche Datteln ersetzt werden. Bei euch wurde das Coating mit Zartbitterschokolade gemacht. Die Einleitung des Originalposts war oben leicht abgeschnitten.
+
+## Verwandte Rezepte
+
+- [[protein_haferbrei_thermomix]] — Ebenfalls protein-reich, Frühstück/Snack
+- [[sesam_wraps_4_zutaten]] — Weiterer einfacher High-Protein-Snack
+- [[toasted_rye_chocolate_chip_cookies]] — Ähnliches Backen-Snack-Profil

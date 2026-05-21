@@ -72,3 +72,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/optimierte_zitronen_br
 ## Meine Notizen
 
 Backen ist Hingabe und Herumprobieren, das weiß auch unser Kolumnist und stellt fest: Bei seinen Lieblingstörtchen werden mit zwei Handgriffen die Creme frischer und der Mürbeteig noch gleichmäßiger.
+
+## Verwandte Rezepte
+
+- [[pistazientoertchen_mit_fluessigem_kern]] — Törtchen-Technik, ähnliches Anspruchsniveau
+- [[basque_cheesecake]] — Ähnliches Crème-Dessert
+- [[3_zutaten_zitronen_eis]] — Zitrone als gemeinsamer Geschmack
+- [[erdbeer_shortbread_mit_gesuesster_kondensmilch]] — Fruchtiges Dessert

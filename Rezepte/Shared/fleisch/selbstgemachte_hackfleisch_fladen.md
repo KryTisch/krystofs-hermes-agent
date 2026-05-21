@@ -80,3 +80,9 @@ Passt hervorragend zum Türkischen Gurkensalat (bereits in der Datenbank). Hackf
 
 - Stil: ofen, fingerfood
 - Aufwand: einfach
+
+## Verwandte Rezepte
+
+- [[ezme_tuerkische_paprika_tomaten_paste]] — Türkische Beilage, passt perfekt dazu
+- [[tuerkischer_gurkensalat]] — Türkische Beilage
+- [[cowboy_butter_mit_cream_cheese]] — Dip/Spread als Begleiter

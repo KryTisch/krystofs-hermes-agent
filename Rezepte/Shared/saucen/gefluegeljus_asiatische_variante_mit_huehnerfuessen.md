@@ -89,3 +89,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/saucen/gefluegeljus_asiatisch
 ## Meine Notizen
 
 Originalrezept von Christian Bau (3 Sterne, Nennig), via liebemitbiss.com. Krystofs Variante: +500g Hühnerfüße für deutlich mehr Gelatine und Bindung — macht die Jus seidiger und vollmundiger. Asiatische Würzung mit Zimt, Sternanis und Koriander macht diese Version besonders. Sehr lecker!
+
+## Verwandte Rezepte
+
+- [[gefluegeljus]] — Klassische Schwester-Variante
+- [[schweinebauch_honig_soja_glasur]] — Asiatisches Hauptgericht, Jus passt dazu
+- [[honey_harissa_baked_feta_mit_haehnchen]] — Hähnchen-Hauptgericht
+- [[gurke_wasabi_granit]] — Asiatische Beilage

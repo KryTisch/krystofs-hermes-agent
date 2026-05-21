@@ -72,3 +72,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/toasted_rye_chocolate_
 ## Meine Notizen
 
 These salty sweet rye chocolate chip cookies are made with fragrant pan-toasted rye flour and a few extra drizzles of molasses.&nbsp;To allow flavors to develop, chill dough in the fridge overnight or for as long as three days. If you're pressed for time, chill dough at least two hours.&nbsp;
+
+## Verwandte Rezepte
+
+- [[brot_44_reines_roggen_sauerteigbrot]] — Roggen als gemeinsame Zutat
+- [[charlies_vivis_roggen_dinkelbrot]] — Roggen-Backen
+- [[homemade_cinnamon_rolls_cinnabon_copycat_recipe]] — Ähnliches Süßgebäck-Profil
+- [[cottage_cheese_protein_squares_mit_erdnussbutter]] — Protein-Snack-Kategorie

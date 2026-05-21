@@ -69,3 +69,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/desserts/erdbeer_shortbread_m
 ## Meine Notizen
 
 Qualität der Erdbeeren ist entscheidend: selbst pflücken, wirklich süße Sorte, dann einfrieren. Shortbread selbst machen oder eine gute Qualität kaufen — macht den Unterschied. Sesam und Kokos passen beide gut — je nach Lust.
+
+## Verwandte Rezepte
+
+- [[3_zutaten_zitronen_eis]] — Einfaches Sommer-Dessert, wenige Zutaten
+- [[thousand_layer_apple]] — Dessert-Kategorie
+- [[basque_cheesecake]] — Süßes Dessert mit Frischkäse-Note

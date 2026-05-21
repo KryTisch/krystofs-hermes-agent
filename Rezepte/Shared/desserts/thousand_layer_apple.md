@@ -74,3 +74,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/desserts/thousand_layer_apple
 ## Meine Notizen
 
 Vollständig auskühlen ist entscheidend — warm fällt es auseinander. Mit Vanilleeis und Karamellsauce servieren. Auch mit Birnen machbar.
+
+## Verwandte Rezepte
+
+- [[3_zutaten_zitronen_eis]] — Einfaches Dessert
+- [[erdbeer_shortbread_mit_gesuesster_kondensmilch]] — Frucht-Dessert
+- [[germknoedel_dampfnudeln]] — Apfel/Zwetschgen-Frucht-Verbindung
+- [[optimierte_zitronen_brombeer_cremetoertchen]] — Blätterteig-Technik-Verwandtschaft

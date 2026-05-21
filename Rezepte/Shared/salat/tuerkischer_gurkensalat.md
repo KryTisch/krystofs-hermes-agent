@@ -88,3 +88,10 @@ Koriander war ursprünglich geplant, wurde durch Minze ersetzt. Knoblauch gerieb
 - Länderküche: Türkisch
 - Stil: salat, beilage
 - Aufwand: einfach
+
+## Verwandte Rezepte
+
+- [[ezme_tuerkische_paprika_tomaten_paste]] — Türkische Beilage, passt perfekt dazu
+- [[selbstgemachte_hackfleisch_fladen]] — Türkisch inspiriertes Hauptgericht
+- [[honey_harissa_baked_feta_mit_haehnchen]] — Harissa-Verbindung
+- [[pulposalat]] — Mediterrane Beilage, ähnliche Frische

@@ -79,3 +79,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/korean_pork_sticks.md
 ## Meine Notizen
 
 Kimchi-Mayo separat machen: Kimchi fein hacken, mit Mayo mischen. Das Geheimnis ist die dünne Schnittweise und das Bestreichen ganz am Ende — dann karamellisiert die Marinade schön.
+
+## Verwandte Rezepte
+
+- [[schweinebauch_honig_soja_glasur]] — Ebenfalls Schwein mit asiatischer Marinade
+- [[popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis]] — Ähnliches Asia-Fleisch-Profil
+- [[tahini_ramen_salad]] — Asiatische Beilage dazu
+- [[sesam_wraps_4_zutaten]] — Wrap als alternative Servierform

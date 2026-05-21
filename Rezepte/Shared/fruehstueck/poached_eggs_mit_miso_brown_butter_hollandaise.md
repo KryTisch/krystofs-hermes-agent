@@ -84,3 +84,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/fruehstueck/poached_eggs_mit_
 ## Meine Notizen
 
 Stabmixer statt Standmixer — bei kleinen Mengen unbedingt. Die Nussbutter-Röststückchen kommen in die Sauce, nicht in der Pfanne lassen! Schalotten nicht länger als 10 Min. einlegen, sonst werden sie matschig.
+
+## Verwandte Rezepte
+
+- [[savory_cheese_souffl]] — Anspruchsvolles Eiergericht, ähnliches Niveau
+- [[protein_haferbrei_thermomix]] — Alternatives Frühstück
+- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Miso-Verbindung
+- [[zwetschgenkuchen_mit_umami_note]] — Umami-Twist-Verbindung

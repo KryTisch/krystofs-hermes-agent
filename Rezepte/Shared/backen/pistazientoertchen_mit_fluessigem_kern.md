@@ -74,3 +74,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/pistazientoertchen_mit
 ## Meine Notizen
 
 Wichtig: exakt 10 Minuten Backzeit — zu lange und der Kern ist durch. Die Förmchen müssen wirklich gut eingefettet sein. Sofort servieren.
+
+## Verwandte Rezepte
+
+- [[optimierte_zitronen_brombeer_cremetoertchen]] — Törtchen-Technik, ähnliche Struktur
+- [[basque_cheesecake]] — Dessert-Niveau, cremig
+- [[savory_cheese_souffl]] — Ähnliche Backtechnik (Soufflé vs. Moelleux)

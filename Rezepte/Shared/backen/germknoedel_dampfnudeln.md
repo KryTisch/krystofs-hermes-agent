@@ -80,3 +80,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/germknoedel_dampfnudel
 ## Meine Notizen
 
 Luftige Germknödel aus fluffigem Hefeteig mit Zwetschgenröster und selbstgemachter Vanillesoße: Mit unserem einfachen Rezept schmeckt der locker-fruchtige Klassiker wie aus dem Urlaub in Österreich.
+
+## Verwandte Rezepte
+
+- [[hamburger_franzbroetchen]] — Hefegebäck, ähnliche Teigarbeit
+- [[homemade_cinnamon_rolls_cinnabon_copycat_recipe]] — Süßes Hefegebäck, verwandte Technik
+- [[zwetschgenkuchen_mit_umami_note]] — Zwetschgen-Verbindung, süß-fruchtig

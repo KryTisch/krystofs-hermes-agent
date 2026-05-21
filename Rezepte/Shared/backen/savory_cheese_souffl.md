@@ -82,3 +82,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/savory_cheese_souffl.m
 ## Meine Notizen
 
 Cream of Tartar verhindert überschlagenes Eiweiß — wer es hat, sollte es nehmen. Mehlmenge kann auf 3 EL (24 g) reduziert werden für ein leichteres Soufflé. Senf und Cayenne geben subtile Tiefe. Benötigtes Equipment: 1,4 L Soufflé-Form, Schneebesen oder Mixer.
+
+## Verwandte Rezepte
+
+- [[pistazientoertchen_mit_fluessigem_kern]] — Ähnliche Backtechnik (Moelleux-Stil)
+- [[basque_cheesecake]] — Käse als Hauptzutat
+- [[poached_eggs_mit_miso_brown_butter_hollandaise]] — Anspruchsvolles Frühstück/Brunch

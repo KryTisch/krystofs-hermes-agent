@@ -83,3 +83,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/charlies_vivis_roggen_di
 ## Meine Notizen
 
 Rezept von Charlie & Vivi. Die Sauerteig-Aktivierung ergibt ~450 g — nur 210 g kommen in den Teig, der Rest ist gleich das neue Anstellgut. Gärkörbchen muss wirklich gut bemehlt sein (Backfix-Mehlmischung). Unbedingt auf dem Gitter auskühlen — nicht im Römertopf.
+
+## Verwandte Rezepte
+
+- [[brot_44_reines_roggen_sauerteigbrot]] — Sauerteigbrot, ähnlicher Prozess
+- [[hamburger_franzbroetchen]] — Brot-Kategorie, Hefegebäck
+- [[toasted_rye_chocolate_chip_cookies]] — Roggen als gemeinsame Zutat

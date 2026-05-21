@@ -93,3 +93,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/homemade_cinnamon_roll
 ## Meine Notizen
 
 The best homemade cinnamon rolls ever! If you love gooey cinnamon buns, THIS is the recipe with the secret ingredient that makes all the difference.
+
+## Verwandte Rezepte
+
+- [[germknoedel_dampfnudeln]] — Hefegebäck, ähnliche Teigarbeit
+- [[hamburger_franzbroetchen]] — Süßes Hefegebäck mit Zimt-Note
+- [[toasted_rye_chocolate_chip_cookies]] — Ebenfalls süßes Backwerk

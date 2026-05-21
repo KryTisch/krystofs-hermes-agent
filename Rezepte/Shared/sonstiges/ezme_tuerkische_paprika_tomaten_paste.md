@@ -79,3 +79,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/ezme_tuerkische_pap
 ## Meine Notizen
 
 Das Auspressen des Wassers ist entscheidend — sonst wird die Ezme wässrig. Schärfe über die Paprikasorte und das Paprikamark steuern. Passt hervorragend als Dip zum Grillen oder im Döner.
+
+## Verwandte Rezepte
+
+- [[tuerkischer_gurkensalat]] — Türkisches Pendant, gemeinsame Küche
+- [[selbstgemachte_hackfleisch_fladen]] — Hauptgericht, passt perfekt dazu
+- [[cowboy_butter_mit_cream_cheese]] — Ähnliche Dip/Paste-Rolle
+- [[pulposalat]] — Mediterran, ähnlicher Charakter

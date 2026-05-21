@@ -68,3 +68,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/desserts/3_zutaten_zitronen_e
 ## Meine Notizen
 
 Bio-Zitronen wichtig, da die Schale mitgemixt wird. Wer es süßer mag, mehr Ahornsirup. Sofort nach dem zweiten Mixen servieren — taut schnell wieder.
+
+## Verwandte Rezepte
+
+- [[erdbeer_shortbread_mit_gesuesster_kondensmilch]] — Einfaches Sommer-Dessert
+- [[optimierte_zitronen_brombeer_cremetoertchen]] — Zitrone als Verbindung
+- [[gurke_wasabi_granit]] — Ähnliche Granité/Eis-Technik
+- [[thousand_layer_apple]] — Dessert-Kategorie

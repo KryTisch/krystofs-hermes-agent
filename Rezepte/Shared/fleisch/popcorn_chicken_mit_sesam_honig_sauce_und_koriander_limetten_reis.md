@@ -90,3 +90,11 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/popcorn_chicken_mit_s
 ## Meine Notizen
 
 Perfektes Date-Night-Gericht. Hähnchenschenkel sind saftiger als Brust. Sauce zuerst machen — sie dickt beim Abkühlen noch nach.
+
+## Verwandte Rezepte
+
+- [[gefluegeljus]] — Geflügeljus als Saucen-Basis
+- [[honey_harissa_baked_feta_mit_haehnchen]] — Ebenfalls Hähnchen-Rezept
+- [[korean_pork_sticks]] — Ähnliches Asia-Fleisch-Profil
+- [[tahini_ramen_salad]] — Asiatische Beilage
+- [[sesam_wraps_4_zutaten]] — Sesam-Verbindung

@@ -67,3 +67,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/zwetschgenkuchen_mit_u
 ## Meine Notizen
 
 Misopaste passt nicht nur zu herzhaften oder asiatischen Gerichten: Auf diesem herbstlichen Kuchen machte sie die Streusel besonders schmackhaft.
+
+## Verwandte Rezepte
+
+- [[germknoedel_dampfnudeln]] — Zwetschgen-Verbindung
+- [[optimierte_zitronen_brombeer_cremetoertchen]] — Frucht-Törtchen-Stil
+- [[poached_eggs_mit_miso_brown_butter_hollandaise]] — Miso-Umami-Verbindung

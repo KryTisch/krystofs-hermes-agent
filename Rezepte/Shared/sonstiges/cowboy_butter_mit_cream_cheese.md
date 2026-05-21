@@ -77,3 +77,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/cowboy_butter_mit_c
 ## Meine Notizen
 
 Rezept kann problemlos halbiert werden. Lässt sich einfrieren. Cream Cheese macht den Spread milder und universeller als die klassische Cowboy Butter.
+
+## Verwandte Rezepte
+
+- [[selbstgemachte_hackfleisch_fladen]] — Fleisch-Beilage, Dip
+- [[sesam_wraps_4_zutaten]] — Snack-Begleiter
+- [[ezme_tuerkische_paprika_tomaten_paste]] — Ähnliche Dip/Spread-Rolle
+- [[fermentierter_honig_knoblauch]] — Knoblauch-Verbindung, beide als Würzmittel

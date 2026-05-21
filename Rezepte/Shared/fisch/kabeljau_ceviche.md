@@ -97,3 +97,10 @@ Ají amarillo ist erste Wahl — gibt den authentischen peruanischen Ton. Habane
 - Länderküche: Peruanisch
 - Stil: roh, hauptgericht
 - Aufwand: mittel
+
+## Verwandte Rezepte
+
+- [[pulposalat]] — Meeresfrüchte, mediterran, mariniert
+- [[tuerkischer_gurkensalat]] — Frische Beilage dazu
+- [[tahini_ramen_salad]] — Leichte Salat-Alternative als Beilage
+- [[gefluegeljus]] — Aufwendige Saucen-Technik im Kontrast

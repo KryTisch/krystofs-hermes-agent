@@ -89,3 +89,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/roasted_cauliflow
 ## Meine Notizen
 
 Xanthan macht den Joghurt stabiler — kann man auch weglassen. Das Vorkochen ist wichtig damit der Kern gar wird. Xanthan bei @myvegan erhältlich.
+
+## Verwandte Rezepte
+
+- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Vegetarisch, Tahini-Verbindung
+- [[honey_harissa_baked_feta_mit_haehnchen]] — Harissa-Verbindung
+- [[tahini_ramen_salad]] — Tahini-Verbindung
+- [[baby_artischocken_nach_christians_art]] — Vegetarische Beilage

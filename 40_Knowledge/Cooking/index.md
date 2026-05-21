@@ -18,3 +18,5 @@ tags: [index, obsidian, cooking]
 # Cooking Knowledge
 
 - [[Kochwissen]] — Techniken, Patterns, freigegebenes Kochwissen.
+- [[Rezept-Kategorien]] — Küchenstile, Techniken, Zutaten-Cluster (Konzept-Note).
+- [[index|Rezepte Master Hub]] — Alle 39 Shared-Rezepte, geordnet nach Kategorie, Tag und Küchenstil.

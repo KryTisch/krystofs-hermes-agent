@@ -77,3 +77,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/brot_44_reines_roggen_sa
 ## Meine Notizen
 
 100% Roggen, kein Industriehefe. Kalte Gare ist der entscheidende Trick — kalter Teigling hält beim Einschießen seine Form bis die Kruste ihn hält. Kerntemperatur-Thermometer empfohlen (96–98°C = fertig). Zum Frühstück: Sauerteig 2 Abende vorher ansetzen.
+
+## Verwandte Rezepte
+
+- [[charlies_vivis_roggen_dinkelbrot]] — Sauerteigbrot, ähnlicher Prozess
+- [[hamburger_franzbroetchen]] — Brot-Kategorie, Hefegebäck
+- [[toasted_rye_chocolate_chip_cookies]] — Roggen als gemeinsame Zutat

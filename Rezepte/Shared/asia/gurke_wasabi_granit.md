@@ -75,3 +75,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/asia/gurke_wasabi_granit.md
 ## Meine Notizen
 
 Passt hervorragend zu Sashimi. Shio Koji gibt eine subtile Umami-Tiefe. Äpfel (Granny Smith) bringen die nötige Säure und Frische. Wasabi-Menge nach Schärfevorliebe anpassen.
+
+## Verwandte Rezepte
+
+- [[schweinebauch_honig_soja_glasur]] — ebenfalls asiatisch, passt als Hauptgang dazu
+- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Asiatischer Jus als Saucen-Basis
+- [[poached_eggs_mit_miso_brown_butter_hollandaise]] — Miso-Umami, japanischer Stil
+- [[tahini_ramen_salad]] — Asiatischer Salat, ähnliche Beilagen-Rolle

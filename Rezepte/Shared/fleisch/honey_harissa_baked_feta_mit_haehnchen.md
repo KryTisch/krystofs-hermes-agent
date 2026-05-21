@@ -80,3 +80,11 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/honey_harissa_baked_f
 ## Meine Notizen
 
 Schnell und beeindruckend. Harissa-Menge nach Schärfewunsch anpassen. Auch ohne Pasta als eigenständiges Gericht servierbar.
+
+## Verwandte Rezepte
+
+- [[gefluegeljus]] — Geflügeljus als Saucen-Upgrade für Hähnchen
+- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Asiatischer Jus, passt zur Harissa-Note
+- [[roasted_cauliflower_mit_harissa_und_tahini]] — Harissa-Verbindung, vegetarische Beilage
+- [[tuerkischer_gurkensalat]] — Frische Beilage dazu
+- [[popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis]] — Ebenfalls Hähnchen-Rezept

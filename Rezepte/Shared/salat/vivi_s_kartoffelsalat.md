@@ -102,3 +102,9 @@ Nur Knax-Gurken verwenden — keine anderen. Das Dressing darf reichlich sein, d
 - Länderküche: Deutsch
 - Stil: salat
 - Aufwand: einfach
+
+## Verwandte Rezepte
+
+- [[selbstgemachte_hackfleisch_fladen]] — Klassischer Begleiter
+- [[tuerkischer_gurkensalat]] — Alternative Beilage
+- [[ezme_tuerkische_paprika_tomaten_paste]] — Als Dip dazu

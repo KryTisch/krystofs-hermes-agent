@@ -79,3 +79,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/saucen/gefluegeljus.md
 ## Meine Notizen
 
 Rezept von Christian Bau (3-Sterne-Koch). Möglichst Geflügelfond statt Wasser verwenden.
+
+## Verwandte Rezepte
+
+- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Asiatische Schwester-Variante
+- [[honey_harissa_baked_feta_mit_haehnchen]] — Hähnchen-Hauptgericht, passt dazu
+- [[popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis]] — Hähnchen, Jus als Upgrade
+- [[savory_cheese_souffl]] — Sterneküche-Niveau, passt stilistisch

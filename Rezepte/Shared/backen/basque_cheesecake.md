@@ -75,3 +75,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/basque_cheesecake.md
 ## Meine Notizen
 
 Basque-Stil — kein Boden, kein Wasserbad. Der 'rohe' Wackelpunkt beim Herausnehmen ist entscheidend für die cremige Textur. Parmesan ist Standard — gibt subtile Umami-Tiefe. Form ⌀ 18 cm.
+
+## Verwandte Rezepte
+
+- [[pistazientoertchen_mit_fluessigem_kern]] — Ähnliches Dessert-Niveau, Backtechnik
+- [[optimierte_zitronen_brombeer_cremetoertchen]] — Crème-Törtchen, ähnliche Backstrategie
+- [[3_zutaten_zitronen_eis]] — Leichteres Dessert als Kontrast
+- [[erdbeer_shortbread_mit_gesuesster_kondensmilch]] — Einfaches Dessert, ähnliche Süße

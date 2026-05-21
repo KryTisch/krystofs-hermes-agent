@@ -75,3 +75,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/fruehstueck/protein_haferbrei
 ## Meine Notizen
 
 Topping-Mengen berechnet auf 2 kleine Portionen: je 7 Himbeeren, 30 g Blaubeeren, 10 g Kokos. Proteinpulver erst nach dem Kochen hinzufügen — Hitze denaturiert die Proteine und macht die Masse gummiartig.
+
+## Verwandte Rezepte
+
+- [[poached_eggs_mit_miso_brown_butter_hollandaise]] — Alternatives Frühstück
+- [[cottage_cheese_protein_squares_mit_erdnussbutter]] — Ebenfalls protein-reich
+- [[sesam_wraps_4_zutaten]] — Schneller Protein-Snack

@@ -20,6 +20,8 @@ Shared Kochwissen enthält Techniken, Zutatenmuster und freigegebene Rezept-Patt
 
 ## Links
 
+- [[Rezept-Kategorien]] — Küchenstile, Techniken, Zutaten-Cluster
+- [[index|Rezepte Master Hub]] — Alle 39 Shared-Rezepte, nach Kategorie & Tag
 - [[../../30_Projects/Rezepte/index|Rezepte Projekt-Hub]]
 - [[../../60_Procedures/recipe-workflows/index|Recipe Workflows]]
 - [[../../90_System/PRIVACY-SCOPES|Privacy Scopes]]

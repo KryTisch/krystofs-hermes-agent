@@ -74,3 +74,10 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/pasta/creamy_bucatini_with_ro
 ## Meine Notizen
 
 Roasted seaweed snacks and heavy cream make an unexpected (and totally delicious) pairing in this 20-minute pasta.
+
+## Verwandte Rezepte
+
+- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Seaweed/Asia-Verbindung
+- [[schweinebauch_honig_soja_glasur]] — Als Hauptgang dazu (Umami-Profil)
+- [[tahini_ramen_salad]] — Ähnlicher Noodle-Stil
+- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Umami-Gemüse-Beilage

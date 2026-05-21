@@ -82,3 +82,11 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/miso_spitzkohl_mi
 ## Meine Notizen
 
 Hispi/Spitzkohl ist besonders zart — aber normaler Kohl in Spalten funktioniert auch gut. Die Bohnen-Creme kann als eigenständiger Dip verwendet werden.
+
+## Verwandte Rezepte
+
+- [[roasted_cauliflower_mit_harissa_und_tahini]] — Vegetarisch, Tahini-Verbindung
+- [[tahini_ramen_salad]] — Tahini-Verbindung
+- [[schweinebauch_honig_soja_glasur]] — Miso-Verbindung, als Beilage zum Hauptgang
+- [[poached_eggs_mit_miso_brown_butter_hollandaise]] — Miso-Verbindung
+- [[baby_artischocken_nach_christians_art]] — Vegetarische Vorspeise

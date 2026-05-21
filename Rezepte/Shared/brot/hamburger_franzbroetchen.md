@@ -80,3 +80,9 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/hamburger_franzbroetchen
 ## Meine Notizen
 
 Doppelte Menge backen und einfrieren lohnt sich.
+
+## Verwandte Rezepte
+
+- [[germknoedel_dampfnudeln]] — Süßes Hefegebäck, ähnliche Teigarbeit
+- [[homemade_cinnamon_rolls_cinnabon_copycat_recipe]] — Süßes Gebäck mit Zimt
+- [[brot_44_reines_roggen_sauerteigbrot]] — Brot-Kategorie
