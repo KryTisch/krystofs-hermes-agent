@@ -19,3 +19,4 @@ tags: [index, obsidian]
 
 - [[Wiki-v2-Principles]] — Wiki-v2 Kernprinzipien.
 - [[Obsidian-Sync-Entscheidung]] — Sync-Entscheidung.
+- [[Knowledge-System-Architecture]] — vollständige Architektur-Doku: Vault, App-Wissen, User-Wissen, Multi-User-Flows
