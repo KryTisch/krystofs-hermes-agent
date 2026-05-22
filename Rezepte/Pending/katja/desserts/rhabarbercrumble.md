@@ -1,0 +1,81 @@
+---
+title: Rhabarbercrumble
+kategorie: desserts
+dauer: 45 Min
+schwierigkeit: mittel
+portionen: 4
+tags:
+- dessert
+- crumble
+- rhabarber
+- haselnuss
+- ofen
+erstellt: '2026-05-22'
+owner_user_id: '8733691947'
+owner_name: Katja
+hinzugefuegt_von: Katja
+hinzugefuegt_von_user_id: '8733691947'
+shared: true
+status: pending_approval
+requires_approval: true
+quelle_typ: muendlich
+quelle_url: ''
+quelle_archiv_url: ''
+review_notes: ''
+zutaten_kurz:
+- 600 g Rhabarber
+- 40 g Rohrzucker
+- 1 Pck. Vanillezucker
+- 1/2-1 TL Zimt
+- 1 EL Speisestärke
+laenderkueche: []
+stil: []
+aufwand: ''
+komponenten: []
+beilagen: []
+sossen: []
+passt_zu: []
+servieren_mit: []
+vollstaendiges_gericht: []
+verwandte_rezepte: []
+aktualisiert_am: '2026-05-22T16:42:28+00:00'
+eingereicht_von_rolle: reader
+slug: rhabarbercrumble
+sichtbarkeit: shared
+rezept_id: pending__katja__desserts__rhabarbercrumble
+source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/pending/katja/desserts/rhabarbercrumble.md
+obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/desserts/rhabarbercrumble.md
+---
+
+# Rhabarbercrumble
+
+**Kategorie:** desserts | **Dauer:** 45 Min | **Schwierigkeit:** mittel | **Portionen:** 4
+
+## Zutaten
+
+- 600 g Rhabarber
+- 40 g Rohrzucker
+- 1 Pck. Vanillezucker
+- 1/2-1 TL Zimt
+- 1 EL Speisestärke
+- 90 g Weizenvollkornmehl
+- 80 g brauner Zucker
+- 50 g gemahlene Haselnüsse
+- 30 g gehackte Haselnusskerne
+- 1 Prise Salz
+- 80 g Margarine
+- 1 TL Puderzucker
+
+## Zubereitung
+
+1. Den Ofen auf 200 °C Ober-/Unterhitze oder 180 °C Umluft vorheizen.
+2. Den Rhabarber putzen, in Stücke schneiden und mit 40 g Rohrzucker, Vanillezucker, Zimt und Speisestärke mischen. In eine Auflaufform geben.
+3. Für die Streusel Mehl, braunen Zucker, gemahlene Haselnüsse, gehackte Haselnusskerne und Salz mischen.
+4. Die Margarine zugeben und alles mit den Händen zu Streuseln verarbeiten.
+5. Die Streusel gleichmäßig über den Rhabarber geben.
+6. Etwa 30 Minuten goldbraun backen.
+7. Vor dem Servieren leicht abkühlen lassen und mit Puderzucker bestäuben.
+
+## Meine Notizen
+
+Statt Rhabarber kann auch ein Himbeer-Heidelbeer-Mix verwendet werden.

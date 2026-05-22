@@ -15,8 +15,8 @@ owner_name: Katja
 hinzugefuegt_von: Katja
 hinzugefuegt_von_user_id: '8733691947'
 shared: true
-status: pending_approval
-requires_approval: true
+status: published
+requires_approval: false
 quelle_typ: bild
 quelle_url: file:///root/.hermes/profiles/rezepte-bot/cache/images/img_9ae989b6e380.jpg
 quelle_archiv_url: ''
@@ -36,13 +36,17 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-20T12:48:16+00:00'
+aktualisiert_am: '2026-05-22T07:12:59+00:00'
 eingereicht_von_rolle: reader
 slug: eierlikoer_mousse
 sichtbarkeit: shared
 rezept_id: pending__katja__desserts__eierlikoer__mousse
-source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/pending/katja/desserts/eierlikoer_mousse.md
-obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/desserts/eierlikoer_mousse.md
+source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/desserts/eierlikoer_mousse.md
+obsidian_path: /root/obsidian-vault/Rezepte/Shared/desserts/eierlikoer_mousse.md
+approved_by: Krystof
+approved_by_user_id: '7746126677'
+approved_at: '2026-05-22T07:12:59+00:00'
+published_at: '2026-05-22T07:12:59+00:00'
 ---
 
 # Eierlikör Mousse

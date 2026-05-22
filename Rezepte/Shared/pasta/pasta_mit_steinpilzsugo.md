@@ -15,8 +15,8 @@ owner_name: Katja
 hinzugefuegt_von: Katja
 hinzugefuegt_von_user_id: '8733691947'
 shared: true
-status: pending_approval
-requires_approval: true
+status: published
+requires_approval: false
 quelle_typ: bild
 quelle_url: file:///root/.hermes/profiles/rezepte-bot/cache/images/img_43431fc114bd.jpg
 quelle_archiv_url: ''
@@ -37,13 +37,17 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-20T12:49:30+00:00'
+aktualisiert_am: '2026-05-22T07:12:44+00:00'
 eingereicht_von_rolle: reader
 slug: pasta_mit_steinpilzsugo
 sichtbarkeit: shared
 rezept_id: pending__katja__pasta__pasta__mit__steinpilzsugo
-source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/pending/katja/pasta/pasta_mit_steinpilzsugo.md
-obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/pasta/pasta_mit_steinpilzsugo.md
+source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/pasta/pasta_mit_steinpilzsugo.md
+obsidian_path: /root/obsidian-vault/Rezepte/Shared/pasta/pasta_mit_steinpilzsugo.md
+approved_by: Krystof
+approved_by_user_id: '7746126677'
+approved_at: '2026-05-22T07:12:44+00:00'
+published_at: '2026-05-22T07:12:44+00:00'
 ---
 
 # Pasta mit Steinpilzsugo
