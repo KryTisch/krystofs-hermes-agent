@@ -33,13 +33,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T05:49:53+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: optimierte_zitronen_brombeer_cremetoertchen
 sichtbarkeit: private
 rezept_id: private__krystof__backen__optimierte__zitronen__brombeer__cremetoertchen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/optimierte_zitronen_brombeer_cremetoertchen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/optimierte_zitronen_brombeer_cremetoertchen.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/optimierte_zitronen_brombeer_cremetoertchen.md
 ---
 
 # Optimierte Zitronen-Brombeer-Cremetörtchen
@@ -72,3 +79,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/optimierte_zi
 ## Meine Notizen
 
 Backen ist Hingabe und Herumprobieren, das weiß auch unser Kolumnist und stellt fest: Bei seinen Lieblingstörtchen werden mit zwei Handgriffen die Creme frischer und der Mürbeteig noch gleichmäßiger.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.27
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 2844 kcal, 26.8 g Protein, 315.2 g KH, 164.7 g Fett
+- Pro Portion: 711 kcal, 6.7 g Protein, 78.8 g KH, 41.2 g Fett
+- Pro 100 g: 495 kcal, 4.7 g Protein, 54.8 g KH, 28.6 g Fett
+- Review-Hinweis: 7 Zutaten/Mengen ungeklärt

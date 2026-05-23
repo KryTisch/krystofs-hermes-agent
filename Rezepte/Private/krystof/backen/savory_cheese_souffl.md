@@ -40,13 +40,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-16T22:01:22+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: savory_cheese_souffl
 sichtbarkeit: private
 rezept_id: private__krystof__backen__savory__cheese__souffl
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/savory_cheese_souffl.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/savory_cheese_souffl.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/savory_cheese_souffl.md
 ---
 
 # Savory Cheese Soufflé
@@ -82,3 +89,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/savory_cheese
 ## Meine Notizen
 
 Cream of Tartar verhindert überschlagenes Eiweiß — wer es hat, sollte es nehmen. Mehlmenge kann auf 3 EL (24 g) reduziert werden für ein leichteres Soufflé. Senf und Cayenne geben subtile Tiefe. Benötigtes Equipment: 1,4 L Soufflé-Form, Schneebesen oder Mixer.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.06
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 2
+- Gesamt: 323 kcal, 0.4 g Protein, 0.1 g KH, 36.5 g Fett
+- Pro Portion: 161 kcal, 0.2 g Protein, 0.0 g KH, 18.2 g Fett
+- Pro 100 g: 717 kcal, 0.9 g Protein, 0.1 g KH, 81.1 g Fett
+- Review-Hinweis: 10 Zutaten/Mengen ungeklärt

@@ -15,8 +15,8 @@ owner_name: Katja
 hinzugefuegt_von: Katja
 hinzugefuegt_von_user_id: '8733691947'
 shared: true
-status: pending_approval
-requires_approval: true
+status: published
+requires_approval: false
 quelle_typ: muendlich
 quelle_url: telegram://8733691947
 quelle_archiv_url: ''
@@ -37,13 +37,24 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T16:36:31+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: reader
 slug: moehren_bohnen_gemuese_mit_orange_und_basilikum
 sichtbarkeit: shared
 rezept_id: pending__katja__vegetarisch__moehren__bohnen__gemuese__mit__orange__und__basilikum
-source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/pending/katja/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
-obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
+source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
+obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
+approved_by: Krystof
+approved_by_user_id: '7746126677'
+approved_at: '2026-05-23T06:00:44+00:00'
+published_at: '2026-05-23T06:00:44+00:00'
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
 ---
 
 # Möhren-Bohnen-Gemüse mit Orange und Basilikum
@@ -75,3 +86,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/vegetarisch/moehren_bo
 ## Meine Notizen
 
 Möhren und Bohnen nach Möglichkeit getrennt auf der Platte anrichten.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.07
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 265 kcal, 0.0 g Protein, 0.0 g KH, 30.0 g Fett
+- Pro Portion: 66 kcal, 0.0 g Protein, 0.0 g KH, 7.5 g Fett
+- Pro 100 g: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
+- Review-Hinweis: 8 Zutaten/Mengen ungeklärt

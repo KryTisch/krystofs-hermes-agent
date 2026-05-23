@@ -38,13 +38,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T17:11:55+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: reader
 slug: aschingers_erbsensuppe
 sichtbarkeit: private
 rezept_id: private__katja__suppen__aschingers__erbsensuppe
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/suppen/aschingers_erbsensuppe.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/suppen/aschingers_erbsensuppe.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/suppen/aschingers_erbsensuppe.md
 ---
 
 # Aschingers Erbsensuppe
@@ -78,3 +85,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/suppen/aschingers_erbs
 ## Meine Notizen
 
 Einweichzeit über Nacht ist eingerechnet. Salz erst nach dem langen Garen zugeben, damit die Erbsen sauber weich werden.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.06
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro 100 g: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 10 Zutaten/Mengen ungeklärt

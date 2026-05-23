@@ -32,7 +32,7 @@ zutaten_kurz:
 - 50 g Zucker (für Trockenbeize)
 - Abrieb von 1 Zitrone
 - Abrieb von 1–2 Limetten
-aktualisiert_am: '2026-05-16T20:31:18+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: kabeljau_ceviche
 sichtbarkeit: shared
@@ -52,6 +52,13 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fisch/kabeljau_ceviche.md
 ---
 
 # Kabeljau Ceviche
@@ -92,15 +99,20 @@ verwandte_rezepte: []
 
 Ají amarillo ist erste Wahl — gibt den authentischen peruanischen Ton. Habanero ist aromatischer und schärfer, Menge entsprechend reduzieren. Cancha (peruanische geröstete Maiskörner) gibt den charakteristischen Crunch, im Lateinamerika-Laden erhältlich. Trockenbeize mit Zitrus-Abrieb ist die Besonderheit dieses Rezepts.
 
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.04
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 3
+- Gesamt: 200 kcal, 0.0 g Protein, 50.0 g KH, 0.0 g Fett
+- Pro Portion: 67 kcal, 0.0 g Protein, 16.7 g KH, 0.0 g Fett
+- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
+- Review-Hinweis: 16 Zutaten/Mengen ungeklärt
+
 ## Rezeptprofil
 
 - Länderküche: Peruanisch
 - Stil: roh, hauptgericht
 - Aufwand: mittel
-
-## Verwandte Rezepte
-
-- [[pulposalat]] — Meeresfrüchte, mediterran, mariniert
-- [[tuerkischer_gurkensalat]] — Frische Beilage dazu
-- [[tahini_ramen_salad]] — Leichte Salat-Alternative als Beilage
-- [[gefluegeljus]] — Aufwendige Saucen-Technik im Kontrast

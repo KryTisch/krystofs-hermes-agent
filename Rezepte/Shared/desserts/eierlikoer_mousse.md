@@ -36,7 +36,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T07:12:59+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: reader
 slug: eierlikoer_mousse
 sichtbarkeit: shared
@@ -47,6 +47,13 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-22T07:12:59+00:00'
 published_at: '2026-05-22T07:12:59+00:00'
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/desserts/eierlikoer_mousse.md
 ---
 
 # Eierlikör Mousse
@@ -73,3 +80,14 @@ published_at: '2026-05-22T07:12:59+00:00'
 ## Meine Notizen
 
 Handgeschriebene Rezeptkarte von Silke. Kühlzeit und Gesamtdauer sind geschätzt, da sie auf der Karte nicht notiert waren.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 4 Zutaten/Mengen ungeklärt

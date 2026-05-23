@@ -40,13 +40,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-19T12:07:12+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: cottage_cheese_protein_squares_mit_erdnussbutter
 sichtbarkeit: private
 rezept_id: private__krystof__backen__cottage__cheese__protein__squares__mit__erdnussbutter
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/cottage_cheese_protein_squares_mit_erdnussbutter.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/cottage_cheese_protein_squares_mit_erdnussbutter.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/cottage_cheese_protein_squares_mit_erdnussbutter.md
 ---
 
 # Cottage Cheese Protein Squares mit Erdnussbutter
@@ -78,3 +85,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/cottage_chees
 ## Meine Notizen
 
 Saubere Version nach Screenshot-Extraktion eines Social-Media-Posts von ‚Nourish with jasss‘. Die Original-Post-URL war im Screenshot nicht sichtbar; als Quelle ist daher der lokale Screenshot hinterlegt. Ahornsirup kann durch weiche Datteln ersetzt werden. Bei euch wurde das Coating mit Zartbitterschokolade gemacht. Die Einleitung des Originalposts war oben leicht abgeschnitten.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 9 Zutaten/Mengen ungeklärt

@@ -37,7 +37,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T07:12:44+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: reader
 slug: pasta_mit_steinpilzsugo
 sichtbarkeit: shared
@@ -48,6 +48,13 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-22T07:12:44+00:00'
 published_at: '2026-05-22T07:12:44+00:00'
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/pasta/pasta_mit_steinpilzsugo.md
 ---
 
 # Pasta mit Steinpilzsugo
@@ -81,3 +88,15 @@ published_at: '2026-05-22T07:12:44+00:00'
 ## Meine Notizen
 
 Aus einem fotografierten WDR-Rezeptausdruck. Die genaue URL ist auf dem Foto abgeschnitten; die Dauer ist geschätzt.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.12
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 1165 kcal, 31.2 g Protein, 180.0 g KH, 33.8 g Fett
+- Pro Portion: 291 kcal, 7.8 g Protein, 45.0 g KH, 8.4 g Fett
+- Pro 100 g: 416 kcal, 11.2 g Protein, 64.3 g KH, 12.1 g Fett
+- Review-Hinweis: 9 Zutaten/Mengen ungeklärt

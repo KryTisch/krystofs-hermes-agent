@@ -40,13 +40,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T16:45:52+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: baby_artischocken_nach_christians_art
 sichtbarkeit: shared
 rezept_id: shared__vegetarisch__baby__artischocken__nach__christians__art
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/vegetarisch/baby_artischocken_nach_christians_art.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/baby_artischocken_nach_christians_art.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/vegetarisch/baby_artischocken_nach_christians_art.md
 ---
 
 # Baby-Artischocken nach Christians Art
@@ -79,9 +86,13 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/baby_artischocken
 
 Der Schlüssel ist Frische. Kleine, schmale französische Baby-Artischocken sind ideal. Für die gebratene Variante gilt dieselbe eiserne Küchenregel wie bei Fleisch: nicht drängeln in der Pfanne.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[pulposalat]] — Mediterrane Vorspeise, ähnlicher Stil
-- [[roasted_cauliflower_mit_harissa_und_tahini]] — Vegetarisches Gemüsegericht
-- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Vegetarisches Gemüsegericht
-- [[kabeljau_ceviche]] — Elegante Vorspeise als Pendant
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 7 Zutaten/Mengen ungeklärt

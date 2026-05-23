@@ -37,13 +37,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T05:52:06+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: hamburger_franzbroetchen
 sichtbarkeit: shared
 rezept_id: shared__brot__hamburger__franzbroetchen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/brot/hamburger_franzbroetchen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/hamburger_franzbroetchen.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/brot/hamburger_franzbroetchen.md
 ---
 
 # Hamburger Franzbrötchen
@@ -81,8 +88,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/hamburger_franzbroetchen
 
 Doppelte Menge backen und einfrieren lohnt sich.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[germknoedel_dampfnudeln]] — Süßes Hefegebäck, ähnliche Teigarbeit
-- [[homemade_cinnamon_rolls_cinnabon_copycat_recipe]] — Süßes Gebäck mit Zimt
-- [[brot_44_reines_roggen_sauerteigbrot]] — Brot-Kategorie
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.16
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 10
+- Gesamt: 2722 kcal, 50.6 g Protein, 480.1 g KH, 61.8 g Fett
+- Pro Portion: 272 kcal, 5.1 g Protein, 48.0 g KH, 6.2 g Fett
+- Pro 100 g: 406 kcal, 7.6 g Protein, 71.7 g KH, 9.2 g Fett
+- Review-Hinweis: 9 Zutaten/Mengen ungeklärt

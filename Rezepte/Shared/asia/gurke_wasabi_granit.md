@@ -41,13 +41,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-16T22:04:27+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: gurke_wasabi_granit
 sichtbarkeit: shared
 rezept_id: shared__asia__gurke__wasabi__granit
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/asia/gurke_wasabi_granit.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/asia/gurke_wasabi_granit.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/asia/gurke_wasabi_granit.md
 ---
 
 # Gurke-Wasabi-Granité
@@ -76,9 +83,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/asia/gurke_wasabi_granit.md
 
 Passt hervorragend zu Sashimi. Shio Koji gibt eine subtile Umami-Tiefe. Äpfel (Granny Smith) bringen die nötige Säure und Frische. Wasabi-Menge nach Schärfevorliebe anpassen.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[schweinebauch_honig_soja_glasur]] — ebenfalls asiatisch, passt als Hauptgang dazu
-- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Asiatischer Jus als Saucen-Basis
-- [[poached_eggs_mit_miso_brown_butter_hollandaise]] — Miso-Umami, japanischer Stil
-- [[tahini_ramen_salad]] — Asiatischer Salat, ähnliche Beilagen-Rolle
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.08
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 60 kcal, 0.0 g Protein, 15.0 g KH, 0.0 g Fett
+- Pro Portion: 15 kcal, 0.0 g Protein, 3.8 g KH, 0.0 g Fett
+- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
+- Review-Hinweis: 7 Zutaten/Mengen ungeklärt

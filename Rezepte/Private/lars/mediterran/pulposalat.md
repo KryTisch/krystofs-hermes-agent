@@ -29,7 +29,7 @@ zutaten_kurz:
 - 2 Minigurken, fein gewürfelt
 - 2 Tomaten, entkernt & gewürfelt
 - 1 rote Zwiebel, in sehr feine geviertelte Ringe
-aktualisiert_am: '2026-05-16T20:31:18+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: contributor
 slug: pulposalat
 sichtbarkeit: private
@@ -49,6 +49,13 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/lars/mediterran/pulposalat.md
 ---
 
 # Pulposalat
@@ -85,6 +92,17 @@ verwandte_rezepte: []
 ## Meine Notizen
 
 Den Pulpo unbedingt noch lauwarm in den Salat geben — so nimmt er die Marinade richtig an. Die Salzzitrone ist der entscheidende Faktor, nicht zu sparsam dosieren.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 15 Zutaten/Mengen ungeklärt
 
 ## Rezeptprofil
 

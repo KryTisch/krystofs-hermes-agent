@@ -39,13 +39,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T08:48:13+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: brot_44_reines_roggen_sauerteigbrot
 sichtbarkeit: private
 rezept_id: private__krystof__brot__brot__44__reines__roggen__sauerteigbrot
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/brot/brot_44_reines_roggen_sauerteigbrot.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/brot/brot_44_reines_roggen_sauerteigbrot.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/brot/brot_44_reines_roggen_sauerteigbrot.md
 ---
 
 # Brot #44 - Reines Roggen Sauerteigbrot
@@ -77,3 +84,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/brot/brot_44_reines_
 ## Meine Notizen
 
 100% Roggen, kein Industriehefe. Kalte Gare ist der entscheidende Trick — kalter Teigling hält beim Einschießen seine Form bis die Kruste ihn hält. Kerntemperatur-Thermometer empfohlen (96–98°C = fertig). Zum Frühstück: Sauerteig 2 Abende vorher ansetzen.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 12
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 7 Zutaten/Mengen ungeklärt

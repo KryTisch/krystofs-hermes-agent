@@ -37,13 +37,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T16:36:20+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: reader
 slug: moehren_bohnen_gemuese_mit_orange_und_basilikum
 sichtbarkeit: private
 rezept_id: private__katja__vegetarisch__moehren__bohnen__gemuese__mit__orange__und__basilikum
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
 ---
 
 # Möhren-Bohnen-Gemüse mit Orange und Basilikum
@@ -75,3 +82,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/vegetarisch/moehren_bo
 ## Meine Notizen
 
 Möhren und Bohnen nach Möglichkeit getrennt auf der Platte anrichten.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.07
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 265 kcal, 0.0 g Protein, 0.0 g KH, 30.0 g Fett
+- Pro Portion: 66 kcal, 0.0 g Protein, 0.0 g KH, 7.5 g Fett
+- Pro 100 g: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
+- Review-Hinweis: 8 Zutaten/Mengen ungeklärt

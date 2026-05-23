@@ -38,13 +38,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T09:05:48+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: erdbeer_shortbread_mit_gesuesster_kondensmilch
 sichtbarkeit: private
 rezept_id: private__krystof__desserts__erdbeer__shortbread__mit__gesuesster__kondensmilch
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/desserts/erdbeer_shortbread_mit_gesuesster_kondensmilch.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/desserts/erdbeer_shortbread_mit_gesuesster_kondensmilch.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/desserts/erdbeer_shortbread_mit_gesuesster_kondensmilch.md
 ---
 
 # Erdbeer-Shortbread mit gesüßter Kondensmilch
@@ -69,3 +76,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/desserts/erdbeer_sho
 ## Meine Notizen
 
 Qualität der Erdbeeren ist entscheidend: selbst pflücken, wirklich süße Sorte, dann einfrieren. Shortbread selbst machen oder eine gute Qualität kaufen — macht den Unterschied. Sesam und Kokos passen beide gut — je nach Lust.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 2
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 4 Zutaten/Mengen ungeklärt

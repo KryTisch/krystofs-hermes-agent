@@ -40,13 +40,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T05:48:09+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: creamy_bucatini_with_roasted_seaweed
 sichtbarkeit: shared
 rezept_id: shared__pasta__creamy__bucatini__with__roasted__seaweed
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/pasta/creamy_bucatini_with_roasted_seaweed.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/pasta/creamy_bucatini_with_roasted_seaweed.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/pasta/creamy_bucatini_with_roasted_seaweed.md
 ---
 
 # Creamy Bucatini With Roasted Seaweed
@@ -75,9 +82,13 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/pasta/creamy_bucatini_with_ro
 
 Roasted seaweed snacks and heavy cream make an unexpected (and totally delicious) pairing in this 20-minute pasta.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Seaweed/Asia-Verbindung
-- [[schweinebauch_honig_soja_glasur]] — Als Hauptgang dazu (Umami-Profil)
-- [[tahini_ramen_salad]] — Ähnlicher Noodle-Stil
-- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Umami-Gemüse-Beilage
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 2
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 9 Zutaten/Mengen ungeklärt

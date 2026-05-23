@@ -40,13 +40,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-16T22:14:50+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: basque_cheesecake
 sichtbarkeit: shared
 rezept_id: shared__backen__basque__cheesecake
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/basque_cheesecake.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/basque_cheesecake.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/basque_cheesecake.md
 ---
 
 # Basque Cheesecake
@@ -76,9 +83,13 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/basque_cheesecake.md
 
 Basque-Stil — kein Boden, kein Wasserbad. Der 'rohe' Wackelpunkt beim Herausnehmen ist entscheidend für die cremige Textur. Parmesan ist Standard — gibt subtile Umami-Tiefe. Form ⌀ 18 cm.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[pistazientoertchen_mit_fluessigem_kern]] — Ähnliches Dessert-Niveau, Backtechnik
-- [[optimierte_zitronen_brombeer_cremetoertchen]] — Crème-Törtchen, ähnliche Backstrategie
-- [[3_zutaten_zitronen_eis]] — Leichteres Dessert als Kontrast
-- [[erdbeer_shortbread_mit_gesuesster_kondensmilch]] — Einfaches Dessert, ähnliche Süße
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 1
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 8 Zutaten/Mengen ungeklärt

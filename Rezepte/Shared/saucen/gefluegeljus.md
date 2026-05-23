@@ -38,13 +38,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T05:52:35+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: gefluegeljus
 sichtbarkeit: shared
 rezept_id: shared__saucen__gefluegeljus
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/saucen/gefluegeljus.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/saucen/gefluegeljus.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/saucen/gefluegeljus.md
 ---
 
 # Geflügeljus
@@ -80,9 +87,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/saucen/gefluegeljus.md
 
 Rezept von Christian Bau (3-Sterne-Koch). Möglichst Geflügelfond statt Wasser verwenden.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Asiatische Schwester-Variante
-- [[honey_harissa_baked_feta_mit_haehnchen]] — Hähnchen-Hauptgericht, passt dazu
-- [[popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis]] — Hähnchen, Jus als Upgrade
-- [[savory_cheese_souffl]] — Sterneküche-Niveau, passt stilistisch
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.10
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
+- Pro Portion: 221 kcal, 0.0 g Protein, 0.0 g KH, 25.0 g Fett
+- Pro 100 g: 29 kcal, 0.0 g Protein, 0.0 g KH, 3.2 g Fett
+- Review-Hinweis: 11 Zutaten/Mengen ungeklärt

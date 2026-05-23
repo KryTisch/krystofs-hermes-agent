@@ -33,13 +33,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T05:51:36+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: toasted_rye_chocolate_chip_cookies
 sichtbarkeit: shared
 rezept_id: shared__backen__toasted__rye__chocolate__chip__cookies
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/toasted_rye_chocolate_chip_cookies.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/toasted_rye_chocolate_chip_cookies.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/toasted_rye_chocolate_chip_cookies.md
 ---
 
 # Toasted Rye Chocolate Chip Cookies
@@ -73,9 +80,13 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/toasted_rye_chocolate_
 
 These salty sweet rye chocolate chip cookies are made with fragrant pan-toasted rye flour and a few extra drizzles of molasses.&nbsp;To allow flavors to develop, chill dough in the fridge overnight or for as long as three days. If you're pressed for time, chill dough at least two hours.&nbsp;
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[brot_44_reines_roggen_sauerteigbrot]] — Roggen als gemeinsame Zutat
-- [[charlies_vivis_roggen_dinkelbrot]] — Roggen-Backen
-- [[homemade_cinnamon_rolls_cinnabon_copycat_recipe]] — Ähnliches Süßgebäck-Profil
-- [[cottage_cheese_protein_squares_mit_erdnussbutter]] — Protein-Snack-Kategorie
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 22
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 10 Zutaten/Mengen ungeklärt

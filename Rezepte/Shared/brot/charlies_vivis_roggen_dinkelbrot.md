@@ -42,13 +42,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T09:03:16+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: charlies_vivis_roggen_dinkelbrot
 sichtbarkeit: shared
 rezept_id: shared__brot__charlies__vivis__roggen__dinkelbrot
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/brot/charlies_vivis_roggen_dinkelbrot.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/charlies_vivis_roggen_dinkelbrot.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/brot/charlies_vivis_roggen_dinkelbrot.md
 ---
 
 # Charlies & Vivis Roggen-Dinkelbrot
@@ -84,8 +91,13 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/charlies_vivis_roggen_di
 
 Rezept von Charlie & Vivi. Die Sauerteig-Aktivierung ergibt ~450 g — nur 210 g kommen in den Teig, der Rest ist gleich das neue Anstellgut. Gärkörbchen muss wirklich gut bemehlt sein (Backfix-Mehlmischung). Unbedingt auf dem Gitter auskühlen — nicht im Römertopf.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[brot_44_reines_roggen_sauerteigbrot]] — Sauerteigbrot, ähnlicher Prozess
-- [[hamburger_franzbroetchen]] — Brot-Kategorie, Hefegebäck
-- [[toasted_rye_chocolate_chip_cookies]] — Roggen als gemeinsame Zutat
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 12
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 9 Zutaten/Mengen ungeklärt

@@ -38,13 +38,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:32:30+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: sesam_wraps_4_zutaten
 sichtbarkeit: shared
 rezept_id: shared__snacks__sesam__wraps__4__zutaten
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/snacks/sesam_wraps_4_zutaten.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/snacks/sesam_wraps_4_zutaten.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/snacks/sesam_wraps_4_zutaten.md
 ---
 
 # Sesam-Wraps (4 Zutaten)
@@ -72,9 +79,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/snacks/sesam_wraps_4_zutaten.
 
 Psyllium macht die Wraps biegsam und ist gut für die Verdauung. Halten sich mehrere Tage im Kühlschrank. Rezept lässt sich einfach verdoppeln oder verdreifachen.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[cottage_cheese_protein_squares_mit_erdnussbutter]] — Protein-Snack-Kategorie
-- [[protein_haferbrei_thermomix]] — Schnelles Essen, protein-reich
-- [[cowboy_butter_mit_cream_cheese]] — Dip als Begleiter
-- [[ezme_tuerkische_paprika_tomaten_paste]] — Dip als Begleiter
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.13
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro 100 g: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 4 Zutaten/Mengen ungeklärt

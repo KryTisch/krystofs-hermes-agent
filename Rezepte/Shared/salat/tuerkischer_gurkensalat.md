@@ -30,7 +30,7 @@ zutaten_kurz:
 - 2 kleine Knoblauchzehen, gerieben
 - Minze, sehr fein gehackt (großzügige Menge)
 - Weißweinessig, ein großzügiger Schuss
-aktualisiert_am: '2026-05-16T20:31:18+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: tuerkischer_gurkensalat
 sichtbarkeit: shared
@@ -50,6 +50,13 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/salat/tuerkischer_gurkensalat.md
 ---
 
 # Türkischer Gurkensalat
@@ -83,15 +90,19 @@ verwandte_rezepte: []
 
 Koriander war ursprünglich geplant, wurde durch Minze ersetzt. Knoblauch gerieben, nicht gepresst. Harissa optional aber empfehlenswert.
 
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 3
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 12 Zutaten/Mengen ungeklärt
+
 ## Rezeptprofil
 
 - Länderküche: Türkisch
 - Stil: salat, beilage
 - Aufwand: einfach
-
-## Verwandte Rezepte
-
-- [[ezme_tuerkische_paprika_tomaten_paste]] — Türkische Beilage, passt perfekt dazu
-- [[selbstgemachte_hackfleisch_fladen]] — Türkisch inspiriertes Hauptgericht
-- [[honey_harissa_baked_feta_mit_haehnchen]] — Harissa-Verbindung
-- [[pulposalat]] — Mediterrane Beilage, ähnliche Frische

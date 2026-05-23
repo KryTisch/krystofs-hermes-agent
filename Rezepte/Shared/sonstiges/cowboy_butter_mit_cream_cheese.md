@@ -39,13 +39,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:37:39+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: cowboy_butter_mit_cream_cheese
 sichtbarkeit: shared
 rezept_id: shared__sonstiges__cowboy__butter__mit__cream__cheese
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/sonstiges/cowboy_butter_mit_cream_cheese.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/cowboy_butter_mit_cream_cheese.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/sonstiges/cowboy_butter_mit_cream_cheese.md
 ---
 
 # Cowboy Butter mit Cream Cheese
@@ -78,9 +85,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/cowboy_butter_mit_c
 
 Rezept kann problemlos halbiert werden. Lässt sich einfrieren. Cream Cheese macht den Spread milder und universeller als die klassische Cowboy Butter.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[selbstgemachte_hackfleisch_fladen]] — Fleisch-Beilage, Dip
-- [[sesam_wraps_4_zutaten]] — Snack-Begleiter
-- [[ezme_tuerkische_paprika_tomaten_paste]] — Ähnliche Dip/Spread-Rolle
-- [[fermentierter_honig_knoblauch]] — Knoblauch-Verbindung, beide als Würzmittel
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.05
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 10
+- Gesamt: 1613 kcal, 2.0 g Protein, 0.2 g KH, 182.5 g Fett
+- Pro Portion: 161 kcal, 0.2 g Protein, 0.0 g KH, 18.2 g Fett
+- Pro 100 g: 717 kcal, 0.9 g Protein, 0.1 g KH, 81.1 g Fett
+- Review-Hinweis: 11 Zutaten/Mengen ungeklärt

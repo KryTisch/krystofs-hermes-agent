@@ -38,13 +38,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T16:42:17+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: reader
 slug: rhabarbercrumble
 sichtbarkeit: private
 rezept_id: private__katja__desserts__rhabarbercrumble
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/desserts/rhabarbercrumble.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/desserts/rhabarbercrumble.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/desserts/rhabarbercrumble.md
 ---
 
 # Rhabarbercrumble
@@ -79,3 +86,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/desserts/rhabarbercrum
 ## Meine Notizen
 
 Statt Rhabarber kann auch ein Himbeer-Heidelbeer-Mix verwendet werden.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.05
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 320 kcal, 0.0 g Protein, 80.0 g KH, 0.0 g Fett
+- Pro Portion: 80 kcal, 0.0 g Protein, 20.0 g KH, 0.0 g Fett
+- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
+- Review-Hinweis: 11 Zutaten/Mengen ungeklärt

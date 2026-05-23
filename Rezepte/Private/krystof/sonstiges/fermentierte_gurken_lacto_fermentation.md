@@ -39,13 +39,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:38:57+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: fermentierte_gurken_lacto_fermentation
 sichtbarkeit: private
 rezept_id: private__krystof__sonstiges__fermentierte__gurken__lacto__fermentation
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/sonstiges/fermentierte_gurken_lacto_fermentation.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/sonstiges/fermentierte_gurken_lacto_fermentation.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/sonstiges/fermentierte_gurken_lacto_fermentation.md
 ---
 
 # Fermentierte Gurken (Lacto-Fermentation)
@@ -75,3 +82,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/sonstiges/fermentier
 ## Meine Notizen
 
 Der höhere Salzgehalt (3,5% statt 2%) verhindert, dass die Gurken zu matschig werden. Immer prüfen ob Gurken komplett unter Wasser bleiben — ggf. mit einem Gewicht beschweren. Kühl fermentieren für ein festeres Ergebnis.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 1
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 9 Zutaten/Mengen ungeklärt

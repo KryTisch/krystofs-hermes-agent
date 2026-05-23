@@ -37,13 +37,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:36:07+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: fermentierter_honig_knoblauch
 sichtbarkeit: shared
 rezept_id: shared__sonstiges__fermentierter__honig__knoblauch
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/sonstiges/fermentierter_honig_knoblauch.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/fermentierter_honig_knoblauch.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/sonstiges/fermentierter_honig_knoblauch.md
 ---
 
 # Fermentierter Honig-Knoblauch
@@ -70,9 +77,13 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/fermentierter_honig
 
 Roher Honig ist essenziell — pasteurisierter Honig funktioniert nicht. Knoblauch mildet durch die Fermentation deutlich ab. Einfach pur nehmen, in Tee rühren oder in Dressings verwenden. Gut bei Erkältungsgefühl.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[fermentierte_gurken_lacto_fermentation]] — Ebenfalls Fermentation, beide zusammen ansetzen
-- [[cowboy_butter_mit_cream_cheese]] — Knoblauch-Verbindung, Dip/Würzmittel
-- [[ezme_tuerkische_paprika_tomaten_paste]] — Knoblauch-Verbindung
-- [[gefluegeljus]] — Knoblauch als Aromabasis
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 1
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 3 Zutaten/Mengen ungeklärt

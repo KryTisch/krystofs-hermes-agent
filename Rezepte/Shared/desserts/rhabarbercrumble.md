@@ -16,8 +16,8 @@ owner_name: Katja
 hinzugefuegt_von: Katja
 hinzugefuegt_von_user_id: '8733691947'
 shared: true
-status: pending_approval
-requires_approval: true
+status: published
+requires_approval: false
 quelle_typ: muendlich
 quelle_url: ''
 quelle_archiv_url: ''
@@ -38,13 +38,24 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T16:42:28+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: reader
 slug: rhabarbercrumble
 sichtbarkeit: shared
 rezept_id: pending__katja__desserts__rhabarbercrumble
-source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/pending/katja/desserts/rhabarbercrumble.md
-obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/desserts/rhabarbercrumble.md
+source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/desserts/rhabarbercrumble.md
+obsidian_path: /root/obsidian-vault/Rezepte/Shared/desserts/rhabarbercrumble.md
+approved_by: Krystof
+approved_by_user_id: '7746126677'
+approved_at: '2026-05-23T06:00:32+00:00'
+published_at: '2026-05-23T06:00:32+00:00'
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/desserts/rhabarbercrumble.md
 ---
 
 # Rhabarbercrumble
@@ -79,3 +90,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/desserts/rhabarbercrum
 ## Meine Notizen
 
 Statt Rhabarber kann auch ein Himbeer-Heidelbeer-Mix verwendet werden.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.05
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 320 kcal, 0.0 g Protein, 80.0 g KH, 0.0 g Fett
+- Pro Portion: 80 kcal, 0.0 g Protein, 20.0 g KH, 0.0 g Fett
+- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
+- Review-Hinweis: 11 Zutaten/Mengen ungeklärt

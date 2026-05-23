@@ -41,13 +41,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-16T22:12:26+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: poached_eggs_mit_miso_brown_butter_hollandaise
 sichtbarkeit: shared
 rezept_id: shared__fruehstueck__poached__eggs__mit__miso__brown__butter__hollandaise
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fruehstueck/poached_eggs_mit_miso_brown_butter_hollandaise.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/fruehstueck/poached_eggs_mit_miso_brown_butter_hollandaise.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fruehstueck/poached_eggs_mit_miso_brown_butter_hollandaise.md
 ---
 
 # Poached Eggs mit Miso-Brown Butter Hollandaise
@@ -85,9 +92,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/fruehstueck/poached_eggs_mit_
 
 Stabmixer statt Standmixer — bei kleinen Mengen unbedingt. Die Nussbutter-Röststückchen kommen in die Sauce, nicht in der Pfanne lassen! Schalotten nicht länger als 10 Min. einlegen, sonst werden sie matschig.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[savory_cheese_souffl]] — Anspruchsvolles Eiergericht, ähnliches Niveau
-- [[protein_haferbrei_thermomix]] — Alternatives Frühstück
-- [[miso_spitzkohl_mit_tahini_butterboehnen]] — Miso-Verbindung
-- [[zwetschgenkuchen_mit_umami_note]] — Umami-Twist-Verbindung
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.09
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 2
+- Gesamt: 1224 kcal, 1.5 g Protein, 1.4 g KH, 137.9 g Fett
+- Pro Portion: 612 kcal, 0.8 g Protein, 0.7 g KH, 68.9 g Fett
+- Pro 100 g: 715 kcal, 0.9 g Protein, 0.8 g KH, 80.5 g Fett
+- Review-Hinweis: 13 Zutaten/Mengen ungeklärt

@@ -39,13 +39,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:38:10+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: miso_spitzkohl_mit_tahini_butterboehnen
 sichtbarkeit: shared
 rezept_id: shared__vegetarisch__miso__spitzkohl__mit__tahini__butterboehnen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/vegetarisch/miso_spitzkohl_mit_tahini_butterboehnen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/miso_spitzkohl_mit_tahini_butterboehnen.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/vegetarisch/miso_spitzkohl_mit_tahini_butterboehnen.md
 ---
 
 # Miso-Spitzkohl mit Tahini-Butterböhnen
@@ -83,10 +90,13 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/miso_spitzkohl_mi
 
 Hispi/Spitzkohl ist besonders zart — aber normaler Kohl in Spalten funktioniert auch gut. Die Bohnen-Creme kann als eigenständiger Dip verwendet werden.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[roasted_cauliflower_mit_harissa_und_tahini]] — Vegetarisch, Tahini-Verbindung
-- [[tahini_ramen_salad]] — Tahini-Verbindung
-- [[schweinebauch_honig_soja_glasur]] — Miso-Verbindung, als Beilage zum Hauptgang
-- [[poached_eggs_mit_miso_brown_butter_hollandaise]] — Miso-Verbindung
-- [[baby_artischocken_nach_christians_art]] — Vegetarische Vorspeise
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 3
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 16 Zutaten/Mengen ungeklärt

@@ -39,13 +39,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T09:00:06+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: pistazientoertchen_mit_fluessigem_kern
 sichtbarkeit: shared
 rezept_id: shared__backen__pistazientoertchen__mit__fluessigem__kern
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/pistazientoertchen_mit_fluessigem_kern.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/pistazientoertchen_mit_fluessigem_kern.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/pistazientoertchen_mit_fluessigem_kern.md
 ---
 
 # Pistazientörtchen mit flüssigem Kern
@@ -75,8 +82,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/pistazientoertchen_mit
 
 Wichtig: exakt 10 Minuten Backzeit — zu lange und der Kern ist durch. Die Förmchen müssen wirklich gut eingefettet sein. Sofort servieren.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[optimierte_zitronen_brombeer_cremetoertchen]] — Törtchen-Technik, ähnliche Struktur
-- [[basque_cheesecake]] — Dessert-Niveau, cremig
-- [[savory_cheese_souffl]] — Ähnliche Backtechnik (Soufflé vs. Moelleux)
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.19
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 9
+- Gesamt: 698 kcal, 6.0 g Protein, 165.6 g KH, 0.6 g Fett
+- Pro Portion: 78 kcal, 0.7 g Protein, 18.4 g KH, 0.1 g Fett
+- Pro 100 g: 388 kcal, 3.3 g Protein, 92.0 g KH, 0.3 g Fett
+- Review-Hinweis: 5 Zutaten/Mengen ungeklärt

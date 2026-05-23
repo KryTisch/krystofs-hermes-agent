@@ -15,8 +15,8 @@ owner_name: Katja
 hinzugefuegt_von: Katja
 hinzugefuegt_von_user_id: '8733691947'
 shared: true
-status: pending_approval
-requires_approval: true
+status: published
+requires_approval: false
 quelle_typ: muendlich
 quelle_url: telegram://8733691947
 quelle_archiv_url: ''
@@ -34,13 +34,24 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T16:39:35+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: reader
 slug: knusprig_gebratene_entenbrust_mit_sojasauce
 sichtbarkeit: shared
 rezept_id: pending__katja__fleisch__knusprig__gebratene__entenbrust__mit__sojasauce
-source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/pending/katja/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
-obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
+source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
+obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
+approved_by: Krystof
+approved_by_user_id: '7746126677'
+approved_at: '2026-05-23T06:00:56+00:00'
+published_at: '2026-05-23T06:00:56+00:00'
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
 ---
 
 # Knusprig gebratene Entenbrust mit Sojasauce
@@ -63,3 +74,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/fleisch/knusprig_gebra
 ## Meine Notizen
 
 Nur sehr kurz in der Sojasoße schwenken, damit die Entenbrust saftig bleibt.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 2
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 2 Zutaten/Mengen ungeklärt

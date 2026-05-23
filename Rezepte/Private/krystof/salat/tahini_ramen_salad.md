@@ -39,13 +39,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:33:18+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: tahini_ramen_salad
 sichtbarkeit: private
 rezept_id: private__krystof__salat__tahini__ramen__salad
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/salat/tahini_ramen_salad.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/salat/tahini_ramen_salad.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/salat/tahini_ramen_salad.md
 ---
 
 # Tahini Ramen Salad
@@ -77,3 +84,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/salat/tahini_ramen_s
 ## Meine Notizen
 
 Hält sich gut im Kühlschrank — ideal zum Meal Prep. Gemüse je nach Saison variieren. Dressing kann nach Geschmack mit etwas Chiliöl aufgepeppt werden.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.12
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 2020 kcal, 42.5 g Protein, 244.8 g KH, 95.1 g Fett
+- Pro Portion: 505 kcal, 10.6 g Protein, 61.2 g KH, 23.8 g Fett
+- Pro 100 g: 470 kcal, 9.9 g Protein, 56.9 g KH, 22.1 g Fett
+- Review-Hinweis: 9 Zutaten/Mengen ungeklärt

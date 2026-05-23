@@ -28,7 +28,7 @@ zutaten_kurz:
 - frischer Knoblauch nach Geschmack
 - Pfeffer nach Geschmack
 - gemahlener Koriander (ordentliche Menge)
-aktualisiert_am: '2026-05-16T20:31:18+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: selbstgemachte_hackfleisch_fladen
 sichtbarkeit: shared
@@ -47,6 +47,13 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/selbstgemachte_hackfleisch_fladen.md
 ---
 
 # Selbstgemachte Hackfleisch-Fladen
@@ -76,13 +83,18 @@ verwandte_rezepte: []
 
 Passt hervorragend zum Türkischen Gurkensalat (bereits in der Datenbank). Hackfleisch vom Angus-Rind aus dem Raum Frankfurt nach Papis Empfehlung.
 
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 3
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 7 Zutaten/Mengen ungeklärt
+
 ## Rezeptprofil
 
 - Stil: ofen, fingerfood
 - Aufwand: einfach
-
-## Verwandte Rezepte
-
-- [[ezme_tuerkische_paprika_tomaten_paste]] — Türkische Beilage, passt perfekt dazu
-- [[tuerkischer_gurkensalat]] — Türkische Beilage
-- [[cowboy_butter_mit_cream_cheese]] — Dip/Spread als Begleiter

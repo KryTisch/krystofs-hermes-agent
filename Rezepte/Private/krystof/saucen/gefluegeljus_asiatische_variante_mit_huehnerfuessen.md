@@ -43,13 +43,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-16T22:05:49+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: gefluegeljus_asiatische_variante_mit_huehnerfuessen
 sichtbarkeit: private
 rezept_id: private__krystof__saucen__gefluegeljus__asiatische__variante__mit__huehnerfuessen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/saucen/gefluegeljus_asiatische_variante_mit_huehnerfuessen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/saucen/gefluegeljus_asiatische_variante_mit_huehnerfuessen.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/saucen/gefluegeljus_asiatische_variante_mit_huehnerfuessen.md
 ---
 
 # Geflügeljus – Asiatische Variante mit Hühnerfüßen
@@ -89,3 +96,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/saucen/gefluegeljus_
 ## Meine Notizen
 
 Originalrezept von Christian Bau (3 Sterne, Nennig), via liebemitbiss.com. Krystofs Variante: +500g Hühnerfüße für deutlich mehr Gelatine und Bindung — macht die Jus seidiger und vollmundiger. Asiatische Würzung mit Zimt, Sternanis und Koriander macht diese Version besonders. Sehr lecker!
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.08
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 6
+- Gesamt: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
+- Pro Portion: 147 kcal, 0.0 g Protein, 0.0 g KH, 16.7 g Fett
+- Pro 100 g: 29 kcal, 0.0 g Protein, 0.0 g KH, 3.2 g Fett
+- Review-Hinweis: 15 Zutaten/Mengen ungeklärt

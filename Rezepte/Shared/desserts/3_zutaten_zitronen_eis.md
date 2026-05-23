@@ -37,13 +37,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:35:37+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: 3_zutaten_zitronen_eis
 sichtbarkeit: shared
 rezept_id: shared__desserts__3__zutaten__zitronen__eis
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/desserts/3_zutaten_zitronen_eis.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/desserts/3_zutaten_zitronen_eis.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/desserts/3_zutaten_zitronen_eis.md
 ---
 
 # 3-Zutaten Zitronen-Eis
@@ -69,9 +76,13 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/desserts/3_zutaten_zitronen_e
 
 Bio-Zitronen wichtig, da die Schale mitgemixt wird. Wer es süßer mag, mehr Ahornsirup. Sofort nach dem zweiten Mixen servieren — taut schnell wieder.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[erdbeer_shortbread_mit_gesuesster_kondensmilch]] — Einfaches Sommer-Dessert
-- [[optimierte_zitronen_brombeer_cremetoertchen]] — Zitrone als Verbindung
-- [[gurke_wasabi_granit]] — Ähnliche Granité/Eis-Technik
-- [[thousand_layer_apple]] — Dessert-Kategorie
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 3 Zutaten/Mengen ungeklärt

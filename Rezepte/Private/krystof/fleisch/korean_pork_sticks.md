@@ -38,13 +38,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:33:49+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: korean_pork_sticks
 sichtbarkeit: private
 rezept_id: private__krystof__fleisch__korean__pork__sticks
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/fleisch/korean_pork_sticks.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/fleisch/korean_pork_sticks.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/fleisch/korean_pork_sticks.md
 ---
 
 # Korean Pork Sticks
@@ -79,3 +86,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/fleisch/korean_pork_
 ## Meine Notizen
 
 Kimchi-Mayo separat machen: Kimchi fein hacken, mit Mayo mischen. Das Geheimnis ist die dünne Schnittweise und das Bestreichen ganz am Ende — dann karamellisiert die Marinade schön.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.05
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 4
+- Gesamt: 240 kcal, 0.0 g Protein, 60.0 g KH, 0.0 g Fett
+- Pro Portion: 60 kcal, 0.0 g Protein, 15.0 g KH, 0.0 g Fett
+- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
+- Review-Hinweis: 12 Zutaten/Mengen ungeklärt

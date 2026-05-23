@@ -33,13 +33,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T05:50:37+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: zwetschgenkuchen_mit_umami_note
 sichtbarkeit: shared
 rezept_id: shared__backen__zwetschgenkuchen__mit__umami__note
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/zwetschgenkuchen_mit_umami_note.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/zwetschgenkuchen_mit_umami_note.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/zwetschgenkuchen_mit_umami_note.md
 ---
 
 # Zwetschgenkuchen mit Umami-Note
@@ -68,8 +75,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/zwetschgenkuchen_mit_u
 
 Misopaste passt nicht nur zu herzhaften oder asiatischen Gerichten: Auf diesem herbstlichen Kuchen machte sie die Streusel besonders schmackhaft.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[germknoedel_dampfnudeln]] — Zwetschgen-Verbindung
-- [[optimierte_zitronen_brombeer_cremetoertchen]] — Frucht-Törtchen-Stil
-- [[poached_eggs_mit_miso_brown_butter_hollandaise]] — Miso-Umami-Verbindung
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.36
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 3940 kcal, 44.8 g Protein, 473.2 g KH, 207.0 g Fett
+- Pro Portion: 985 kcal, 11.2 g Protein, 118.3 g KH, 51.8 g Fett
+- Pro 100 g: 478 kcal, 5.4 g Protein, 57.4 g KH, 25.1 g Fett
+- Review-Hinweis: 4 Zutaten/Mengen ungeklärt

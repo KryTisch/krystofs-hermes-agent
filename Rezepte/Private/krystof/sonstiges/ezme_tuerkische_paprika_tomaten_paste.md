@@ -38,13 +38,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:34:20+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: ezme_tuerkische_paprika_tomaten_paste
 sichtbarkeit: private
 rezept_id: private__krystof__sonstiges__ezme__tuerkische__paprika__tomaten__paste
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/sonstiges/ezme_tuerkische_paprika_tomaten_paste.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/sonstiges/ezme_tuerkische_paprika_tomaten_paste.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/sonstiges/ezme_tuerkische_paprika_tomaten_paste.md
 ---
 
 # Ezme — Türkische Paprika-Tomaten-Paste
@@ -79,3 +86,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/sonstiges/ezme_tuerk
 ## Meine Notizen
 
 Das Auspressen des Wassers ist entscheidend — sonst wird die Ezme wässrig. Schärfe über die Paprikasorte und das Paprikamark steuern. Passt hervorragend als Dip zum Grillen oder im Döner.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.05
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 6
+- Gesamt: 530 kcal, 0.0 g Protein, 0.0 g KH, 60.0 g Fett
+- Pro Portion: 88 kcal, 0.0 g Protein, 0.0 g KH, 10.0 g Fett
+- Pro 100 g: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
+- Review-Hinweis: 12 Zutaten/Mengen ungeklärt

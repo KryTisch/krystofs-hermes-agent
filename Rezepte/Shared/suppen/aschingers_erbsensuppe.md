@@ -16,8 +16,8 @@ owner_name: Katja
 hinzugefuegt_von: Katja
 hinzugefuegt_von_user_id: '8733691947'
 shared: true
-status: pending_approval
-requires_approval: true
+status: published
+requires_approval: false
 quelle_typ: muendlich
 quelle_url: ''
 quelle_archiv_url: ''
@@ -38,13 +38,24 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T17:12:06+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: reader
 slug: aschingers_erbsensuppe
 sichtbarkeit: shared
 rezept_id: pending__katja__suppen__aschingers__erbsensuppe
-source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/pending/katja/suppen/aschingers_erbsensuppe.md
-obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/suppen/aschingers_erbsensuppe.md
+source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/suppen/aschingers_erbsensuppe.md
+obsidian_path: /root/obsidian-vault/Rezepte/Shared/suppen/aschingers_erbsensuppe.md
+approved_by: Krystof
+approved_by_user_id: '7746126677'
+approved_at: '2026-05-23T06:01:22+00:00'
+published_at: '2026-05-23T06:01:22+00:00'
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/suppen/aschingers_erbsensuppe.md
 ---
 
 # Aschingers Erbsensuppe
@@ -78,3 +89,15 @@ obsidian_path: /root/obsidian-vault/Rezepte/Pending/katja/suppen/aschingers_erbs
 ## Meine Notizen
 
 Einweichzeit über Nacht ist eingerechnet. Salz erst nach dem langen Garen zugeben, damit die Erbsen sauber weich werden.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.06
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 4
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro 100 g: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 10 Zutaten/Mengen ungeklärt

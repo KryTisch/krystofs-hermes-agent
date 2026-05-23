@@ -37,13 +37,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-18T05:50:52+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: admin
 slug: homemade_cinnamon_rolls_cinnabon_copycat_recipe
 sichtbarkeit: private
 rezept_id: private__krystof__backen__homemade__cinnamon__rolls__cinnabon__copycat__recipe
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/homemade_cinnamon_rolls_cinnabon_copycat_recipe.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/homemade_cinnamon_rolls_cinnabon_copycat_recipe.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/homemade_cinnamon_rolls_cinnabon_copycat_recipe.md
 ---
 
 # Homemade Cinnamon Rolls (Cinnabon Copycat Recipe)
@@ -93,3 +100,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/homemade_cinn
 ## Meine Notizen
 
 The best homemade cinnamon rolls ever! If you love gooey cinnamon buns, THIS is the recipe with the secret ingredient that makes all the difference.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 12
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 15 Zutaten/Mengen ungeklärt

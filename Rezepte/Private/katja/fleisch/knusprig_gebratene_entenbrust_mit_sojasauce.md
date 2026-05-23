@@ -34,13 +34,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-22T16:39:24+00:00'
+aktualisiert_am: '2026-05-23T20:05:25+00:00'
 eingereicht_von_rolle: reader
 slug: knusprig_gebratene_entenbrust_mit_sojasauce
 sichtbarkeit: private
 rezept_id: private__katja__fleisch__knusprig__gebratene__entenbrust__mit__sojasauce
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
 ---
 
 # Knusprig gebratene Entenbrust mit Sojasauce
@@ -63,3 +70,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/fleisch/knusprig_gebra
 ## Meine Notizen
 
 Nur sehr kurz in der Sojasoße schwenken, damit die Entenbrust saftig bleibt.
+
+## Nährwerte
+
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.00
+- Berechnet: 2026-05-23T20:05:25+00:00
+- Portionen: 2
+- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
+- Review-Hinweis: 2 Zutaten/Mengen ungeklärt

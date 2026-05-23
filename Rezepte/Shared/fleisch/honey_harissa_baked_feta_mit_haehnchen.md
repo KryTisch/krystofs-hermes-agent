@@ -39,13 +39,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:36:38+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: honey_harissa_baked_feta_mit_haehnchen
 sichtbarkeit: shared
 rezept_id: shared__fleisch__honey__harissa__baked__feta__mit__haehnchen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/honey_harissa_baked_feta_mit_haehnchen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/honey_harissa_baked_feta_mit_haehnchen.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/honey_harissa_baked_feta_mit_haehnchen.md
 ---
 
 # Honey Harissa Baked Feta mit Hähnchen
@@ -81,10 +88,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/honey_harissa_baked_f
 
 Schnell und beeindruckend. Harissa-Menge nach Schärfewunsch anpassen. Auch ohne Pasta als eigenständiges Gericht servierbar.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[gefluegeljus]] — Geflügeljus als Saucen-Upgrade für Hähnchen
-- [[gefluegeljus_asiatische_variante_mit_huehnerfuessen]] — Asiatischer Jus, passt zur Harissa-Note
-- [[roasted_cauliflower_mit_harissa_und_tahini]] — Harissa-Verbindung, vegetarische Beilage
-- [[tuerkischer_gurkensalat]] — Frische Beilage dazu
-- [[popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis]] — Ebenfalls Hähnchen-Rezept
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.29
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 3
+- Gesamt: 664 kcal, 30.7 g Protein, 37.6 g KH, 44.2 g Fett
+- Pro Portion: 221 kcal, 10.2 g Protein, 12.5 g KH, 14.8 g Fett
+- Pro 100 g: 159 kcal, 7.3 g Protein, 9.0 g KH, 10.6 g Fett
+- Review-Hinweis: 6 Zutaten/Mengen ungeklärt

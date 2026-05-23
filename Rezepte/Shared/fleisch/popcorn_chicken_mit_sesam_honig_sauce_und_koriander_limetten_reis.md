@@ -39,13 +39,20 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-17T21:35:06+00:00'
+aktualisiert_am: '2026-05-23T20:05:26+00:00'
 eingereicht_von_rolle: admin
 slug: popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis
 sichtbarkeit: shared
 rezept_id: shared__fleisch__popcorn__chicken__mit__sesam__honig__sauce__und__koriander__limetten__reis
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis.md
+nutrition_status: needs_review
+nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+base_rezept_id: ''
+variant_id: ''
+variant_owner_user_id: ''
+variant_diff_json: ''
+path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis.md
 ---
 
 # Popcorn Chicken mit Sesam-Honig-Sauce und Koriander-Limetten-Reis
@@ -91,10 +98,14 @@ obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/popcorn_chicken_mit_s
 
 Perfektes Date-Night-Gericht. Hähnchenschenkel sind saftiger als Brust. Sauce zuerst machen — sie dickt beim Abkühlen noch nach.
 
-## Verwandte Rezepte
+## Nährwerte
 
-- [[gefluegeljus]] — Geflügeljus als Saucen-Basis
-- [[honey_harissa_baked_feta_mit_haehnchen]] — Ebenfalls Hähnchen-Rezept
-- [[korean_pork_sticks]] — Ähnliches Asia-Fleisch-Profil
-- [[tahini_ramen_salad]] — Asiatische Beilage
-- [[sesam_wraps_4_zutaten]] — Sesam-Verbindung
+- Status: needs_review
+- Quelle: local_cache
+- Confidence: 0.09
+- Berechnet: 2026-05-23T20:05:26+00:00
+- Portionen: 2
+- Gesamt: 370 kcal, 6.2 g Protein, 86.8 g KH, 0.6 g Fett
+- Pro Portion: 185 kcal, 3.1 g Protein, 43.4 g KH, 0.3 g Fett
+- Pro 100 g: 195 kcal, 3.2 g Protein, 45.7 g KH, 0.3 g Fett
+- Review-Hinweis: 20 Zutaten/Mengen ungeklärt
