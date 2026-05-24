@@ -34,7 +34,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:47:34+00:00'
 eingereicht_von_rolle: reader
 slug: knusprig_gebratene_entenbrust_mit_sojasauce
 sichtbarkeit: shared
@@ -45,8 +45,11 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-23T06:00:56+00:00'
 published_at: '2026-05-23T06:00:56+00:00'
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:47:34+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 6e6e48511af36ab6b32ebd054d866129f3e2ed35937435f4f075bb4b51a76f4f
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -77,11 +80,14 @@ Nur sehr kurz in der Sojasoße schwenken, damit die Entenbrust saftig bleibt.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.53
+- Berechnet: 2026-05-24T08:47:34+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 2 Zutaten/Mengen ungeklärt
+- Gesamt: 1010 kcal, 57.0 g Protein, 1.5 g KH, 84.0 g Fett
+- Pro Portion: 505 kcal, 28.5 g Protein, 0.8 g KH, 42.0 g Fett
+- Pro 100 g: 337 kcal, 19.0 g Protein, 0.5 g KH, 28.0 g Fett
+- Annahmen: Mangels genauer Menge mit 2 Entenbrüsten à ca. 200 g roh gerechnet.; Essbarer Rohanteil der Entenbrust ohne Knochen, mit Haut.; Beim scharfen Anbraten tritt viel Fett aus; ca. 25 g Fett verbleiben nicht im Gericht.; 1 Schuss Sojasoße mit ca. 10 ml angesetzt.

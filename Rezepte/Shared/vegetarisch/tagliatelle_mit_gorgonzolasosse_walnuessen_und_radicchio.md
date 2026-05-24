@@ -38,7 +38,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:52+00:00'
 eingereicht_von_rolle: reader
 slug: tagliatelle_mit_gorgonzolasosse_walnuessen_und_radicchio
 sichtbarkeit: shared
@@ -49,8 +49,11 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-23T06:00:06+00:00'
 published_at: '2026-05-23T06:00:06+00:00'
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:52+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: f58528f521769104d0782b3ddd46664aa46205f3062064b8a8edcde54386d3d5
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -93,11 +96,14 @@ Der Radicchio kommt erst am Schluss in die Sauce, damit er seine Struktur behäl
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.87
+- Berechnet: 2026-05-24T08:49:52+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 11 Zutaten/Mengen ungeklärt
+- Gesamt: 2800 kcal, 79.0 g Protein, 301.0 g KH, 139.0 g Fett
+- Pro Portion: 700 kcal, 19.8 g Protein, 75.2 g KH, 34.8 g Fett
+- Pro 100 g: 255 kcal, 7.2 g Protein, 27.4 g KH, 12.6 g Fett
+- Annahmen: 1 mittelgroße Zwiebel mit ca. 80 g essbarem Anteil angesetzt.; Olivenöl als 1 EL bzw. ca. 10 g für das Anschwitzen angesetzt.; Brot ist optional und nicht eingerechnet.; Thymian, Salz und Pfeffer energetisch vernachlässigbar.

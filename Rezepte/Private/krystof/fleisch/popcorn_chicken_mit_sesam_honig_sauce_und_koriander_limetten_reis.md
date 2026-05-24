@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:43:05+00:00'
 eingereicht_von_rolle: admin
 slug: popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis
 sichtbarkeit: private
 rezept_id: private__krystof__fleisch__popcorn__chicken__mit__sesam__honig__sauce__und__koriander__limetten__reis
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/fleisch/popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/fleisch/popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:43:05+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 2a5ccba072b427bfd67b999a8c6ed03a2bfb021ce18a8a16e99513f0cc4d9382
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -100,12 +103,14 @@ Perfektes Date-Night-Gericht. Hähnchenschenkel sind saftiger als Brust. Sauce z
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.09
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.75
+- Berechnet: 2026-05-24T08:43:05+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 370 kcal, 6.2 g Protein, 86.8 g KH, 0.6 g Fett
-- Pro Portion: 185 kcal, 3.1 g Protein, 43.4 g KH, 0.3 g Fett
-- Pro 100 g: 195 kcal, 3.2 g Protein, 45.7 g KH, 0.3 g Fett
-- Review-Hinweis: 20 Zutaten/Mengen ungeklärt
+- Gesamt: 2913 kcal, 155.3 g Protein, 239.7 g KH, 144.6 g Fett
+- Pro Portion: 1456 kcal, 77.7 g Protein, 119.8 g KH, 72.3 g Fett
+- Pro 100 g: 240 kcal, 12.8 g Protein, 19.7 g KH, 11.9 g Fett
+- Annahmen: 4 große Hähnchenschenkel ohne Haut/Knochen als ca. 600 g essbares Rohfleisch angesetzt.; Pflanzenöl zum Frittieren mit ca. 30 g tatsächlicher Ölaufnahme kalkuliert.; 2 Eier als Größe M/L mit zusammen ca. 100 g essbarem Anteil angesetzt.; 1 Limette liefert ca. 20 ml Saft und 6 g Abrieb; zweimal verwendet.

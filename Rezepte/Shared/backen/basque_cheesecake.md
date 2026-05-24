@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:45:44+00:00'
 eingereicht_von_rolle: admin
 slug: basque_cheesecake
 sichtbarkeit: shared
 rezept_id: shared__backen__basque__cheesecake
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/basque_cheesecake.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/basque_cheesecake.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:45:44+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: e47a072e9719bbaa89d994974006cc522529840a8a39a87743ecb78962ff5afe
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -85,11 +88,14 @@ Basque-Stil — kein Boden, kein Wasserbad. Der 'rohe' Wackelpunkt beim Herausne
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.90
+- Berechnet: 2026-05-24T08:45:44+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 1
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 8 Zutaten/Mengen ungeklärt
+- Gesamt: 3848 kcal, 62.8 g Protein, 230.3 g KH, 303.4 g Fett
+- Pro Portion: 3848 kcal, 62.8 g Protein, 230.3 g KH, 303.4 g Fett
+- Pro 100 g: 335 kcal, 5.5 g Protein, 20.0 g KH, 26.4 g Fett
+- Annahmen: Philadelphia als vollfetter Frischkäse natur angesetzt.; Sahne als Schlagsahne mit ca. 30 % Fett angesetzt.; Milch als Vollmilch mit 3,5 % Fett angesetzt.; Vollei als rohes ganzes Ei, 200 g essbarer Anteil.

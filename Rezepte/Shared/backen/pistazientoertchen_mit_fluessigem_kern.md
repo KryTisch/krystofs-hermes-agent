@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:46:16+00:00'
 eingereicht_von_rolle: admin
 slug: pistazientoertchen_mit_fluessigem_kern
 sichtbarkeit: shared
 rezept_id: shared__backen__pistazientoertchen__mit__fluessigem__kern
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/pistazientoertchen_mit_fluessigem_kern.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/pistazientoertchen_mit_fluessigem_kern.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:16+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 13d7d5ae724130eec019da431420babd0d3912424bd021827b0a39a1317d19d0
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -84,12 +87,14 @@ Wichtig: exakt 10 Minuten Backzeit — zu lange und der Kern ist durch. Die För
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.19
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.77
+- Berechnet: 2026-05-24T08:46:16+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 9
-- Gesamt: 698 kcal, 6.0 g Protein, 165.6 g KH, 0.6 g Fett
-- Pro Portion: 78 kcal, 0.7 g Protein, 18.4 g KH, 0.1 g Fett
-- Pro 100 g: 388 kcal, 3.3 g Protein, 92.0 g KH, 0.3 g Fett
-- Review-Hinweis: 5 Zutaten/Mengen ungeklärt
+- Gesamt: 1938 kcal, 34.8 g Protein, 225.5 g KH, 99.2 g Fett
+- Pro Portion: 215 kcal, 3.9 g Protein, 25.1 g KH, 11.0 g Fett
+- Pro 100 g: 464 kcal, 8.3 g Protein, 53.9 g KH, 23.7 g Fett
+- Annahmen: 4 Eier als essbarer Anteil ca. 200 g angesetzt.; 4 EL Pistaziencreme mit ca. 60 g angesetzt.; Butter zum Einfetten mit ca. 10 g Verbrauch angesetzt.; Puderzucker zum Bestäuben mit ca. 5 g angesetzt.

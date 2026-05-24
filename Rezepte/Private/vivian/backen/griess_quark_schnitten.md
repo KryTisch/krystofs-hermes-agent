@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:45:31+00:00'
 eingereicht_von_rolle: contributor
 slug: griess_quark_schnitten
 sichtbarkeit: private
 rezept_id: private__vivian__backen__griess__quark__schnitten
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/vivian/backen/griess_quark_schnitten.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/vivian/backen/griess_quark_schnitten.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:45:31+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 0cf96e1fc6bf2bae5d0f22ebcb423df44a3faf39d26f1eff23ac4e16e11a083f
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -84,11 +87,14 @@ Das Obst ist variabel: entweder Mandarinen oder Erdbeeren mit Banane verwenden.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.80
+- Berechnet: 2026-05-24T08:45:31+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 6 Zutaten/Mengen ungeklärt
+- Gesamt: 565 kcal, 34.3 g Protein, 67.7 g KH, 17.8 g Fett
+- Pro Portion: 141 kcal, 8.6 g Protein, 16.9 g KH, 4.5 g Fett
+- Pro 100 g: 103 kcal, 6.3 g Protein, 12.4 g KH, 3.3 g Fett
+- Annahmen: Mandarinen-Variante verwendet, da im Rezept zuerst genannt.; 1 Dose ungezuckerte Mandarinen als ca. 175 g Abtropfgewicht angesetzt.; Quark als Mittelwert aus 20-40 % Fett i. Tr. mit ca. 11 % Fett angenommen.; 2 Eier als essbarer Anteil von zusammen ca. 100 g angesetzt.

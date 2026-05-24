@@ -36,7 +36,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:46:54+00:00'
 eingereicht_von_rolle: reader
 slug: eierlikoer_mousse
 sichtbarkeit: shared
@@ -47,8 +47,11 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-22T07:12:59+00:00'
 published_at: '2026-05-22T07:12:59+00:00'
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:54+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: d8cb74d8d3f7024f996c2d7541d9e9ef4be7a94a740af5a4fa1696b69f647924
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -83,11 +86,14 @@ Handgeschriebene Rezeptkarte von Silke. Kühlzeit und Gesamtdauer sind geschätz
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.89
+- Berechnet: 2026-05-24T08:46:54+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 4 Zutaten/Mengen ungeklärt
+- Gesamt: 1207 kcal, 4.9 g Protein, 36.2 g KH, 97.4 g Fett
+- Pro Portion: 302 kcal, 1.2 g Protein, 9.1 g KH, 24.4 g Fett
+- Pro 100 g: 314 kcal, 1.3 g Protein, 9.4 g KH, 25.4 g Fett
+- Annahmen: 2 EL Puderzucker als ca. 16 g angesetzt.; 250 ml Sahne als Schlagsahne mit ca. 30 % Fett und etwa 250 g berechnet.; 120 ml Eierlikör mit typischen Nährwerten und ca. 1,03 g/ml Dichte berechnet.; 2 Blatt Gelatine als ca. 3,3 g essbarer Anteil angesetzt.

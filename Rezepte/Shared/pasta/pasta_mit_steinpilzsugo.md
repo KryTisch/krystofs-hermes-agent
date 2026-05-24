@@ -37,7 +37,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:18+00:00'
 eingereicht_von_rolle: reader
 slug: pasta_mit_steinpilzsugo
 sichtbarkeit: shared
@@ -48,8 +48,11 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-22T07:12:44+00:00'
 published_at: '2026-05-22T07:12:44+00:00'
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:18+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: a7c179f8ca83abec8f1ba1c1198ab43fc37bc9dd2b5481f94267b28c0a61fefe
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -91,12 +94,14 @@ Aus einem fotografierten WDR-Rezeptausdruck. Die genaue URL ist auf dem Foto abg
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.12
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.77
+- Berechnet: 2026-05-24T08:48:18+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 1165 kcal, 31.2 g Protein, 180.0 g KH, 33.8 g Fett
-- Pro Portion: 291 kcal, 7.8 g Protein, 45.0 g KH, 8.4 g Fett
-- Pro 100 g: 416 kcal, 11.2 g Protein, 64.3 g KH, 12.1 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 1258 kcal, 42.6 g Protein, 191.5 g KH, 32.2 g Fett
+- Pro Portion: 314 kcal, 10.7 g Protein, 47.9 g KH, 8.1 g Fett
+- Pro 100 g: 142 kcal, 4.8 g Protein, 21.6 g KH, 3.6 g Fett
+- Annahmen: Mittelwerte verwendet: 25 g getrocknete Tomaten, 1,5 EL Olivenöl = 15 g, 1,5 Knoblauchzehen ≈ 9 g, 25 g Parmesan.; 1 mittelgroße Zwiebel mit ca. 80 g essbarem Anteil angesetzt.; Getrocknete Tomaten statt eingelegte Variante angenommen; eingelegte Tomaten würden Fett und kcal erhöhen.; Pasta als 250 g trockene Hartweizenpasta berechnet.

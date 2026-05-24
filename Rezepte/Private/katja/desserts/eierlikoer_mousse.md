@@ -36,15 +36,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:40:54+00:00'
 eingereicht_von_rolle: reader
 slug: eierlikoer_mousse
 sichtbarkeit: private
 rezept_id: private__katja__desserts__eierlikoer__mousse
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/desserts/eierlikoer_mousse.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/desserts/eierlikoer_mousse.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:40:54+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: a9f411fe76032de8bb652e53e3dbf28e05dbd41755340b50babf1746730755c6
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -79,11 +82,14 @@ Handgeschriebene Rezeptkarte von Silke. Kühlzeit und Gesamtdauer sind geschätz
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.84
+- Berechnet: 2026-05-24T08:40:54+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 4 Zutaten/Mengen ungeklärt
+- Gesamt: 1282 kcal, 5.8 g Protein, 37.2 g KH, 117.2 g Fett
+- Pro Portion: 320 kcal, 1.4 g Protein, 9.3 g KH, 29.3 g Fett
+- Pro 100 g: 330 kcal, 1.5 g Protein, 9.6 g KH, 30.2 g Fett
+- Annahmen: 1 EL Puderzucker als ca. 10 g angesetzt, insgesamt 20 g.; Sahne als Schlagsahne mit 30 % Fett berechnet.; Eierlikör mit üblichen Nährwerten von ca. 20 % vol und moderatem Zuckergehalt angesetzt.; 2 Blatt Gelatine mit zusammen ca. 3,4 g essbarem Anteil berücksichtigt.

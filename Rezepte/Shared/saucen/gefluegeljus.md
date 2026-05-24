@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:43+00:00'
 eingereicht_von_rolle: admin
 slug: gefluegeljus
 sichtbarkeit: shared
 rezept_id: shared__saucen__gefluegeljus
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/saucen/gefluegeljus.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/saucen/gefluegeljus.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:43+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: defb1fc60f2b9a77196b7ff1c3be793cfdde8978febd4dcd897c3ca07a365e05
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -89,12 +92,14 @@ Rezept von Christian Bau (3-Sterne-Koch). Möglichst Geflügelfond statt Wasser 
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.10
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.65
+- Berechnet: 2026-05-24T08:48:43+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
-- Pro Portion: 221 kcal, 0.0 g Protein, 0.0 g KH, 25.0 g Fett
-- Pro 100 g: 29 kcal, 0.0 g Protein, 0.0 g KH, 3.2 g Fett
-- Review-Hinweis: 11 Zutaten/Mengen ungeklärt
+- Gesamt: 2120 kcal, 114.0 g Protein, 37.0 g KH, 165.0 g Fett
+- Pro Portion: 530 kcal, 28.5 g Protein, 9.2 g KH, 41.2 g Fett
+- Pro 100 g: 212 kcal, 11.4 g Protein, 3.7 g KH, 16.5 g Fett
+- Annahmen: Endmenge laut Rezept auf ca. 1 Liter reduziert; als 1000 g essbares Endgewicht angesetzt.; Nährwerte beziehen sich auf die verzehrte Jus, nicht auf ausgelaugte und abgesiebte Feststoffe.; Geflügelkarkassen liefern vor allem Gelatine/Fett; ein moderater Anteil an Protein und Fett geht in die Jus über.; 500 g Poulardenkeulen als roh mit Knochen geschätzt; nur ein Teil der Nährstoffe geht in den Fond über.

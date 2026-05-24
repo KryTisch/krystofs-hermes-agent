@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:45:05+00:00'
 eingereicht_von_rolle: admin
 slug: miso_spitzkohl_mit_tahini_butterboehnen
 sichtbarkeit: private
 rezept_id: private__krystof__vegetarisch__miso__spitzkohl__mit__tahini__butterboehnen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/vegetarisch/miso_spitzkohl_mit_tahini_butterboehnen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/vegetarisch/miso_spitzkohl_mit_tahini_butterboehnen.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:45:05+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: bb9964765f367f6dad0b25b320fc8c94a5116ecef24b174fe33e2f867642f880
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -92,11 +95,14 @@ Hispi/Spitzkohl ist besonders zart — aber normaler Kohl in Spalten funktionier
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.64
+- Berechnet: 2026-05-24T08:45:05+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 3
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 16 Zutaten/Mengen ungeklärt
+- Gesamt: 1498 kcal, 53.3 g Protein, 114.7 g KH, 95.7 g Fett
+- Pro Portion: 499 kcal, 17.8 g Protein, 38.2 g KH, 31.9 g Fett
+- Pro 100 g: 110 kcal, 3.9 g Protein, 8.4 g KH, 7.0 g Fett
+- Annahmen: 2 Spitzkohle als essbarer Rohwarenanteil zusammen ca. 1000 g angesetzt.; 1 Dose Butterbohnen 425 g entspricht ca. 240 g abgetropft.; 2 gehäufte EL Miso-Paste mit ca. 40 g berechnet.; Großer Schuss Sesamöl mit 1 EL bzw. 15 g angesetzt.

@@ -37,15 +37,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:41:07+00:00'
 eingereicht_von_rolle: reader
 slug: pasta_mit_steinpilzsugo
 sichtbarkeit: private
 rezept_id: private__katja__pasta__pasta__mit__steinpilzsugo
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/pasta/pasta_mit_steinpilzsugo.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/pasta/pasta_mit_steinpilzsugo.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:41:07+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 5649086a36cdd5f4863176764cef41e1d9e241497236799e45b569a1d0f0cf50
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -87,12 +90,14 @@ Aus einem fotografierten WDR-Rezeptausdruck. Die genaue URL ist auf dem Foto abg
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.12
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.69
+- Berechnet: 2026-05-24T08:41:07+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 1165 kcal, 31.2 g Protein, 180.0 g KH, 33.8 g Fett
-- Pro Portion: 291 kcal, 7.8 g Protein, 45.0 g KH, 8.4 g Fett
-- Pro 100 g: 416 kcal, 11.2 g Protein, 64.3 g KH, 12.1 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 1290 kcal, 43.8 g Protein, 192.2 g KH, 38.8 g Fett
+- Pro Portion: 322 kcal, 10.9 g Protein, 48.0 g KH, 9.7 g Fett
+- Pro 100 g: 148 kcal, 5.0 g Protein, 22.1 g KH, 4.5 g Fett
+- Annahmen: Mittelwerte verwendet: 25 g getrocknete Tomaten, 1,5 EL Olivenöl = 15 g, 1,5 Knoblauchzehen ≈ 9 g essbar.; 1 mittelgroße Zwiebel mit ca. 80 g essbarem Anteil angesetzt.; Parmesan mit Mittelwert 25 g berechnet; Kräuter mengenmäßig vernachlässigbar.; Pasta als 250 g trockene Hartweizenpasta angesetzt.

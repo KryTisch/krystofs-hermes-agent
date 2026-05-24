@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:42:59+00:00'
 eingereicht_von_rolle: admin
 slug: korean_pork_sticks
 sichtbarkeit: private
 rezept_id: private__krystof__fleisch__korean__pork__sticks
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/fleisch/korean_pork_sticks.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/fleisch/korean_pork_sticks.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:42:59+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 5f2dda66185b491290e172e409f91c86c0f3d251cbf9b36ba77b3cb8a1a21cc7
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -89,12 +92,14 @@ Kimchi-Mayo separat machen: Kimchi fein hacken, mit Mayo mischen. Das Geheimnis 
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.05
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.77
+- Berechnet: 2026-05-24T08:42:59+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 240 kcal, 0.0 g Protein, 60.0 g KH, 0.0 g Fett
-- Pro Portion: 60 kcal, 0.0 g Protein, 15.0 g KH, 0.0 g Fett
-- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
-- Review-Hinweis: 12 Zutaten/Mengen ungeklärt
+- Gesamt: 2948 kcal, 254.8 g Protein, 67.4 g KH, 180.5 g Fett
+- Pro Portion: 737 kcal, 63.7 g Protein, 16.9 g KH, 45.1 g Fett
+- Pro 100 g: 260 kcal, 22.4 g Protein, 5.9 g KH, 15.9 g Fett
+- Annahmen: Schweineschulter roh mit ca. 17,5 g Protein und 14 g Fett je 100 g gerechnet.; Von der Marinade wird wegen Reserve, Abtropfen und Grillverlusten nur rund 60 % tatsächlich mitverzehrt.; 120 ml Gochujang mit ca. 130 g angesetzt.; 6 EL Sojasauce = ca. 90 ml, 2 EL Reisessig = ca. 30 ml, 4 EL brauner Zucker = ca. 48 g.

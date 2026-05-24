@@ -34,15 +34,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:41:02+00:00'
 eingereicht_von_rolle: reader
 slug: knusprig_gebratene_entenbrust_mit_sojasauce
 sichtbarkeit: private
 rezept_id: private__katja__fleisch__knusprig__gebratene__entenbrust__mit__sojasauce
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/fleisch/knusprig_gebratene_entenbrust_mit_sojasauce.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:41:02+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 3ca4c0a20a6656d0825260d4ea1285e93d47ccadcf768039d512f2e4379460ab
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -73,11 +76,14 @@ Nur sehr kurz in der Sojasoße schwenken, damit die Entenbrust saftig bleibt.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.49
+- Berechnet: 2026-05-24T08:41:02+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 2 Zutaten/Mengen ungeklärt
+- Gesamt: 820 kcal, 60.0 g Protein, 1.5 g KH, 64.0 g Fett
+- Pro Portion: 410 kcal, 30.0 g Protein, 0.8 g KH, 32.0 g Fett
+- Pro 100 g: 256 kcal, 18.8 g Protein, 0.5 g KH, 20.0 g Fett
+- Annahmen: Mangels genauer Menge 1,5 Entenbrüste angenommen.; Essbarer Rohanteil je Entenbrust ca. 200 g, zusammen ca. 300 g.; Beim Braten relevanter Garverlust ca. 15 %, austretendes Fett teilweise nicht mitverzehrt.; 1 Schuss Sojasoße mit ca. 10 ml angesetzt.

@@ -32,7 +32,7 @@ zutaten_kurz:
 - 50 g Zucker (für Trockenbeize)
 - Abrieb von 1 Zitrone
 - Abrieb von 1–2 Limetten
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:47:24+00:00'
 eingereicht_von_rolle: admin
 slug: kabeljau_ceviche
 sichtbarkeit: shared
@@ -52,8 +52,11 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:47:24+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 0ba900cf977d06f397b0e460060509bb4daeb6358de0f8ddcc6b92775d84cb73
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -101,15 +104,17 @@ Ají amarillo ist erste Wahl — gibt den authentischen peruanischen Ton. Habane
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.04
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.60
+- Berechnet: 2026-05-24T08:47:24+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 3
-- Gesamt: 200 kcal, 0.0 g Protein, 50.0 g KH, 0.0 g Fett
-- Pro Portion: 67 kcal, 0.0 g Protein, 16.7 g KH, 0.0 g Fett
-- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
-- Review-Hinweis: 16 Zutaten/Mengen ungeklärt
+- Gesamt: 505 kcal, 92.0 g Protein, 16.0 g KH, 8.0 g Fett
+- Pro Portion: 168 kcal, 30.7 g Protein, 5.3 g KH, 2.7 g Fett
+- Pro 100 g: 71 kcal, 13.0 g Protein, 2.3 g KH, 1.1 g Fett
+- Annahmen: Trockenbeize aus 50 g Salz und 50 g Zucker wird größtenteils abgetupft; nur ca. 5 g Zucker und vernachlässigbares Salz verbleiben.; Angenommen: 100 ml Limettensaft, 1 rote Zwiebel essbar ca. 100 g, frischer Koriander ca. 10 g.; 'Ein Schuss' Kokosmilch mit 20 ml und 'kleiner Schuss' Fischfond mit 20 ml angesetzt.; Zitronen- und Limettenabrieb kalorisch kaum relevant, aber in Gewicht grob mitberücksichtigt.
 
 ## Rezeptprofil
 

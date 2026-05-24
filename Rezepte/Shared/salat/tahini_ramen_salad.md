@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:23+00:00'
 eingereicht_von_rolle: admin
 slug: tahini_ramen_salad
 sichtbarkeit: shared
 rezept_id: shared__salat__tahini__ramen__salad
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/salat/tahini_ramen_salad.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/salat/tahini_ramen_salad.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:23+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 0eab3111223e25630628d55056a1467f7a7787e6b9e4309c3b1d98820a4a2fc4
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -87,12 +90,14 @@ Hält sich gut im Kühlschrank — ideal zum Meal Prep. Gemüse je nach Saison v
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.12
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.81
+- Berechnet: 2026-05-24T08:48:23+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 2020 kcal, 42.5 g Protein, 244.8 g KH, 95.1 g Fett
-- Pro Portion: 505 kcal, 10.6 g Protein, 61.2 g KH, 23.8 g Fett
-- Pro 100 g: 470 kcal, 9.9 g Protein, 56.9 g KH, 22.1 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 3655 kcal, 95.1 g Protein, 390.8 g KH, 189.1 g Fett
+- Pro Portion: 914 kcal, 23.8 g Protein, 97.7 g KH, 47.3 g Fett
+- Pro 100 g: 206 kcal, 5.4 g Protein, 22.0 g KH, 10.7 g Fett
+- Annahmen: 6 EL Tahini mit ca. 90 g gerechnet.; 6 EL Olivenöl mit ca. 81 g gerechnet.; 2 EL frischer Ingwer mit ca. 12 g angesetzt.; 2 EL helles Miso mit ca. 34 g angesetzt.

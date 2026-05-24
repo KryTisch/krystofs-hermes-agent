@@ -37,15 +37,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:15+00:00'
 eingereicht_von_rolle: admin
 slug: fermentierter_honig_knoblauch
 sichtbarkeit: shared
 rezept_id: shared__sonstiges__fermentierter__honig__knoblauch
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/sonstiges/fermentierter_honig_knoblauch.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/fermentierter_honig_knoblauch.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:15+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: a9f7f97179b602ab3545f285be7ff935b65223c8173fd1b52f43591a8b686fd6
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -79,11 +82,14 @@ Roher Honig ist essenziell — pasteurisierter Honig funktioniert nicht. Knoblau
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.41
+- Berechnet: 2026-05-24T08:49:15+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 1
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 3 Zutaten/Mengen ungeklärt
+- Gesamt: 1128 kcal, 14.6 g Protein, 273.8 g KH, 1.0 g Fett
+- Pro Portion: 1128 kcal, 14.6 g Protein, 273.8 g KH, 1.0 g Fett
+- Pro 100 g: 226 kcal, 2.9 g Protein, 54.8 g KH, 0.2 g Fett
+- Annahmen: Mengen fehlen; angenommen wurde ein mittelgroßes Glas mit ca. 500 g essbarem Inhalt.; Für die Schätzung: ca. 180 g geschälte Knoblauchzehen und 320 g roher Honig.; Fermentation verändert Makros nur gering; CO2-/Wasserverluste pauschal vernachlässigt.; Nährwerte auf Basis üblicher Werte für rohen Honig und frischen Knoblauch.

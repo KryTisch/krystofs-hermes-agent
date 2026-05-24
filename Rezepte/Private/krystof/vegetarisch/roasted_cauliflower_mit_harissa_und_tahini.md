@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:45:11+00:00'
 eingereicht_von_rolle: admin
 slug: roasted_cauliflower_mit_harissa_und_tahini
 sichtbarkeit: private
 rezept_id: private__krystof__vegetarisch__roasted__cauliflower__mit__harissa__und__tahini
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/vegetarisch/roasted_cauliflower_mit_harissa_und_tahini.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/vegetarisch/roasted_cauliflower_mit_harissa_und_tahini.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:45:11+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 4804a087c60f57963446826380fb58e8be12b88c0cf35916da5e1b1227ec4645
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -99,12 +102,14 @@ Xanthan macht den Joghurt stabiler — kann man auch weglassen. Das Vorkochen is
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.06
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.53
+- Berechnet: 2026-05-24T08:45:11+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 141 kcal, 0.2 g Protein, 1.2 g KH, 15.3 g Fett
-- Pro Portion: 71 kcal, 0.1 g Protein, 0.6 g KH, 7.7 g Fett
-- Pro 100 g: 564 kcal, 0.8 g Protein, 4.8 g KH, 61.2 g Fett
-- Review-Hinweis: 19 Zutaten/Mengen ungeklärt
+- Gesamt: 1122 kcal, 31.7 g Protein, 45.6 g KH, 92.2 g Fett
+- Pro Portion: 561 kcal, 15.8 g Protein, 22.8 g KH, 46.1 g Fett
+- Pro 100 g: 132 kcal, 3.7 g Protein, 5.4 g KH, 10.8 g Fett
+- Annahmen: 1 ganzer Blumenkohl als essbarer Anteil ca. 600 g roh angesetzt.; Pinienkerne mangels Menge mit 20 g als kleine Topping-Portion angesetzt.; Zusätzliches Olivenöl für die gebratene Aromatik mit 1 EL (10 g) angesetzt.; Tahini-Dressing aus 2 EL Tahini, 1 EL Sojasauce und 3 EL Wasser geschätzt.

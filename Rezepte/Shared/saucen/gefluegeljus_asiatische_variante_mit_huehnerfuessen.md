@@ -43,15 +43,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:49+00:00'
 eingereicht_von_rolle: admin
 slug: gefluegeljus_asiatische_variante_mit_huehnerfuessen
 sichtbarkeit: shared
 rezept_id: shared__saucen__gefluegeljus__asiatische__variante__mit__huehnerfuessen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/saucen/gefluegeljus_asiatische_variante_mit_huehnerfuessen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/saucen/gefluegeljus_asiatische_variante_mit_huehnerfuessen.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:49+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 103fcf7e495bef6e0cd434072e239412286efadb6673af38f8cae170b06fa5de
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -99,12 +102,14 @@ Originalrezept von Christian Bau (3 Sterne, Nennig), via liebemitbiss.com. Kryst
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.08
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.72
+- Berechnet: 2026-05-24T08:48:49+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 6
-- Gesamt: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
-- Pro Portion: 147 kcal, 0.0 g Protein, 0.0 g KH, 16.7 g Fett
-- Pro 100 g: 29 kcal, 0.0 g Protein, 0.0 g KH, 3.2 g Fett
-- Review-Hinweis: 15 Zutaten/Mengen ungeklärt
+- Gesamt: 1750 kcal, 164.0 g Protein, 45.0 g KH, 104.0 g Fett
+- Pro Portion: 292 kcal, 27.3 g Protein, 7.5 g KH, 17.3 g Fett
+- Pro 100 g: 175 kcal, 16.4 g Protein, 4.5 g KH, 10.4 g Fett
+- Annahmen: Endmenge laut Rezept auf ca. 1 Liter reduziert; als essbares Endgewicht mit 1000 g angesetzt.; Nährwerte als verzehrte Jus geschätzt, nicht aus voller Rohwaren-Summe; Knochenanteile der Karkassen/Keulen liefern kaum verzehrbare Makronährstoffe.; Aus Karkassen, Keulen und Hühnerfüßen gehen vor allem Gelatine/Protein sowie etwas Fett in die Jus über.; Olivenöl wird nach dem Rösten teilweise abgegossen; nur ein kleiner Restanteil in der fertigen Jus berücksichtigt.

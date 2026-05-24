@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:55+00:00'
 eingereicht_von_rolle: admin
 slug: sesam_wraps_4_zutaten
 sichtbarkeit: shared
 rezept_id: shared__snacks__sesam__wraps__4__zutaten
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/snacks/sesam_wraps_4_zutaten.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/snacks/sesam_wraps_4_zutaten.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:55+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 473628171920bc73a2ca375a2d36cdd38d15af20013c745ec8c05739a63934ca
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -81,12 +84,14 @@ Psyllium macht die Wraps biegsam und ist gut für die Verdauung. Halten sich meh
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.13
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.82
+- Berechnet: 2026-05-24T08:48:55+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro 100 g: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 4 Zutaten/Mengen ungeklärt
+- Gesamt: 488 kcal, 15.2 g Protein, 17.5 g KH, 41.7 g Fett
+- Pro Portion: 122 kcal, 3.8 g Protein, 4.4 g KH, 10.4 g Fett
+- Pro 100 g: 287 kcal, 8.9 g Protein, 10.3 g KH, 24.5 g Fett
+- Annahmen: 1,5 EL Flohsamenschalen-Pulver mit ca. 9 g angesetzt.; 1 TL Knoblauchpulver mit ca. 3 g, 0,5 TL Salz mit ca. 3 g angesetzt.; 80 ml Wasser weitgehend im Endprodukt enthalten; geringe Garverluste in der Pfanne berücksichtigt.; Nährwerte für ungeschälten Sesam nach üblichen Rohwerten berechnet.

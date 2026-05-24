@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:01+00:00'
 eingereicht_von_rolle: admin
 slug: cowboy_butter_mit_cream_cheese
 sichtbarkeit: shared
 rezept_id: shared__sonstiges__cowboy__butter__mit__cream__cheese
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/sonstiges/cowboy_butter_mit_cream_cheese.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/cowboy_butter_mit_cream_cheese.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:01+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: e514862aee634f51746653bd080272e094135c43d004f6b6351762acc46207d1
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -87,12 +90,14 @@ Rezept kann problemlos halbiert werden. Lässt sich einfrieren. Cream Cheese mac
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.05
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.79
+- Berechnet: 2026-05-24T08:49:01+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 10
-- Gesamt: 1613 kcal, 2.0 g Protein, 0.2 g KH, 182.5 g Fett
-- Pro Portion: 161 kcal, 0.2 g Protein, 0.0 g KH, 18.2 g Fett
-- Pro 100 g: 717 kcal, 0.9 g Protein, 0.1 g KH, 81.1 g Fett
-- Review-Hinweis: 11 Zutaten/Mengen ungeklärt
+- Gesamt: 2424 kcal, 20.9 g Protein, 34.1 g KH, 235.9 g Fett
+- Pro Portion: 242 kcal, 2.1 g Protein, 3.4 g KH, 23.6 g Fett
+- Pro 100 g: 434 kcal, 3.7 g Protein, 6.1 g KH, 42.2 g Fett
+- Annahmen: 1 Stick Butter gemäß Angabe zusammen 225 g verwendet.; Frischkäse als normaler Doppelrahm-Frischkäse wie Philadelphia mit ca. 200 g angesetzt.; Saft und Abrieb von 2 mittelgroßen Zitronen mit zusammen ca. 65 g essbarem Anteil berücksichtigt.; 6–8 Knoblauchzehen als Mittelwert 7 Zehen bzw. ca. 21 g angesetzt.

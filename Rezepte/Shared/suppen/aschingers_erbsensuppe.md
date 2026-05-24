@@ -38,7 +38,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:20+00:00'
 eingereicht_von_rolle: reader
 slug: aschingers_erbsensuppe
 sichtbarkeit: shared
@@ -49,8 +49,11 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-23T06:01:22+00:00'
 published_at: '2026-05-23T06:01:22+00:00'
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:20+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: f5da4ae090964650d9c8c8ba54e0a7d0699e9d7b357172bd1c45b3ad164cd397
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -92,12 +95,14 @@ Einweichzeit über Nacht ist eingerechnet. Salz erst nach dem langen Garen zugeb
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.06
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.75
+- Berechnet: 2026-05-24T08:49:20+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro 100 g: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 10 Zutaten/Mengen ungeklärt
+- Gesamt: 1275 kcal, 67.6 g Protein, 90.8 g KH, 72.1 g Fett
+- Pro Portion: 319 kcal, 16.9 g Protein, 22.7 g KH, 18.0 g Fett
+- Pro 100 g: 87 kcal, 4.6 g Protein, 6.2 g KH, 4.9 g Fett
+- Annahmen: 250 g ungeschälte grüne Erbsen als getrocknete grüne Schälerbsen gerechnet.; Schinkenknochen und Speckschwarten vor allem als Aroma; nur kleiner essbarer Anteil berücksichtigt.; Kleines Suppengrün mit ca. 200 g angesetzt.; Zusätzliche Zwiebeln insgesamt mit ca. 320 g essbarem Anteil gerechnet.

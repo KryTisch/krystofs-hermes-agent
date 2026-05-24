@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:44:39+00:00'
 eingereicht_von_rolle: admin
 slug: fermentierte_gurken_lacto_fermentation
 sichtbarkeit: private
 rezept_id: private__krystof__sonstiges__fermentierte__gurken__lacto__fermentation
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/sonstiges/fermentierte_gurken_lacto_fermentation.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/sonstiges/fermentierte_gurken_lacto_fermentation.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:44:39+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: d6df3da3c21a34cbe9b631247fa8c3b895a8605937d520d3e9a4df0206e33191
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -85,11 +88,14 @@ Der höhere Salzgehalt (3,5% statt 2%) verhindert, dass die Gurken zu matschig w
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.76
+- Berechnet: 2026-05-24T08:44:39+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 1
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 90 kcal, 3.4 g Protein, 13.8 g KH, 1.2 g Fett
+- Pro Portion: 90 kcal, 3.4 g Protein, 13.8 g KH, 1.2 g Fett
+- Pro 100 g: 21 kcal, 0.8 g Protein, 3.2 g KH, 0.3 g Fett
+- Annahmen: Wasser zum Bedecken liefert keine Kalorien, erhöht aber das essbare Endgewicht als Salzlake.; Nährwerte basieren auf 350 g Gurke, 12,5 g Salz und kleinen Mengen der optionalen Würzzutaten.; Optionales Aroma angesetzt: 2 Lorbeerblätter, 2 Zweige Thymian, 1 EL rosa Pfefferkörner, 1 Knoblauchzehe; nur teilweise mitverzehrt.; Fermentation verändert Kalorien kaum; ein kleiner Teil der Kohlenhydrate wird abgebaut.

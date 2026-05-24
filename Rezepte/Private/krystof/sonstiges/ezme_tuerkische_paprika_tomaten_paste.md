@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:44:34+00:00'
 eingereicht_von_rolle: admin
 slug: ezme_tuerkische_paprika_tomaten_paste
 sichtbarkeit: private
 rezept_id: private__krystof__sonstiges__ezme__tuerkische__paprika__tomaten__paste
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/sonstiges/ezme_tuerkische_paprika_tomaten_paste.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/sonstiges/ezme_tuerkische_paprika_tomaten_paste.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:44:34+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 092ba64b3721a16a9f78d8649e4a3c0a1f6889bce1c5952bf486ece4a0d8d36e
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -89,12 +92,14 @@ Das Auspressen des Wassers ist entscheidend — sonst wird die Ezme wässrig. Sc
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.05
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.81
+- Berechnet: 2026-05-24T08:44:34+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 6
-- Gesamt: 530 kcal, 0.0 g Protein, 0.0 g KH, 60.0 g Fett
-- Pro Portion: 88 kcal, 0.0 g Protein, 0.0 g KH, 10.0 g Fett
-- Pro 100 g: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
-- Review-Hinweis: 12 Zutaten/Mengen ungeklärt
+- Gesamt: 936 kcal, 10.4 g Protein, 61.7 g KH, 74.6 g Fett
+- Pro Portion: 156 kcal, 1.7 g Protein, 10.3 g KH, 12.4 g Fett
+- Pro 100 g: 166 kcal, 1.8 g Protein, 11.0 g KH, 13.3 g Fett
+- Annahmen: 2 Rispentomaten zusammen ca. 240 g essbar angesetzt.; 2 rote Spitzpaprika zusammen ca. 200 g, 3 grüne Spitzpaprika zusammen ca. 240 g essbar angesetzt.; 1 weiße Zwiebel ca. 100 g, 1 Knoblauchzehe ca. 3 g, Petersilie 15 g angesetzt.; 1 EL Sumak ca. 7 g, 2 EL Paprikamark ca. 40 g, 1 EL Tomatenmark ca. 20 g angesetzt.

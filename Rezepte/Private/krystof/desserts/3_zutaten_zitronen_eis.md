@@ -37,15 +37,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:42:39+00:00'
 eingereicht_von_rolle: admin
 slug: 3_zutaten_zitronen_eis
 sichtbarkeit: private
 rezept_id: private__krystof__desserts__3__zutaten__zitronen__eis
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/desserts/3_zutaten_zitronen_eis.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/desserts/3_zutaten_zitronen_eis.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:42:39+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 1ee20fafdef3ea29f1a66c45d0aa995cd0cdd1bb03b28f0482d971f6e8017122
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -78,11 +81,14 @@ Bio-Zitronen wichtig, da die Schale mitgemixt wird. Wer es süßer mag, mehr Aho
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.74
+- Berechnet: 2026-05-24T08:42:39+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 3 Zutaten/Mengen ungeklärt
+- Gesamt: 970 kcal, 8.7 g Protein, 64.4 g KH, 83.1 g Fett
+- Pro Portion: 242 kcal, 2.2 g Protein, 16.1 g KH, 20.8 g Fett
+- Pro 100 g: 163 kcal, 1.5 g Protein, 10.8 g KH, 13.9 g Fett
+- Annahmen: 3 mittelgroße Bio-Zitronen mit zusammen ca. 210 g essbarem Anteil inkl. Schale angesetzt; 1 Dose Kokosmilch als 400 ml bzw. ca. 400 g mit üblicher Vollfett-Kokosmilch berechnet; 60 ml Ahornsirup mit ca. 79 g aufgrund typischer Dichte angesetzt; Beim Einfrieren keine nennenswerten Nährstoffverluste, Endgewicht nahe Gesamtmasse

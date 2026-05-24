@@ -33,15 +33,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:46:25+00:00'
 eingereicht_von_rolle: admin
 slug: toasted_rye_chocolate_chip_cookies
 sichtbarkeit: shared
 rezept_id: shared__backen__toasted__rye__chocolate__chip__cookies
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/toasted_rye_chocolate_chip_cookies.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/toasted_rye_chocolate_chip_cookies.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:25+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 4416e4d2eee6498d7ff39e627947f40955167be3cf3a34d68ae02ec84c0a95af
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -82,11 +85,14 @@ These salty sweet rye chocolate chip cookies are made with fragrant pan-toasted 
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.92
+- Berechnet: 2026-05-24T08:46:25+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 22
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 10 Zutaten/Mengen ungeklärt
+- Gesamt: 4244 kcal, 49.7 g Protein, 545.9 g KH, 210.4 g Fett
+- Pro Portion: 193 kcal, 2.3 g Protein, 24.8 g KH, 9.6 g Fett
+- Pro 100 g: 498 kcal, 5.8 g Protein, 64.1 g KH, 24.7 g Fett
+- Annahmen: 22 Cookies laut Rezept als Portionen verwendet.; 2 große Eier mit ca. 100 g essbarem Anteil angesetzt.; Vanilleextrakt mit ca. 13 g für 1 EL angesetzt.; Zusätzliches Salz zum Bestreuen nicht eingerechnet.

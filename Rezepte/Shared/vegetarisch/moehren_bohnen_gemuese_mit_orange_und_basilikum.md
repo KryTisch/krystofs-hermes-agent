@@ -37,7 +37,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:38+00:00'
 eingereicht_von_rolle: reader
 slug: moehren_bohnen_gemuese_mit_orange_und_basilikum
 sichtbarkeit: shared
@@ -48,8 +48,11 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-23T06:00:44+00:00'
 published_at: '2026-05-23T06:00:44+00:00'
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:38+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: a36a8a3a5f384d45481503ea7fa8744391a7d3066b3bbbd38c2bb49ba65e5d49
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -89,12 +92,14 @@ Möhren und Bohnen nach Möglichkeit getrennt auf der Platte anrichten.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.07
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.85
+- Berechnet: 2026-05-24T08:49:38+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 265 kcal, 0.0 g Protein, 0.0 g KH, 30.0 g Fett
-- Pro Portion: 66 kcal, 0.0 g Protein, 0.0 g KH, 7.5 g Fett
-- Pro 100 g: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
-- Review-Hinweis: 8 Zutaten/Mengen ungeklärt
+- Gesamt: 719 kcal, 18.8 g Protein, 95.5 g KH, 28.7 g Fett
+- Pro Portion: 180 kcal, 4.7 g Protein, 23.9 g KH, 7.2 g Fett
+- Pro 100 g: 47 kcal, 1.2 g Protein, 6.2 g KH, 1.9 g Fett
+- Annahmen: 500 g Bohnen als grüne Bohnen interpretiert; 1 Schalotte mit ca. 30 g essbarem Anteil angesetzt; 1 Orange mit ca. 130 g essbarem Anteil bzw. ca. 65 ml Saft und etwas Abrieb angesetzt; 2 EL Olivenöl mit ca. 27 g berechnet

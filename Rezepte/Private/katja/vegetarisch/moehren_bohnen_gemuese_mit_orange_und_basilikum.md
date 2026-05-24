@@ -37,15 +37,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:41:18+00:00'
 eingereicht_von_rolle: reader
 slug: moehren_bohnen_gemuese_mit_orange_und_basilikum
 sichtbarkeit: private
 rezept_id: private__katja__vegetarisch__moehren__bohnen__gemuese__mit__orange__und__basilikum
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/vegetarisch/moehren_bohnen_gemuese_mit_orange_und_basilikum.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:41:18+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 9eb8767c566de0e3d3b0fd13ebc7189256e4ba1e7236b65a51077359c589cb8a
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -85,12 +88,14 @@ Möhren und Bohnen nach Möglichkeit getrennt auf der Platte anrichten.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.07
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.82
+- Berechnet: 2026-05-24T08:41:18+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 265 kcal, 0.0 g Protein, 0.0 g KH, 30.0 g Fett
-- Pro Portion: 66 kcal, 0.0 g Protein, 0.0 g KH, 7.5 g Fett
-- Pro 100 g: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
-- Review-Hinweis: 8 Zutaten/Mengen ungeklärt
+- Gesamt: 822 kcal, 22.4 g Protein, 119.8 g KH, 30.9 g Fett
+- Pro Portion: 206 kcal, 5.6 g Protein, 29.9 g KH, 7.7 g Fett
+- Pro 100 g: 49 kcal, 1.3 g Protein, 7.2 g KH, 1.9 g Fett
+- Annahmen: Bohnen als grüne Gartenbohnen angenommen.; 1 Schalotte essbar ca. 30 g.; 2 EL Olivenöl = ca. 27 g.; 1 Orange mittelgroß, essbar ca. 130 g Saft/Fruchtfleisch plus ca. 6 g Abrieb.

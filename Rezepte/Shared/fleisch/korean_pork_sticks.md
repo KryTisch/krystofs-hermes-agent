@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:47:38+00:00'
 eingereicht_von_rolle: admin
 slug: korean_pork_sticks
 sichtbarkeit: shared
 rezept_id: shared__fleisch__korean__pork__sticks
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/korean_pork_sticks.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/korean_pork_sticks.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:47:38+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: bc0e3fdbb38ef771bac0ca22b91fd2c4c31b824b723d62f80c17559e2b2e5121
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -89,12 +92,14 @@ Kimchi-Mayo separat machen: Kimchi fein hacken, mit Mayo mischen. Das Geheimnis 
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.05
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.78
+- Berechnet: 2026-05-24T08:47:38+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 240 kcal, 0.0 g Protein, 60.0 g KH, 0.0 g Fett
-- Pro Portion: 60 kcal, 0.0 g Protein, 15.0 g KH, 0.0 g Fett
-- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
-- Review-Hinweis: 12 Zutaten/Mengen ungeklärt
+- Gesamt: 2735 kcal, 249.6 g Protein, 61.4 g KH, 145.9 g Fett
+- Pro Portion: 684 kcal, 62.4 g Protein, 15.3 g KH, 36.5 g Fett
+- Pro 100 g: 234 kcal, 21.3 g Protein, 5.2 g KH, 12.5 g Fett
+- Annahmen: Schweineschulter roh mit üblichen Nährwerten angesetzt.; Marinade für 1,3 kg vollständig hergestellt, aber nicht komplett aufgenommen.; Ca. 70% der Marinade werden effektiv verzehrt, inkl. späteres Bestreichen.; Sesam und Schnittlauch mangels Mengen nur klein als Garnitur geschätzt.

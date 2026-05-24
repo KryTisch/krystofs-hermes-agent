@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:41:13+00:00'
 eingereicht_von_rolle: reader
 slug: aschingers_erbsensuppe
 sichtbarkeit: private
 rezept_id: private__katja__suppen__aschingers__erbsensuppe
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/suppen/aschingers_erbsensuppe.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/suppen/aschingers_erbsensuppe.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:41:13+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 8e9bf4d119e2d7a0662b2fb69cd063f48faba08721286a49857786cd0a5215e9
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -88,12 +91,14 @@ Einweichzeit über Nacht ist eingerechnet. Salz erst nach dem langen Garen zugeb
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.06
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.68
+- Berechnet: 2026-05-24T08:41:13+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro 100 g: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 10 Zutaten/Mengen ungeklärt
+- Gesamt: 1835 kcal, 91.6 g Protein, 122.9 g KH, 96.1 g Fett
+- Pro Portion: 459 kcal, 22.9 g Protein, 30.7 g KH, 24.0 g Fett
+- Pro 100 g: 114 kcal, 5.7 g Protein, 7.6 g KH, 6.0 g Fett
+- Annahmen: 250 g ungeschälte grüne Erbsen als getrocknete geschälte/kochtaugliche Erbsen angenähert; 1 kleines Suppengrün mit ca. 200 g essbarem Gemüse angesetzt; Schinkenknochen mit ca. 30 g essbarem Fleischanteil und etwas ausgelöster Gelatine/Fett berücksichtigt; 2 Speckschwarten mit zusammen ca. 40 g angesetzt, energetisch nur gering berücksichtigt

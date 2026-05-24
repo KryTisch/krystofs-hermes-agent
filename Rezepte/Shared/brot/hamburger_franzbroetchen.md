@@ -37,15 +37,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:46:44+00:00'
 eingereicht_von_rolle: admin
 slug: hamburger_franzbroetchen
 sichtbarkeit: shared
 rezept_id: shared__brot__hamburger__franzbroetchen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/brot/hamburger_franzbroetchen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/hamburger_franzbroetchen.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:44+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 72148dc55c1ddbd051b72866b4a57b4f8d7b525ed622722bb74da8e6f7bf3304
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -90,12 +93,14 @@ Doppelte Menge backen und einfrieren lohnt sich.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.16
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.85
+- Berechnet: 2026-05-24T08:46:44+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 10
-- Gesamt: 2722 kcal, 50.6 g Protein, 480.1 g KH, 61.8 g Fett
-- Pro Portion: 272 kcal, 5.1 g Protein, 48.0 g KH, 6.2 g Fett
-- Pro 100 g: 406 kcal, 7.6 g Protein, 71.7 g KH, 9.2 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 5134 kcal, 57.4 g Protein, 533.8 g KH, 306.2 g Fett
+- Pro Portion: 513 kcal, 5.7 g Protein, 53.4 g KH, 30.6 g Fett
+- Pro 100 g: 494 kcal, 5.5 g Protein, 51.3 g KH, 29.4 g Fett
+- Annahmen: 1 Würfel frische Hefe mit ca. 42 g angesetzt.; 1 Ei mit ca. 50 g essbarem Anteil gerechnet.; 1 TL Salz ca. 5 g, 1 TL Öl ca. 5 g angenommen.; Zusätzliche Mengen wie 'etwas Mehl zum Kneten' und Wasser zum Bestreichen nicht eingerechnet.

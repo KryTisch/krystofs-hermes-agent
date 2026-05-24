@@ -33,15 +33,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:46:30+00:00'
 eingereicht_von_rolle: admin
 slug: zwetschgenkuchen_mit_umami_note
 sichtbarkeit: shared
 rezept_id: shared__backen__zwetschgenkuchen__mit__umami__note
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/zwetschgenkuchen_mit_umami_note.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/zwetschgenkuchen_mit_umami_note.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:30+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 6fa9a93127c35f087fe63e1e05ed7e129ae1586d58fcb11d537f1337b21ede66
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -77,12 +80,14 @@ Misopaste passt nicht nur zu herzhaften oder asiatischen Gerichten: Auf diesem h
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.36
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.79
+- Berechnet: 2026-05-24T08:46:30+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 3940 kcal, 44.8 g Protein, 473.2 g KH, 207.0 g Fett
-- Pro Portion: 985 kcal, 11.2 g Protein, 118.3 g KH, 51.8 g Fett
-- Pro 100 g: 478 kcal, 5.4 g Protein, 57.4 g KH, 25.1 g Fett
-- Review-Hinweis: 4 Zutaten/Mengen ungeklärt
+- Gesamt: 5188 kcal, 64.9 g Protein, 541.3 g KH, 309.4 g Fett
+- Pro Portion: 1297 kcal, 16.2 g Protein, 135.3 g KH, 77.3 g Fett
+- Pro 100 g: 467 kcal, 5.8 g Protein, 48.8 g KH, 27.9 g Fett
+- Annahmen: 10-12 Zwetschgen als ca. 330 g essbarer Anteil angesetzt.; Für Boden und Streusel insgesamt 425 g Mehl verwendet; zusätzliches Mehl zum Ausrollen nicht eingerechnet.; 3 EL Miso als ca. 54 g angesetzt.; Haselnüsse als geschälte Kerne gerechnet.

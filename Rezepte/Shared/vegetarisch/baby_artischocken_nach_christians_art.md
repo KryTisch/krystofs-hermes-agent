@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:27+00:00'
 eingereicht_von_rolle: admin
 slug: baby_artischocken_nach_christians_art
 sichtbarkeit: shared
 rezept_id: shared__vegetarisch__baby__artischocken__nach__christians__art
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/vegetarisch/baby_artischocken_nach_christians_art.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/baby_artischocken_nach_christians_art.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:27+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 22b80c7a65e682efced051c70b6e73433e7aa30c8346436cdf27ee2df839bcc0
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -88,11 +91,14 @@ Der Schlüssel ist Frische. Kleine, schmale französische Baby-Artischocken sind
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.42
+- Berechnet: 2026-05-24T08:49:27+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 7 Zutaten/Mengen ungeklärt
+- Gesamt: 765 kcal, 21.0 g Protein, 34.0 g KH, 60.0 g Fett
+- Pro Portion: 191 kcal, 5.2 g Protein, 8.5 g KH, 15.0 g Fett
+- Pro 100 g: 147 kcal, 4.0 g Protein, 6.5 g KH, 11.5 g Fett
+- Annahmen: Mengen im Rezept fehlen; berechnet als typische Vorspeise/Beilage für 4 Personen.; Angenommen: 500 g ganze Baby-Artischocken, essbarer/geputzter Anteil ca. 45 %.; Angenommen: 40 g Olivenöl gesamt.; Angenommen: 20 g Zitronensaft gesamt.

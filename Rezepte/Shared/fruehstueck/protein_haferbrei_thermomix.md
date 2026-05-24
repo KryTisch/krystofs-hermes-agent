@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:02+00:00'
 eingereicht_von_rolle: contributor
 slug: protein_haferbrei_thermomix
 sichtbarkeit: shared
 rezept_id: shared__fruehstueck__protein__haferbrei__thermomix
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fruehstueck/protein_haferbrei_thermomix.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/fruehstueck/protein_haferbrei_thermomix.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:02+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: d89284044580f0062c5e3d03d0f908d3b0dae583dcc6635f8de3add1d801f7e0
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -85,12 +88,14 @@ Topping-Mengen berechnet auf 2 kleine Portionen: je 7 Himbeeren, 30 g Blaubeeren
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.50
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.81
+- Berechnet: 2026-05-24T08:48:02+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 1
-- Gesamt: 490 kcal, 39.7 g Protein, 54.9 g KH, 11.6 g Fett
-- Pro Portion: 490 kcal, 39.7 g Protein, 54.9 g KH, 11.6 g Fett
-- Pro 100 g: 94 kcal, 7.6 g Protein, 10.6 g KH, 2.2 g Fett
-- Review-Hinweis: 1 Zutaten/Mengen ungeklärt
+- Gesamt: 535 kcal, 40.6 g Protein, 53.8 g KH, 19.5 g Fett
+- Pro Portion: 535 kcal, 40.6 g Protein, 53.8 g KH, 19.5 g Fett
+- Pro 100 g: 103 kcal, 7.9 g Protein, 10.4 g KH, 3.8 g Fett
+- Annahmen: Topping als enthalten angenommen, da mit Gewichten angegeben.; 7 Himbeeren als ca. 28 g essbarer Anteil geschätzt.; 10 g Kokos als Kokosraspeln angenommen.; 350 ml Mandelmilch als 350 g gerechnet, ungesüßt.

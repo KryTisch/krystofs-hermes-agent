@@ -33,15 +33,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:46:12+00:00'
 eingereicht_von_rolle: admin
 slug: optimierte_zitronen_brombeer_cremetoertchen
 sichtbarkeit: shared
 rezept_id: shared__backen__optimierte__zitronen__brombeer__cremetoertchen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/optimierte_zitronen_brombeer_cremetoertchen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/optimierte_zitronen_brombeer_cremetoertchen.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:12+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 9e77f20c126f150511d0c61f383d94630e7e03363b4856d6b24d23c206ad2e57
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -82,12 +85,14 @@ Backen ist Hingabe und Herumprobieren, das weiß auch unser Kolumnist und stellt
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.27
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.87
+- Berechnet: 2026-05-24T08:46:12+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 2844 kcal, 26.8 g Protein, 315.2 g KH, 164.7 g Fett
-- Pro Portion: 711 kcal, 6.7 g Protein, 78.8 g KH, 41.2 g Fett
-- Pro 100 g: 495 kcal, 4.7 g Protein, 54.8 g KH, 28.6 g Fett
-- Review-Hinweis: 7 Zutaten/Mengen ungeklärt
+- Gesamt: 3358 kcal, 45.1 g Protein, 228.4 g KH, 252.6 g Fett
+- Pro Portion: 840 kcal, 11.3 g Protein, 57.1 g KH, 63.1 g Fett
+- Pro 100 g: 440 kcal, 5.9 g Protein, 29.9 g KH, 33.1 g Fett
+- Annahmen: 3 EL Wasser als ca. 45 g angesetzt.; Salz und Zitronenverbene nährwertlich vernachlässigt.; Für die Creme wurden 125 g Brombeerpüree gemäß Anleitung gerechnet; die restlichen 50 g der zuerst pürierten Beeren wurden nicht verzehrt.; 75 g frische Brombeeren als Topping vollständig berücksichtigt.

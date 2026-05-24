@@ -33,15 +33,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:42:00+00:00'
 eingereicht_von_rolle: admin
 slug: optimierte_zitronen_brombeer_cremetoertchen
 sichtbarkeit: private
 rezept_id: private__krystof__backen__optimierte__zitronen__brombeer__cremetoertchen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/optimierte_zitronen_brombeer_cremetoertchen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/optimierte_zitronen_brombeer_cremetoertchen.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:42:00+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 22345de6f923f5a75f3442f6f82c8dc063221caf3492a9714dbbc37993d1a371
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -82,12 +85,14 @@ Backen ist Hingabe und Herumprobieren, das weiß auch unser Kolumnist und stellt
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.27
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.83
+- Berechnet: 2026-05-24T08:42:00+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 2844 kcal, 26.8 g Protein, 315.2 g KH, 164.7 g Fett
-- Pro Portion: 711 kcal, 6.7 g Protein, 78.8 g KH, 41.2 g Fett
-- Pro 100 g: 495 kcal, 4.7 g Protein, 54.8 g KH, 28.6 g Fett
-- Review-Hinweis: 7 Zutaten/Mengen ungeklärt
+- Gesamt: 2998 kcal, 39.2 g Protein, 228.9 g KH, 217.4 g Fett
+- Pro Portion: 750 kcal, 9.8 g Protein, 57.2 g KH, 54.4 g Fett
+- Pro 100 g: 382 kcal, 5.0 g Protein, 29.2 g KH, 27.7 g Fett
+- Annahmen: Salz und Zitronenverbene nährwertlich vernachlässigt.; Für 3 Eier Größe M mit ca. 50 g essbarem Anteil je Ei gerechnet.; Für den Teig 2,5 EL Wasser angenommen; Wasser ohne kcal.; Von 175 g Brombeeren werden laut Anleitung 125 g Püree verwendet, zusätzlich 75 g ganze Brombeeren als Topping.

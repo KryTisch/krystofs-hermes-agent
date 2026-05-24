@@ -42,15 +42,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:46:39+00:00'
 eingereicht_von_rolle: admin
 slug: charlies_vivis_roggen_dinkelbrot
 sichtbarkeit: shared
 rezept_id: shared__brot__charlies__vivis__roggen__dinkelbrot
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/brot/charlies_vivis_roggen_dinkelbrot.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/brot/charlies_vivis_roggen_dinkelbrot.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:39+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 0f4d1b7ccee7a13922bfbefd0b358558f4229eefbb2de78d03e4efcc8a3af51e
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -93,11 +96,14 @@ Rezept von Charlie & Vivi. Die Sauerteig-Aktivierung ergibt ~450 g — nur 210 g
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.90
+- Berechnet: 2026-05-24T08:46:39+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 12
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 1801 kcal, 49.7 g Protein, 357.5 g KH, 6.3 g Fett
+- Pro Portion: 150 kcal, 4.1 g Protein, 29.8 g KH, 0.5 g Fett
+- Pro 100 g: 220 kcal, 6.1 g Protein, 43.7 g KH, 0.8 g Fett
+- Annahmen: Nur 210 g des aktivierten Sauerteigs werden verwendet; übriges Anstellgut nicht mitgerechnet.; 210 g aktiver Sauerteig als Mischung aus etwa 70 g Roggenmehl, 70 g Wasser und 70 g Anstellgut mit angenähert gleichen Nährwerten wie Roggenmehl/Wasser behandelt.; Roggenmalz als nicht-diastatisches Malzmehl mit typischen Kohlenhydratwerten angesetzt.; Backverlust durch Wasserverdampfung auf ca. 12 % des Teiggewichts geschätzt; Salz bleibt vollständig erhalten.

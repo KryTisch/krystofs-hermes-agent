@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:46:21+00:00'
 eingereicht_von_rolle: admin
 slug: savory_cheese_souffl
 sichtbarkeit: shared
 rezept_id: shared__backen__savory__cheese__souffl
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/savory_cheese_souffl.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/savory_cheese_souffl.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:21+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 0d0d4435ad10310cb24e2072b844cd7ab77bf761b96225f7d71ada74a36d8d03
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -92,12 +95,14 @@ Cream of Tartar verhindert überschlagenes Eiweiß — wer es hat, sollte es neh
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.06
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.89
+- Berechnet: 2026-05-24T08:46:21+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 323 kcal, 0.4 g Protein, 0.1 g KH, 36.5 g Fett
-- Pro Portion: 161 kcal, 0.2 g Protein, 0.0 g KH, 18.2 g Fett
-- Pro 100 g: 717 kcal, 0.9 g Protein, 0.1 g KH, 81.1 g Fett
-- Review-Hinweis: 10 Zutaten/Mengen ungeklärt
+- Gesamt: 1172 kcal, 49.5 g Protein, 31.7 g KH, 91.9 g Fett
+- Pro Portion: 586 kcal, 24.8 g Protein, 15.8 g KH, 46.0 g Fett
+- Pro 100 g: 248 kcal, 10.5 g Protein, 6.7 g KH, 19.4 g Fett
+- Annahmen: Optionale Zutaten Senf, Cayenne und Weinstein nährwertseitig vernachlässigt.; Parmesan für die Form mit 2 EL als ca. 10 g angesetzt und mitverzehrt.; Zusätzliche Butter zum Einfetten der Form nicht eingerechnet, da Menge unklar und nur teilweise im Gericht verbleibt.; Große Eier mit üblichen essbaren Anteilen angesetzt: 4 Eigelb und 5 Eiweiß.

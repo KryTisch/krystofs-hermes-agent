@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:11+00:00'
 eingereicht_von_rolle: admin
 slug: fermentierte_gurken_lacto_fermentation
 sichtbarkeit: shared
 rezept_id: shared__sonstiges__fermentierte__gurken__lacto__fermentation
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/sonstiges/fermentierte_gurken_lacto_fermentation.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/fermentierte_gurken_lacto_fermentation.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:11+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: ff218fc5774fd42438e3967ad03fa6ecb9bc960253d432494b526d81f40e2957
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -85,11 +88,14 @@ Der höhere Salzgehalt (3,5% statt 2%) verhindert, dass die Gurken zu matschig w
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.66
+- Berechnet: 2026-05-24T08:49:11+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 1
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 69 kcal, 2.7 g Protein, 12.1 g KH, 0.8 g Fett
+- Pro Portion: 69 kcal, 2.7 g Protein, 12.1 g KH, 0.8 g Fett
+- Pro 100 g: 13 kcal, 0.5 g Protein, 2.3 g KH, 0.2 g Fett
+- Annahmen: Wasser zum Bedecken mit ca. 150 g angesetzt; für Endgewicht mitgerechnet, da Salzlake mitverzehrt bzw. mit im Glas verbleibt.; Nährwerte der großen Gurke mit 350 g essbarem Anteil berechnet.; Salz liefert keine Kalorien, erhöht aber das Endgewicht vollständig.; Optionale Würzzutaten als verwendet angenommen: 2 Lorbeerblätter, 2 Zweige Thymian, 1 EL rosa Pfefferkörner, 1 Knoblauchzehe.

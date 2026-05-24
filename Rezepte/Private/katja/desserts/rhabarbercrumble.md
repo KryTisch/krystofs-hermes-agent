@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:40:58+00:00'
 eingereicht_von_rolle: reader
 slug: rhabarbercrumble
 sichtbarkeit: private
 rezept_id: private__katja__desserts__rhabarbercrumble
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/desserts/rhabarbercrumble.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/desserts/rhabarbercrumble.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:40:58+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 509125ae4638d6e689cdedbf1f728ba5db37d0c5e9f377bd7eb6b877e80924a3
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -89,12 +92,14 @@ Statt Rhabarber kann auch ein Himbeer-Heidelbeer-Mix verwendet werden.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.05
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.89
+- Berechnet: 2026-05-24T08:40:58+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 320 kcal, 0.0 g Protein, 80.0 g KH, 0.0 g Fett
-- Pro Portion: 80 kcal, 0.0 g Protein, 20.0 g KH, 0.0 g Fett
-- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
-- Review-Hinweis: 11 Zutaten/Mengen ungeklärt
+- Gesamt: 2112 kcal, 26.2 g Protein, 299.9 g KH, 94.8 g Fett
+- Pro Portion: 528 kcal, 6.5 g Protein, 75.0 g KH, 23.7 g Fett
+- Pro 100 g: 244 kcal, 3.0 g Protein, 34.6 g KH, 10.9 g Fett
+- Annahmen: 1 Pck. Vanillezucker mit 8 g angesetzt.; 1 EL Speisestärke mit 10 g angesetzt.; Zimt mit 0,75 TL und Puderzucker mit 1 TL ca. 3 g angesetzt.; Margarine mit üblichen 80 % Fett berechnet.

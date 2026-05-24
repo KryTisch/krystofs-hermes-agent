@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:45:49+00:00'
 eingereicht_von_rolle: admin
 slug: cottage_cheese_protein_squares_mit_erdnussbutter
 sichtbarkeit: shared
 rezept_id: shared__backen__cottage__cheese__protein__squares__mit__erdnussbutter
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/cottage_cheese_protein_squares_mit_erdnussbutter.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/cottage_cheese_protein_squares_mit_erdnussbutter.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:45:49+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: b47a0eb34cca1f5a1122bb2826546982d93192efc4b92948ba8667d6c2e3f847
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -88,11 +91,14 @@ Saubere Version nach Screenshot-Extraktion eines Social-Media-Posts von ‚Nouri
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.79
+- Berechnet: 2026-05-24T08:45:49+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 2761 kcal, 144.7 g Protein, 152.8 g KH, 185.0 g Fett
+- Pro Portion: 690 kcal, 36.2 g Protein, 38.2 g KH, 46.2 g Fett
+- Pro 100 g: 447 kcal, 23.4 g Protein, 24.7 g KH, 29.9 g Fett
+- Annahmen: 1 cup Cottage Cheese als ca. 226 g angesetzt.; 1 cup Mandelmehl als ca. 96 g angesetzt.; Proteinpulver mit 1,25 Scoops als Mittelwert angesetzt, ca. 38 g.; 1/2 cup Erdnussbutter als ca. 128 g angesetzt.

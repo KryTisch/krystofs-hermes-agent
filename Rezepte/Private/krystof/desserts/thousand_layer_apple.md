@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:42:49+00:00'
 eingereicht_von_rolle: admin
 slug: thousand_layer_apple
 sichtbarkeit: private
 rezept_id: private__krystof__desserts__thousand__layer__apple
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/desserts/thousand_layer_apple.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/desserts/thousand_layer_apple.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:42:49+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 0f96e14ac6ef848a5a2c05a0f9d8bef82fa397bd0374e8b038dcc75a0ff12185
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -84,12 +87,14 @@ Vollständig auskühlen ist entscheidend — warm fällt es auseinander. Mit Van
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.22
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.56
+- Berechnet: 2026-05-24T08:42:49+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 72 kcal, 0.2 g Protein, 19.1 g KH, 0.1 g Fett
-- Pro Portion: 36 kcal, 0.1 g Protein, 9.5 g KH, 0.0 g Fett
-- Pro 100 g: 362 kcal, 1.0 g Protein, 95.2 g KH, 0.3 g Fett
-- Review-Hinweis: 4 Zutaten/Mengen ungeklärt
+- Gesamt: 853 kcal, 8.8 g Protein, 64.8 g KH, 63.4 g Fett
+- Pro Portion: 426 kcal, 4.4 g Protein, 32.4 g KH, 31.7 g Fett
+- Pro 100 g: 316 kcal, 3.3 g Protein, 24.0 g KH, 23.5 g Fett
+- Annahmen: 1 großer Apfel essbar ca. 180 g; Butter mit 3,5 EL angesetzt, davon ein kleiner Teil abgegossen; bilanziert ca. 45 g verwendet; Brauner Zucker 1 EL = ca. 12 g; Blätterteig mangels Menge als typisches Stück/Quadrat für 1 kleines Dessert mit ca. 100 g angesetzt

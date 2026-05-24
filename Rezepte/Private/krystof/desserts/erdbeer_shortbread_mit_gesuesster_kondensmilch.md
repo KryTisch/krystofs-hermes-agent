@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:42:44+00:00'
 eingereicht_von_rolle: admin
 slug: erdbeer_shortbread_mit_gesuesster_kondensmilch
 sichtbarkeit: private
 rezept_id: private__krystof__desserts__erdbeer__shortbread__mit__gesuesster__kondensmilch
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/desserts/erdbeer_shortbread_mit_gesuesster_kondensmilch.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/desserts/erdbeer_shortbread_mit_gesuesster_kondensmilch.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:42:44+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 1c30a84354b3762d57db48e829b1ac1890d5213085a466c767e25cd821c462d3
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -79,11 +82,14 @@ Qualität der Erdbeeren ist entscheidend: selbst pflücken, wirklich süße Sort
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.45
+- Berechnet: 2026-05-24T08:42:44+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 4 Zutaten/Mengen ungeklärt
+- Gesamt: 1362 kcal, 18.2 g Protein, 182.4 g KH, 64.6 g Fett
+- Pro Portion: 681 kcal, 9.1 g Protein, 91.2 g KH, 32.3 g Fett
+- Pro 100 g: 272 kcal, 3.6 g Protein, 36.5 g KH, 12.9 g Fett
+- Annahmen: Erdbeeren mit Mittelwert 350 g angesetzt.; Shortbread mangels Menge mit 100 g angesetzt.; Gesüßte Kondensmilch als großzügiger Drizzle mit 50 g angesetzt.; Topping mit 10 g geröstetem Sesam geschätzt.

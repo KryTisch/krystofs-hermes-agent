@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:44+00:00'
 eingereicht_von_rolle: admin
 slug: roasted_cauliflower_mit_harissa_und_tahini
 sichtbarkeit: shared
 rezept_id: shared__vegetarisch__roasted__cauliflower__mit__harissa__und__tahini
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/vegetarisch/roasted_cauliflower_mit_harissa_und_tahini.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/vegetarisch/roasted_cauliflower_mit_harissa_und_tahini.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:44+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 6f755151988ba69a9afe29792338833031af6c1ea9199fc58a764e65068e3156
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -99,12 +102,14 @@ Xanthan macht den Joghurt stabiler — kann man auch weglassen. Das Vorkochen is
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.06
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.61
+- Berechnet: 2026-05-24T08:49:44+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 141 kcal, 0.2 g Protein, 1.2 g KH, 15.3 g Fett
-- Pro Portion: 71 kcal, 0.1 g Protein, 0.6 g KH, 7.7 g Fett
-- Pro 100 g: 564 kcal, 0.8 g Protein, 4.8 g KH, 61.2 g Fett
-- Review-Hinweis: 19 Zutaten/Mengen ungeklärt
+- Gesamt: 1000 kcal, 35.3 g Protein, 58.8 g KH, 69.0 g Fett
+- Pro Portion: 500 kcal, 17.6 g Protein, 29.4 g KH, 34.5 g Fett
+- Pro 100 g: 110 kcal, 3.9 g Protein, 6.5 g KH, 7.6 g Fett
+- Annahmen: 1 ganzer Blumenkohl als essbarer Anteil ca. 600 g roh; Naturjoghurt als 3,5 % Fett angesetzt; 1 Knoblauchzehe ca. 3 g, Saft von 1/4 Zitrone ca. 10 g; 1 Schalotte ca. 30 g, 1/2 Chili ca. 10 g, Handvoll Koriander ca. 15 g

@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:42:08+00:00'
 eingereicht_von_rolle: admin
 slug: savory_cheese_souffl
 sichtbarkeit: private
 rezept_id: private__krystof__backen__savory__cheese__souffl
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/savory_cheese_souffl.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/savory_cheese_souffl.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:42:08+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 58e8d2e58c0c6f061c97746ed749277192eb9d3ecca3bb4e4cdd89c364b940d1
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -92,12 +95,14 @@ Cream of Tartar verhindert überschlagenes Eiweiß — wer es hat, sollte es neh
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.06
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.88
+- Berechnet: 2026-05-24T08:42:08+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 323 kcal, 0.4 g Protein, 0.1 g KH, 36.5 g Fett
-- Pro Portion: 161 kcal, 0.2 g Protein, 0.0 g KH, 18.2 g Fett
-- Pro 100 g: 717 kcal, 0.9 g Protein, 0.1 g KH, 81.1 g Fett
-- Review-Hinweis: 10 Zutaten/Mengen ungeklärt
+- Gesamt: 1221 kcal, 54.1 g Protein, 28.6 g KH, 97.3 g Fett
+- Pro Portion: 610 kcal, 27.1 g Protein, 14.3 g KH, 48.6 g Fett
+- Pro 100 g: 260 kcal, 11.5 g Protein, 6.1 g KH, 20.7 g Fett
+- Annahmen: Butter zum Einfetten der Form nicht eingerechnet.; Parmesan für die Form mit 2 EL als ca. 10 g angesetzt.; Dijon-Senf, Cayenne und Weinstein optional; energetisch vernachlässigbar bzw. Senf mit ca. 1 TL eingerechnet.; 4 Eigelb und 5 Eiweiß als große Eier mit üblichen essbaren Gewichten berechnet.

@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:47:28+00:00'
 eingereicht_von_rolle: admin
 slug: honey_harissa_baked_feta_mit_haehnchen
 sichtbarkeit: shared
 rezept_id: shared__fleisch__honey__harissa__baked__feta__mit__haehnchen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/honey_harissa_baked_feta_mit_haehnchen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/honey_harissa_baked_feta_mit_haehnchen.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:47:28+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: bcaf898c486035a3e339285604a0d6bd57315af89a2d8ceb9cbbfc8c6013278d
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -90,12 +93,14 @@ Schnell und beeindruckend. Harissa-Menge nach Schärfewunsch anpassen. Auch ohne
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.29
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.87
+- Berechnet: 2026-05-24T08:47:28+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 3
-- Gesamt: 664 kcal, 30.7 g Protein, 37.6 g KH, 44.2 g Fett
-- Pro Portion: 221 kcal, 10.2 g Protein, 12.5 g KH, 14.8 g Fett
-- Pro 100 g: 159 kcal, 7.3 g Protein, 9.0 g KH, 10.6 g Fett
-- Review-Hinweis: 6 Zutaten/Mengen ungeklärt
+- Gesamt: 2990 kcal, 183.5 g Protein, 227.3 g KH, 143.4 g Fett
+- Pro Portion: 997 kcal, 61.2 g Protein, 75.8 g KH, 47.8 g Fett
+- Pro 100 g: 242 kcal, 14.9 g Protein, 18.4 g KH, 11.6 g Fett
+- Annahmen: 1 EL Harissa ≈ 15 g, gesamt 45 g.; 1 EL Honig ≈ 21 g, gesamt 31,5 g.; Hähnchenbrust roh essbarer Anteil mit ca. 25 % Garverlust kalkuliert.; 300 g Pasta als Trockengewicht angenommen; gekocht stark wasseraufnehmend.

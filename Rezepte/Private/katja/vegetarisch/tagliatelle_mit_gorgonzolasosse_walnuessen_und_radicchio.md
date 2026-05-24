@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:41:28+00:00'
 eingereicht_von_rolle: reader
 slug: tagliatelle_mit_gorgonzolasosse_walnuessen_und_radicchio
 sichtbarkeit: private
 rezept_id: private__katja__vegetarisch__tagliatelle__mit__gorgonzolasosse__walnuessen__und__radicchio
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/katja/vegetarisch/tagliatelle_mit_gorgonzolasosse_walnuessen_und_radicchio.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/katja/vegetarisch/tagliatelle_mit_gorgonzolasosse_walnuessen_und_radicchio.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:41:28+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 3399686869fca4efdcd77639725304c9a1eac0291533ef717331339b3d750bfa
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -89,11 +92,14 @@ Der Radicchio kommt erst am Schluss in die Sauce, damit er seine Struktur behäl
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.84
+- Berechnet: 2026-05-24T08:41:28+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 11 Zutaten/Mengen ungeklärt
+- Gesamt: 3027 kcal, 83.7 g Protein, 298.8 g KH, 163.3 g Fett
+- Pro Portion: 757 kcal, 20.9 g Protein, 74.7 g KH, 40.8 g Fett
+- Pro 100 g: 280 kcal, 7.8 g Protein, 27.7 g KH, 15.1 g Fett
+- Annahmen: 1 Zwiebel mit ca. 80 g essbarem Anteil angesetzt.; Olivenöl als 1 EL bzw. ca. 10 g für das Anschwitzen angesetzt.; Thymian, Salz und Pfeffer nährwertlich vernachlässigt.; Optionales geröstetes Brot nicht eingerechnet.

@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:41:47+00:00'
 eingereicht_von_rolle: admin
 slug: germknoedel_dampfnudeln
 sichtbarkeit: private
 rezept_id: private__krystof__backen__germknoedel__dampfnudeln
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/germknoedel_dampfnudeln.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/germknoedel_dampfnudeln.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:41:47+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 051299ac6916ea3395951f4f88860039e5f5eb9b05c545ce93a638403a994123
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -90,12 +93,14 @@ Luftige Germknödel aus fluffigem Hefeteig mit Zwetschgenröster und selbstgemac
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.19
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.91
+- Berechnet: 2026-05-24T08:41:47+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 1809 kcal, 28.5 g Protein, 302.9 g KH, 51.5 g Fett
-- Pro Portion: 452 kcal, 7.1 g Protein, 75.7 g KH, 12.9 g Fett
-- Pro 100 g: 421 kcal, 6.6 g Protein, 70.4 g KH, 12.0 g Fett
-- Review-Hinweis: 10 Zutaten/Mengen ungeklärt
+- Gesamt: 2735 kcal, 72.1 g Protein, 368.8 g KH, 104.2 g Fett
+- Pro Portion: 684 kcal, 18.0 g Protein, 92.2 g KH, 26.1 g Fett
+- Pro 100 g: 155 kcal, 4.1 g Protein, 20.8 g KH, 5.9 g Fett
+- Annahmen: 1 Ei als 60 g mit ca. 50 g essbarem Anteil angesetzt.; 1 Pck. Vanillepuddingpulver mit 37 g angesetzt.; 4 EL Mohn als 32 g, 2 EL Puderzucker als 20 g angesetzt.; 1 Prise Salz energetisch vernachlässigt.

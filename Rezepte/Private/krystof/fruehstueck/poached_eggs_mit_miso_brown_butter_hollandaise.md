@@ -41,15 +41,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:43:21+00:00'
 eingereicht_von_rolle: admin
 slug: poached_eggs_mit_miso_brown_butter_hollandaise
 sichtbarkeit: private
 rezept_id: private__krystof__fruehstueck__poached__eggs__mit__miso__brown__butter__hollandaise
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/fruehstueck/poached_eggs_mit_miso_brown_butter_hollandaise.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/fruehstueck/poached_eggs_mit_miso_brown_butter_hollandaise.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:43:21+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 46a468e2a32900406cf20e9fd932af3e1d969e4f83c946cd651517b8cbcb4e78
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -94,12 +97,14 @@ Stabmixer statt Standmixer — bei kleinen Mengen unbedingt. Die Nussbutter-Rös
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.09
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.79
+- Berechnet: 2026-05-24T08:43:21+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 1224 kcal, 1.5 g Protein, 1.4 g KH, 137.9 g Fett
-- Pro Portion: 612 kcal, 0.8 g Protein, 0.7 g KH, 68.9 g Fett
-- Pro 100 g: 715 kcal, 0.9 g Protein, 0.8 g KH, 80.5 g Fett
-- Review-Hinweis: 13 Zutaten/Mengen ungeklärt
+- Gesamt: 2061 kcal, 33.8 g Protein, 71.2 g KH, 180.4 g Fett
+- Pro Portion: 1030 kcal, 16.9 g Protein, 35.6 g KH, 90.2 g Fett
+- Pro 100 g: 298 kcal, 4.9 g Protein, 10.3 g KH, 26.1 g Fett
+- Annahmen: 2 EL Vollmilch als 30 ml gerechnet.; 3 große Eigelb mit ca. 17 g essbarem Anteil je Stück gerechnet.; 2½ EL Miso-Paste mit ca. 42 g gerechnet.; 1 EL + 1 TL Zitronensaft als ca. 20 ml gerechnet.

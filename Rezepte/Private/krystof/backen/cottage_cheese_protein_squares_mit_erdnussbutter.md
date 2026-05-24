@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:41:43+00:00'
 eingereicht_von_rolle: admin
 slug: cottage_cheese_protein_squares_mit_erdnussbutter
 sichtbarkeit: private
 rezept_id: private__krystof__backen__cottage__cheese__protein__squares__mit__erdnussbutter
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/backen/cottage_cheese_protein_squares_mit_erdnussbutter.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/backen/cottage_cheese_protein_squares_mit_erdnussbutter.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:41:43+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: d1b42a4c1af9bc2391b11dfc7ba0472cc1ddc967729248c991c1fe771acee811
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -88,11 +91,14 @@ Saubere Version nach Screenshot-Extraktion eines Social-Media-Posts von ‚Nouri
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.77
+- Berechnet: 2026-05-24T08:41:43+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 3264 kcal, 175.7 g Protein, 165.1 g KH, 209.6 g Fett
+- Pro Portion: 816 kcal, 43.9 g Protein, 41.3 g KH, 52.4 g Fett
+- Pro 100 g: 423 kcal, 22.8 g Protein, 21.4 g KH, 27.2 g Fett
+- Annahmen: 1 cup Cottage Cheese als ca. 225 g Vollfett-Cottage-Cheese angesetzt.; 1 cup Mandelmehl als ca. 96 g angesetzt.; Proteinpulver mit 1,25 Scoops als Mittelwert zwischen 1 und 1,5 Scoops gerechnet; 1 Scoop ca. 30 g.; 1/2 cup Erdnussbutter als ca. 128 g angesetzt.

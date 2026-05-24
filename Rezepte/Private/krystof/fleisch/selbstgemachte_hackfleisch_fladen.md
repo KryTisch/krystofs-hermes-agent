@@ -28,7 +28,7 @@ zutaten_kurz:
 - frischer Knoblauch nach Geschmack
 - Pfeffer nach Geschmack
 - gemahlener Koriander (ordentliche Menge)
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:43:10+00:00'
 eingereicht_von_rolle: admin
 slug: selbstgemachte_hackfleisch_fladen
 sichtbarkeit: private
@@ -47,8 +47,11 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:43:10+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 2c1f419bf51fbfedff3beffbfe79fabb2779bd5db0d3a4ec6b2c7cd4142baa52
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -85,14 +88,17 @@ Passt hervorragend zum Türkischen Gurkensalat (bereits in der Datenbank). Hackf
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.74
+- Berechnet: 2026-05-24T08:43:10+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 3
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 7 Zutaten/Mengen ungeklärt
+- Gesamt: 2480 kcal, 262.0 g Protein, 9.0 g KH, 156.0 g Fett
+- Pro Portion: 827 kcal, 87.3 g Protein, 3.0 g KH, 52.0 g Fett
+- Pro 100 g: 326 kcal, 34.5 g Protein, 1.2 g KH, 20.5 g Fett
+- Annahmen: Hackfleisch als Rinderhack mit ca. 20 % Fett angesetzt.; 1 EL Knoblauchpulver mit ca. 9 g gerechnet.; Frischer Knoblauch mangels Menge pauschal mit 1 Zehe bzw. 5 g angesetzt.; Koriander als gemahlen, ordentliche Menge pauschal mit 2 TL bzw. ca. 4 g angesetzt.
 
 ## Rezeptprofil
 

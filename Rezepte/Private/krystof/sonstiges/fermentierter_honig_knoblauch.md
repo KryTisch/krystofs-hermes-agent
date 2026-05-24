@@ -37,15 +37,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:44:44+00:00'
 eingereicht_von_rolle: admin
 slug: fermentierter_honig_knoblauch
 sichtbarkeit: private
 rezept_id: private__krystof__sonstiges__fermentierter__honig__knoblauch
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/sonstiges/fermentierter_honig_knoblauch.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/sonstiges/fermentierter_honig_knoblauch.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:44:44+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 6e38828461bd99c699690e782264742f95bcc39ca15438f3a2654a936fc40477
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -79,11 +82,14 @@ Roher Honig ist essenziell — pasteurisierter Honig funktioniert nicht. Knoblau
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.33
+- Berechnet: 2026-05-24T08:44:44+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 1
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 3 Zutaten/Mengen ungeklärt
+- Gesamt: 2195 kcal, 9.8 g Protein, 609.5 g KH, 1.5 g Fett
+- Pro Portion: 2195 kcal, 9.8 g Protein, 609.5 g KH, 1.5 g Fett
+- Pro 100 g: 293 kcal, 1.3 g Protein, 81.3 g KH, 0.2 g Fett
+- Annahmen: Mengen nicht angegeben; typische Ansatzmenge für 1 mittelgroßes Schraubglas geschätzt.; Angenommen: ca. 250 g geschälte Knoblauchzehen und 500 g roher Honig zum vollständigen Bedecken.; Fermentation verändert Makros nur gering; prozessbedingte Verluste vernachlässigt.; Endgewicht als essbare Gesamtcharge ohne Glas geschätzt.

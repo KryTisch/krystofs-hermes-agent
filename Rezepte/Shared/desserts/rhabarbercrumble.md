@@ -38,7 +38,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:47:12+00:00'
 eingereicht_von_rolle: reader
 slug: rhabarbercrumble
 sichtbarkeit: shared
@@ -49,8 +49,11 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-23T06:00:32+00:00'
 published_at: '2026-05-23T06:00:32+00:00'
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:47:12+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 1baa53e1383677bbc43d7d0ce0eda36ed9a05eb59175ff9ded5e9fa69df4dfe8
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -93,12 +96,14 @@ Statt Rhabarber kann auch ein Himbeer-Heidelbeer-Mix verwendet werden.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.05
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.88
+- Berechnet: 2026-05-24T08:47:12+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 320 kcal, 0.0 g Protein, 80.0 g KH, 0.0 g Fett
-- Pro Portion: 80 kcal, 0.0 g Protein, 20.0 g KH, 0.0 g Fett
-- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
-- Review-Hinweis: 11 Zutaten/Mengen ungeklärt
+- Gesamt: 2749 kcal, 30.9 g Protein, 335.7 g KH, 146.2 g Fett
+- Pro Portion: 687 kcal, 7.7 g Protein, 83.9 g KH, 36.5 g Fett
+- Pro 100 g: 292 kcal, 3.3 g Protein, 35.6 g KH, 15.5 g Fett
+- Annahmen: 1 Pck. Vanillezucker mit 8 g angesetzt.; 1 EL Speisestärke mit 10 g angesetzt.; 1 TL Zimt mit ca. 2 g und 1 Prise Salz mit ca. 0,5 g angesetzt.; 80 g Margarine als übliche Backmargarine mit ca. 80 % Fett berechnet.

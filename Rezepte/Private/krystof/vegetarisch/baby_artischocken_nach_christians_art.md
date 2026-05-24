@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:44:49+00:00'
 eingereicht_von_rolle: admin
 slug: baby_artischocken_nach_christians_art
 sichtbarkeit: private
 rezept_id: private__krystof__vegetarisch__baby__artischocken__nach__christians__art
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/vegetarisch/baby_artischocken_nach_christians_art.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/vegetarisch/baby_artischocken_nach_christians_art.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:44:49+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: ea51ee235ec469c4415da796ecf3f8d18a05898c97255cc6145abf42a79863ba
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -88,11 +91,14 @@ Der Schlüssel ist Frische. Kleine, schmale französische Baby-Artischocken sind
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.39
+- Berechnet: 2026-05-24T08:44:49+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 7 Zutaten/Mengen ungeklärt
+- Gesamt: 630 kcal, 18.0 g Protein, 30.0 g KH, 49.0 g Fett
+- Pro Portion: 158 kcal, 4.5 g Protein, 7.5 g KH, 12.2 g Fett
+- Pro 100 g: 150 kcal, 4.3 g Protein, 7.1 g KH, 11.7 g Fett
+- Annahmen: Rezept als gebratene Variante geschätzt, da rohe und gebratene Variante ohne Mengenangaben alternativ beschrieben sind.; Angenommen: ca. 500 g frische Baby-Artischocken ungeputzt, essbarer Endanteil ca. 220 g.; Angenommen: 40 g Olivenöl insgesamt, davon weitgehend im Gericht verbleibend.; Angenommen: 30 g Parmesan, 15 g Zitronensaft, 1 Knoblauchzehe, Salz/Pfeffer vernachlässigbar.

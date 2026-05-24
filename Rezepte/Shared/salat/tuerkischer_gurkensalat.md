@@ -30,7 +30,7 @@ zutaten_kurz:
 - 2 kleine Knoblauchzehen, gerieben
 - Minze, sehr fein gehackt (großzügige Menge)
 - Weißweinessig, ein großzügiger Schuss
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:31+00:00'
 eingereicht_von_rolle: admin
 slug: tuerkischer_gurkensalat
 sichtbarkeit: shared
@@ -50,8 +50,11 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:31+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 5ac251fecdd9a94deb42ae09f72f1af514d1ae51cfc4060d8f81be2c989516c3
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -92,14 +95,17 @@ Koriander war ursprünglich geplant, wurde durch Minze ersetzt. Knoblauch gerieb
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.71
+- Berechnet: 2026-05-24T08:48:31+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 3
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 12 Zutaten/Mengen ungeklärt
+- Gesamt: 176 kcal, 8.0 g Protein, 31.1 g KH, 2.5 g Fett
+- Pro Portion: 59 kcal, 2.7 g Protein, 10.4 g KH, 0.8 g Fett
+- Pro 100 g: 26 kcal, 1.2 g Protein, 4.5 g KH, 0.4 g Fett
+- Annahmen: 2 Gurken als Salatgurken à ca. 300 g essbar angesetzt; 1 mittelgroße rote Zwiebel mit ca. 80 g essbar angesetzt; 2 kleine Knoblauchzehen mit ca. 6 g angesetzt; Minze großzügig mit ca. 10 g angesetzt
 
 ## Rezeptprofil
 

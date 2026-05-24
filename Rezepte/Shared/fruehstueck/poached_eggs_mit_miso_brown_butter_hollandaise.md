@@ -41,15 +41,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:47:57+00:00'
 eingereicht_von_rolle: admin
 slug: poached_eggs_mit_miso_brown_butter_hollandaise
 sichtbarkeit: shared
 rezept_id: shared__fruehstueck__poached__eggs__mit__miso__brown__butter__hollandaise
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fruehstueck/poached_eggs_mit_miso_brown_butter_hollandaise.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/fruehstueck/poached_eggs_mit_miso_brown_butter_hollandaise.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:47:57+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: d6dc94a3a6eb9563dabe5cdecd74042bbff74e9de037967dee5cc08fea5941f0
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -94,12 +97,14 @@ Stabmixer statt Standmixer — bei kleinen Mengen unbedingt. Die Nussbutter-Rös
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.09
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.75
+- Berechnet: 2026-05-24T08:47:57+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 1224 kcal, 1.5 g Protein, 1.4 g KH, 137.9 g Fett
-- Pro Portion: 612 kcal, 0.8 g Protein, 0.7 g KH, 68.9 g Fett
-- Pro 100 g: 715 kcal, 0.9 g Protein, 0.8 g KH, 80.5 g Fett
-- Review-Hinweis: 13 Zutaten/Mengen ungeklärt
+- Gesamt: 2128 kcal, 35.2 g Protein, 67.8 g KH, 188.6 g Fett
+- Pro Portion: 1064 kcal, 17.6 g Protein, 33.9 g KH, 94.3 g Fett
+- Pro 100 g: 295 kcal, 4.9 g Protein, 9.4 g KH, 26.1 g Fett
+- Annahmen: Olivenöl zum Toasten mit ca. 10 g angesetzt.; 2 dicke Scheiben Landbrot zusammen mit ca. 140 g essbarem Brot gerechnet.; 3 große Schalotten essbar ca. 90 g angesetzt.; Von der Chili-Einlegeflüssigkeit bleibt nach dem Abtropfen nur ein kleiner Anteil an den Schalotten; pauschal ca. 10 kcal und 2 g Kohlenhydrate berücksichtigt.

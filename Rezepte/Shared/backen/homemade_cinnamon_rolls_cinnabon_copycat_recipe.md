@@ -37,15 +37,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:46:07+00:00'
 eingereicht_von_rolle: admin
 slug: homemade_cinnamon_rolls_cinnabon_copycat_recipe
 sichtbarkeit: shared
 rezept_id: shared__backen__homemade__cinnamon__rolls__cinnabon__copycat__recipe
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/backen/homemade_cinnamon_rolls_cinnabon_copycat_recipe.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/backen/homemade_cinnamon_rolls_cinnabon_copycat_recipe.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:46:07+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: cae2368774b1e1dba2324b711a0a113405fd7211af5280eac05d9b52e6823501
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -103,11 +106,14 @@ The best homemade cinnamon rolls ever! If you love gooey cinnamon buns, THIS is 
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.83
+- Berechnet: 2026-05-24T08:46:07+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 12
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 15 Zutaten/Mengen ungeklärt
+- Gesamt: 6960 kcal, 97.0 g Protein, 953.0 g KH, 317.0 g Fett
+- Pro Portion: 580 kcal, 8.1 g Protein, 79.4 g KH, 26.4 g Fett
+- Pro 100 g: 357 kcal, 5.0 g Protein, 48.9 g KH, 16.3 g Fett
+- Annahmen: 1 cup Milch = ca. 244 g Vollmilch.; 2,5 TL Instanthefe = ca. 8 g.; 4,5 cups Brotmehl = ca. 540 g; vollständige Menge angesetzt.; 1/3 cup Butter = ca. 76 g, 1/2 cup Butter = ca. 113 g; insgesamt ca. 265 g Butter im Rezept.

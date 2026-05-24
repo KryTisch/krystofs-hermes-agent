@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:42:23+00:00'
 eingereicht_von_rolle: admin
 slug: brot_44_reines_roggen_sauerteigbrot
 sichtbarkeit: private
 rezept_id: private__krystof__brot__brot__44__reines__roggen__sauerteigbrot
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/brot/brot_44_reines_roggen_sauerteigbrot.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/brot/brot_44_reines_roggen_sauerteigbrot.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:42:23+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: ebf163886be29b79e505b8c2bd07147d752a8addfcb985f20883a014ce2074c9
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -87,11 +90,14 @@ path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/k
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.90
+- Berechnet: 2026-05-24T08:42:23+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 12
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 7 Zutaten/Mengen ungeklärt
+- Gesamt: 1640 kcal, 46.2 g Protein, 335.7 g KH, 7.9 g Fett
+- Pro Portion: 137 kcal, 3.9 g Protein, 28.0 g KH, 0.7 g Fett
+- Pro 100 g: 204 kcal, 5.7 g Protein, 41.7 g KH, 1.0 g Fett
+- Annahmen: Anstellgut als 100% Hydration angenommen (ca. 35 g Roggenmehl, 35 g Wasser).; Roggenmehl Type 997 mit üblichen Nährwerten je 100 g kalkuliert.; 320 ml Wasser als 320 g angesetzt.; Salz ohne Energie berücksichtigt.

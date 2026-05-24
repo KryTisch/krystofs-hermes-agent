@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:44:28+00:00'
 eingereicht_von_rolle: admin
 slug: cowboy_butter_mit_cream_cheese
 sichtbarkeit: private
 rezept_id: private__krystof__sonstiges__cowboy__butter__mit__cream__cheese
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/sonstiges/cowboy_butter_mit_cream_cheese.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/sonstiges/cowboy_butter_mit_cream_cheese.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:44:28+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: d78a8256c832b7c4878d4d62a190bf149d3a188e6f0b6706b9378c9ca89ad4f8
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -87,12 +90,14 @@ Rezept kann problemlos halbiert werden. Lässt sich einfrieren. Cream Cheese mac
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.05
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.81
+- Berechnet: 2026-05-24T08:44:28+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 10
-- Gesamt: 1613 kcal, 2.0 g Protein, 0.2 g KH, 182.5 g Fett
-- Pro Portion: 161 kcal, 0.2 g Protein, 0.0 g KH, 18.2 g Fett
-- Pro 100 g: 717 kcal, 0.9 g Protein, 0.1 g KH, 81.1 g Fett
-- Review-Hinweis: 11 Zutaten/Mengen ungeklärt
+- Gesamt: 2327 kcal, 17.8 g Protein, 30.2 g KH, 238.9 g Fett
+- Pro Portion: 233 kcal, 1.8 g Protein, 3.0 g KH, 23.9 g Fett
+- Pro 100 g: 414 kcal, 3.2 g Protein, 5.4 g KH, 42.5 g Fett
+- Annahmen: 1 Stick Butter gemäß Angabe zusammen insgesamt 225 g Butter.; Frischkäse als Vollfett-Doppelrahmstufe/Philadelphia mit ca. 200 g angesetzt.; Saft und Abrieb von 2 Zitronen zusammen mit ca. 60 g essbarem Anteil berücksichtigt.; Kräuter und Gewürze mit üblichen Haushaltsmengen umgerechnet: 2 TL Thymian, 2 EL Schnittlauch, 4 EL Petersilie, 2 TL Chiliflocken, 2 TL Paprika, 2 TL Cayenne.

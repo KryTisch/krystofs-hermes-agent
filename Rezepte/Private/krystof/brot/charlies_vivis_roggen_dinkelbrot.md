@@ -42,15 +42,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:42:28+00:00'
 eingereicht_von_rolle: admin
 slug: charlies_vivis_roggen_dinkelbrot
 sichtbarkeit: private
 rezept_id: private__krystof__brot__charlies__vivis__roggen__dinkelbrot
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/brot/charlies_vivis_roggen_dinkelbrot.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/brot/charlies_vivis_roggen_dinkelbrot.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:42:28+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: a16d97ae53fe8be9182ed1fe3c5aafb736acd858208e2ba365e31bcd46d0429f
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -93,11 +96,14 @@ Rezept von Charlie & Vivi. Die Sauerteig-Aktivierung ergibt ~450 g — nur 210 g
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.92
+- Berechnet: 2026-05-24T08:42:28+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 12
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 1847 kcal, 51.1 g Protein, 363.0 g KH, 7.3 g Fett
+- Pro Portion: 154 kcal, 4.3 g Protein, 30.2 g KH, 0.6 g Fett
+- Pro 100 g: 208 kcal, 5.8 g Protein, 41.0 g KH, 0.8 g Fett
+- Annahmen: Nur 210 g des aktivierten Sauerteigs werden verwendet; übriges Anstellgut nicht mitgerechnet.; 210 g aktiver Sauerteig als Mischung aus ca. 70 g Roggen-Anstellgut, 70 g Roggenmehl und 70 g Wasser modelliert.; Roggen-Anstellgut näherungsweise wie 100% hydratisierter Sauerteig berechnet.; Roggenmalz als enzymaktives/diastatisches Malz mit überwiegend Kohlenhydraten angesetzt.

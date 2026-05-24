@@ -40,15 +40,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:12+00:00'
 eingereicht_von_rolle: admin
 slug: creamy_bucatini_with_roasted_seaweed
 sichtbarkeit: shared
 rezept_id: shared__pasta__creamy__bucatini__with__roasted__seaweed
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/pasta/creamy_bucatini_with_roasted_seaweed.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/pasta/creamy_bucatini_with_roasted_seaweed.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:12+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 0ae9f5b5c239bcc8e0366ba4a13a79f3cc1fb73cc6af4f70a0eae667e052d998
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -84,11 +87,14 @@ Roasted seaweed snacks and heavy cream make an unexpected (and totally delicious
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.89
+- Berechnet: 2026-05-24T08:48:12+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 9 Zutaten/Mengen ungeklärt
+- Gesamt: 1492 kcal, 23.9 g Protein, 72.5 g KH, 123.1 g Fett
+- Pro Portion: 746 kcal, 11.9 g Protein, 36.2 g KH, 61.5 g Fett
+- Pro 100 g: 287 kcal, 4.6 g Protein, 13.9 g KH, 23.7 g Fett
+- Annahmen: 6 oz Pasta als Trockenware angesetzt (ca. 170 g).; 1 cup Sahne mit ca. 240 ml bzw. 238 g berechnet.; 2 große Knoblauchzehen mit zusammen ca. 12 g angesetzt.; 0,70 oz geröstete gewürzte Algensnacks mit ca. 20 g essbarem Gewicht angesetzt.

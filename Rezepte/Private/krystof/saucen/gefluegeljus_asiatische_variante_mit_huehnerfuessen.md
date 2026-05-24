@@ -43,15 +43,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:44:17+00:00'
 eingereicht_von_rolle: admin
 slug: gefluegeljus_asiatische_variante_mit_huehnerfuessen
 sichtbarkeit: private
 rezept_id: private__krystof__saucen__gefluegeljus__asiatische__variante__mit__huehnerfuessen
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/saucen/gefluegeljus_asiatische_variante_mit_huehnerfuessen.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/saucen/gefluegeljus_asiatische_variante_mit_huehnerfuessen.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:44:17+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: a351ce33f6268c4b7118a2a147fb2e92cd273f919c6eeccfa745a138c2f9c4f0
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -99,12 +102,14 @@ Originalrezept von Christian Bau (3 Sterne, Nennig), via liebemitbiss.com. Kryst
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.08
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.66
+- Berechnet: 2026-05-24T08:44:17+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 6
-- Gesamt: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
-- Pro Portion: 147 kcal, 0.0 g Protein, 0.0 g KH, 16.7 g Fett
-- Pro 100 g: 29 kcal, 0.0 g Protein, 0.0 g KH, 3.2 g Fett
-- Review-Hinweis: 15 Zutaten/Mengen ungeklärt
+- Gesamt: 1730 kcal, 149.0 g Protein, 44.0 g KH, 103.0 g Fett
+- Pro Portion: 288 kcal, 24.8 g Protein, 7.3 g KH, 17.2 g Fett
+- Pro 100 g: 173 kcal, 14.9 g Protein, 4.4 g KH, 10.3 g Fett
+- Annahmen: Endmenge laut Rezept auf ca. 1 Liter reduziert; essbares Endgewicht daher mit 1000 g angesetzt.; Nährwerte basieren auf üblicher Auslaugung aus Karkassen, Keulen und Hühnerfüßen; nicht das volle Rohgewicht geht in die Jus über.; Für das abgeschüttete Fett wurde ein deutlicher Verlust angenommen; nur ein Teil von Öl und Geflügelfett verbleibt in der fertigen Jus.; Gewürze, Thymian und Pfeffer nur gering angesetzt; Salz nicht berechnet.

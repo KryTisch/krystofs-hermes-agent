@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:49:06+00:00'
 eingereicht_von_rolle: admin
 slug: ezme_tuerkische_paprika_tomaten_paste
 sichtbarkeit: shared
 rezept_id: shared__sonstiges__ezme__tuerkische__paprika__tomaten__paste
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/sonstiges/ezme_tuerkische_paprika_tomaten_paste.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/sonstiges/ezme_tuerkische_paprika_tomaten_paste.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:49:06+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: cec54fd958a72664980f89a0172197663901a3fa22b43423561a5b0d1d9868b9
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -89,12 +92,14 @@ Das Auspressen des Wassers ist entscheidend — sonst wird die Ezme wässrig. Sc
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.05
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.85
+- Berechnet: 2026-05-24T08:49:06+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 6
-- Gesamt: 530 kcal, 0.0 g Protein, 0.0 g KH, 60.0 g Fett
-- Pro Portion: 88 kcal, 0.0 g Protein, 0.0 g KH, 10.0 g Fett
-- Pro 100 g: 884 kcal, 0.0 g Protein, 0.0 g KH, 100.0 g Fett
-- Review-Hinweis: 12 Zutaten/Mengen ungeklärt
+- Gesamt: 885 kcal, 11.7 g Protein, 74.7 g KH, 57.5 g Fett
+- Pro Portion: 148 kcal, 1.9 g Protein, 12.5 g KH, 9.6 g Fett
+- Pro 100 g: 112 kcal, 1.5 g Protein, 9.5 g KH, 7.3 g Fett
+- Annahmen: 2 Rispentomaten zusammen ca. 240 g essbar angesetzt.; 2 rote Spitzpaprika zusammen ca. 200 g, 3 grüne Spitzpaprika zusammen ca. 240 g essbar angesetzt.; 1 weiße Zwiebel mit ca. 100 g essbar angesetzt, 1 Knoblauchzehe ca. 3 g.; Paprikamark 2 EL ca. 40 g, Tomatenmark 1 EL ca. 20 g.

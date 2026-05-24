@@ -38,15 +38,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:47:18+00:00'
 eingereicht_von_rolle: admin
 slug: thousand_layer_apple
 sichtbarkeit: shared
 rezept_id: shared__desserts__thousand__layer__apple
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/desserts/thousand_layer_apple.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/desserts/thousand_layer_apple.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:47:18+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: e3c304cd4ef2b4dcde7a016b76b5753a1ecbbd61ae1df2036739a8a00a8a9d20
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -84,12 +87,14 @@ Vollständig auskühlen ist entscheidend — warm fällt es auseinander. Mit Van
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.22
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.57
+- Berechnet: 2026-05-24T08:47:18+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 72 kcal, 0.2 g Protein, 19.1 g KH, 0.1 g Fett
-- Pro Portion: 36 kcal, 0.1 g Protein, 9.5 g KH, 0.0 g Fett
-- Pro 100 g: 362 kcal, 1.0 g Protein, 95.2 g KH, 0.3 g Fett
-- Review-Hinweis: 4 Zutaten/Mengen ungeklärt
+- Gesamt: 876 kcal, 9.6 g Protein, 63.6 g KH, 65.5 g Fett
+- Pro Portion: 438 kcal, 4.8 g Protein, 31.8 g KH, 32.8 g Fett
+- Pro 100 g: 350 kcal, 3.8 g Protein, 25.4 g KH, 26.2 g Fett
+- Annahmen: 1 großer Apfel essbar ca. 200 g; Butter mit 3,5 EL angesetzt, davon ein Teil abgegossen; verzehrt ca. 35 g; Blätterteig mangels Menge als ca. 100 g fertiger ausgerollter Blätterteig geschätzt; 1 EL brauner Zucker = 12 g

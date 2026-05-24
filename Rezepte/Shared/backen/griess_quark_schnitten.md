@@ -39,7 +39,7 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:45:58+00:00'
 eingereicht_von_rolle: contributor
 slug: griess_quark_schnitten
 sichtbarkeit: shared
@@ -50,8 +50,11 @@ approved_by: Krystof
 approved_by_user_id: '7746126677'
 approved_at: '2026-05-23T06:01:09+00:00'
 published_at: '2026-05-23T06:01:09+00:00'
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:45:58+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: bfbb3e92eb6c968adabc1ebfa418f4796685f1baf63fc88ffcde2aeba3d6b135
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -88,11 +91,14 @@ Das Obst ist variabel: entweder Mandarinen oder Erdbeeren mit Banane verwenden.
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.77
+- Berechnet: 2026-05-24T08:45:58+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 6 Zutaten/Mengen ungeklärt
+- Gesamt: 525 kcal, 34.4 g Protein, 73.5 g KH, 10.9 g Fett
+- Pro Portion: 131 kcal, 8.6 g Protein, 18.4 g KH, 2.7 g Fett
+- Pro 100 g: 93 kcal, 6.1 g Protein, 13.1 g KH, 1.9 g Fett
+- Annahmen: Quark als Mittelwert mit 30 % Fett i. Tr. angenähert, ca. 121 kcal pro 100 g.; 2 Eier als essbarer Anteil ca. 100 g insgesamt angesetzt.; 1/2 Päckchen Backpulver mit ca. 8 g berechnet.; 3 EL Apfelmark als ca. 45 g ohne Zuckerzusatz angesetzt.

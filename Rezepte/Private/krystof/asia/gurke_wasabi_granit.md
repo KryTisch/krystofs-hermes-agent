@@ -41,15 +41,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:41:33+00:00'
 eingereicht_von_rolle: admin
 slug: gurke_wasabi_granit
 sichtbarkeit: private
 rezept_id: private__krystof__asia__gurke__wasabi__granit
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/private/krystof/asia/gurke_wasabi_granit.md
 obsidian_path: /root/obsidian-vault/Rezepte/Private/krystof/asia/gurke_wasabi_granit.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:41:33+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 1615ba9364fced2b9857a48493f1008347a1b55a4e4eab1919475c11247771b8
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -85,12 +88,14 @@ Passt hervorragend zu Sashimi. Shio Koji gibt eine subtile Umami-Tiefe. Äpfel (
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.08
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.67
+- Berechnet: 2026-05-24T08:41:33+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 60 kcal, 0.0 g Protein, 15.0 g KH, 0.0 g Fett
-- Pro Portion: 15 kcal, 0.0 g Protein, 3.8 g KH, 0.0 g Fett
-- Pro 100 g: 400 kcal, 0.0 g Protein, 100.0 g KH, 0.0 g Fett
-- Review-Hinweis: 7 Zutaten/Mengen ungeklärt
+- Gesamt: 288 kcal, 2.9 g Protein, 55.1 g KH, 0.8 g Fett
+- Pro Portion: 72 kcal, 0.7 g Protein, 13.8 g KH, 0.2 g Fett
+- Pro 100 g: 62 kcal, 0.6 g Protein, 11.8 g KH, 0.2 g Fett
+- Annahmen: 1 Gurke als Salatgurke ca. 350 g mit ca. 180 g Saftausbeute angesetzt.; 2 Granny-Smith-Äpfel zusammen ca. 300 g roh mit ca. 180 g Saftausbeute angesetzt.; Mirin mit üblichem Zucker-/Alkoholgehalt berechnet; Reisessig praktisch kalorienarm.; Shio Koji flüssig mit ca. 35 kcal je 100 ml und geringem Protein/Kohlenhydratanteil geschätzt.

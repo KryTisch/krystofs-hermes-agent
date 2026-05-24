@@ -30,7 +30,7 @@ zutaten_kurz:
 - Bacon
 - Kresse (erst beim Servieren)
 - Kapern, fein gehackt
-aktualisiert_am: '2026-05-23T20:05:25+00:00'
+aktualisiert_am: '2026-05-24T08:45:27+00:00'
 eingereicht_von_rolle: contributor
 slug: vivi_s_kartoffelsalat
 sichtbarkeit: private
@@ -49,8 +49,11 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:25+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:45:27+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 5fa21e7b8e3525277eb9aad2780b51bd6192fb4cfcaccd7527b2e12c669385bc
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -102,14 +105,17 @@ Nur Knax-Gurken verwenden — keine anderen. Das Dressing darf reichlich sein, d
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:25+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.47
+- Berechnet: 2026-05-24T08:45:27+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 19 Zutaten/Mengen ungeklärt
+- Gesamt: 2900 kcal, 44.0 g Protein, 196.0 g KH, 215.0 g Fett
+- Pro Portion: 725 kcal, 11.0 g Protein, 49.0 g KH, 53.8 g Fett
+- Pro 100 g: 165 kcal, 2.5 g Protein, 11.1 g KH, 12.2 g Fett
+- Annahmen: Mengen fehlen; geschätzt für 4 Portionen als große Schüssel Kartoffelsalat.; Angenommen ca. 1200 g gekochte/geschälte festkochende Kartoffeln.; Angenommen ca. 200 g Knax-Gurken, 120 g Bacon, 80 g Schalotten, 30 g Kapern.; Angenommen Dressing mit zusammen ca. 150 g Öl (halb Pflanzenöl, halb Olivenöl), 30 g Senf, 20 g Gurkenwasser, 15 g Essig, 10 g Zitronensaft, 10 g Butter, 8 g Zucker.
 
 ## Rezeptprofil
 

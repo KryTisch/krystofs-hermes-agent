@@ -39,15 +39,18 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:47:44+00:00'
 eingereicht_von_rolle: admin
 slug: popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis
 sichtbarkeit: shared
 rezept_id: shared__fleisch__popcorn__chicken__mit__sesam__honig__sauce__und__koriander__limetten__reis
 source_path: /root/.hermes/profiles/rezepte-bot/home/.hermes/rezepte/sammlung/shared/fleisch/popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis.md
 obsidian_path: /root/obsidian-vault/Rezepte/Shared/fleisch/popcorn_chicken_mit_sesam_honig_sauce_und_koriander_limetten_reis.md
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:47:44+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 2c12fd5d8a849e30ec80094cf7969c90d4dd41839a8a22dd3d8f107700410bcc
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -100,12 +103,14 @@ Perfektes Date-Night-Gericht. Hähnchenschenkel sind saftiger als Brust. Sauce z
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.09
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.72
+- Berechnet: 2026-05-24T08:47:44+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 2
-- Gesamt: 370 kcal, 6.2 g Protein, 86.8 g KH, 0.6 g Fett
-- Pro Portion: 185 kcal, 3.1 g Protein, 43.4 g KH, 0.3 g Fett
-- Pro 100 g: 195 kcal, 3.2 g Protein, 45.7 g KH, 0.3 g Fett
-- Review-Hinweis: 20 Zutaten/Mengen ungeklärt
+- Gesamt: 2840 kcal, 131.0 g Protein, 238.0 g KH, 102.0 g Fett
+- Pro Portion: 1420 kcal, 65.5 g Protein, 119.0 g KH, 51.0 g Fett
+- Pro 100 g: 224 kcal, 10.3 g Protein, 18.7 g KH, 8.0 g Fett
+- Annahmen: 4 große Hähnchenschenkel ohne Haut/Knochen als ca. 700 g essbares Rohgewicht angesetzt.; Zum Frittieren eine realistische Ölaufnahme von ca. 35 g berücksichtigt.; 1 EL Mehl = ca. 10 g, 2 EL Sesam = ca. 18 g, 2 EL Sesamöl = ca. 27 g.; Basmatireis als 200 g Rohgewicht gerechnet; gegartes Endgewicht des Reises ca. 500 g.

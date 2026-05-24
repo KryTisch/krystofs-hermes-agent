@@ -29,7 +29,7 @@ zutaten_kurz:
 - 2 Minigurken, fein gewürfelt
 - 2 Tomaten, entkernt & gewürfelt
 - 1 rote Zwiebel, in sehr feine geviertelte Ringe
-aktualisiert_am: '2026-05-23T20:05:26+00:00'
+aktualisiert_am: '2026-05-24T08:48:08+00:00'
 eingereicht_von_rolle: contributor
 slug: pulposalat
 sichtbarkeit: shared
@@ -53,8 +53,11 @@ passt_zu: []
 servieren_mit: []
 vollstaendiges_gericht: []
 verwandte_rezepte: []
-nutrition_status: needs_review
-nutrition_calculated_at: '2026-05-23T20:05:26+00:00'
+nutrition_status: reviewed
+nutrition_calculated_at: '2026-05-24T08:48:08+00:00'
+nutrition_source: llm_reviewed
+nutrition_model: gpt-5.4
+nutrition_input_hash: 29ca37b2933c5230395df7aa2d66da91aa338c3568daf654d0821d5bde6bf763
 base_rezept_id: ''
 variant_id: ''
 variant_owner_user_id: ''
@@ -99,14 +102,17 @@ Den Pulpo unbedingt noch lauwarm in den Salat geben — so nimmt er die Marinade
 
 ## Nährwerte
 
-- Status: needs_review
-- Quelle: local_cache
-- Confidence: 0.00
-- Berechnet: 2026-05-23T20:05:26+00:00
+- Status: reviewed
+- Quelle: llm_reviewed
+- Confidence: 0.66
+- Berechnet: 2026-05-24T08:48:08+00:00
+- Modell: gpt-5.4
+- Prompt: recipe-nutrition-llm-v1
 - Portionen: 4
-- Gesamt: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Pro Portion: 0 kcal, 0.0 g Protein, 0.0 g KH, 0.0 g Fett
-- Review-Hinweis: 15 Zutaten/Mengen ungeklärt
+- Gesamt: 1390 kcal, 90.0 g Protein, 42.0 g KH, 94.0 g Fett
+- Pro Portion: 348 kcal, 22.5 g Protein, 10.5 g KH, 23.5 g Fett
+- Pro 100 g: 112 kcal, 7.2 g Protein, 3.4 g KH, 7.6 g Fett
+- Annahmen: 1 kleine Selleriestange als Staudensellerie ca. 60 g essbar geschätzt.; 2 Spitzpaprika zusammen ca. 200 g essbar geschätzt.; 2 Minigurken zusammen ca. 160 g, 2 Tomaten entkernt zusammen ca. 180 g angesetzt.; 1 rote Zwiebel ca. 80 g, Petersilie ca. 20 g, Koriander ca. 10 g berücksichtigt.
 
 ## Rezeptprofil
 
